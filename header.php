@@ -47,9 +47,9 @@
                         <li class="dropdown">
                             <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="mission.html" title="">MISSION</a></li>
-                                <li><a href="#" title="">COMMITTEES</a></li>
-                                <li><a href="#" title="">ALLIES</a></li>
+                                <li><a href="mission.php" title="">MISSION</a></li>
+                                <li><a href="committees.php" title="">COMMITTEES</a></li>
+                                <li><a href="allies.php" title="">ALLIES</a></li>
                                 <li><a href="#" title="">PROJECTS</a></li>
                                 <li><a href="#" title="">ALUMNI</a></li>
                             </ul>
@@ -57,15 +57,15 @@
                         <li class="dropdown">
                             <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#" title="">UPCOMING CALENDAR</a></li>
+                                <li><a href="events.php" title="">UPCOMING CALENDAR</a></li>
                                 <li><a href="#" title="">WICHACKS</a></li>
-                                <li><a href="#" title="">ANNUAL EVENTS</a></li>
+                                <li><a href="annual_events.php" title="">ANNUAL EVENTS</a></li>
                             </ul>
                         </li>
                         <li><a href="#" title="">AFTER HOURS</a></li>
                         <li><a href="#" title="">BLOG</a></li>
-                        <li><a href="#" title="">SPONSOR</a></li>
-                        <li><a href="page.html" title="">CONTACT US</a></li>
+                        <li><a href="sponser.php" title="">SPONSOR</a></li>
+                        <li><a href="#" title="">CONTACT US</a></li>
                     </ul>                           
                 </div><!-- /.navbar-collapse -->                
 				<!-- END MAIN NAVIGATION -->
