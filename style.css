@@ -45,7 +45,7 @@ a.none:hover {
 /* Header */
 
 .top {
-    background-color: #404040;
+    background-color: #ffffff;
     color: #fff;
 }
 
@@ -954,16 +954,3 @@ h2.category-title:after {
         float: right !important;
     }
 }
-
-/* Custom WiC Styles (non-template)*/
-/*homepage*/
-#meetingtimes ul{
-    list-style-type: none;
-}
-#featurednews ul{
-    list-style-type: none;
-}
-#headerlogo{
-    height:70px;
-}
-
