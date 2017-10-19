@@ -4,14 +4,14 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 fbox">
                 
                     <ul class="list-inline">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>                        
+                        <li><a target="_blank" href="https://www.facebook.com/WICATRIT/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/RITWIC"><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/rit_wic/"><i class="fa fa-instagram"></i></a></li>                              
                     </ul>
                 </div>
             </div>
         </div>
-        <div id="ritfooter" class="row">
+        <div id="ritfooter" class="row" style="margin:0;">
 			<div class="col-md-6">
 				Copyright &copy; <a href="http://www.rit.edu/">Rochester Institute of Technology</a><br/>
 				<a href="http://www.rit.edu/copyright.html">Copyright Infringement</a> |

@@ -34,7 +34,7 @@
 					<i class="fa fa-bars"></i>
 				</button>
 				<a href="index.php" class="navbar-brand">
-					<img src="img/logo.png" alt="Post">
+					<img id="headerlogo" src="img/logo.png" alt="Post">
 				</a>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">

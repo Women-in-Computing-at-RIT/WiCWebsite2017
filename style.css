@@ -45,7 +45,7 @@ a.none:hover {
 /* Header */
 
 .top {
-    background-color: #ffffff;
+    background-color: #404040;
     color: #fff;
 }
 
@@ -953,4 +953,13 @@ h2.category-title:after {
     .fbox:nth-child(3) {
         float: right !important;
     }
+}
+
+/* Custom WiC Styles (non-template)*/
+/*homepage*/
+#meetingtimes ul{
+    list-style-type: none;
+}
+#headerlogo{
+    height:70px;
 }
