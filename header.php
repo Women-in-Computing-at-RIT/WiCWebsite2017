@@ -9,7 +9,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
-    <link href="ritstyle.css" rel="stylesheet">
+    <link href="css/ritstyle.css" rel="stylesheet">
     
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -18,14 +18,18 @@
 </head>    
 <header class="site-header">
         <div class="top">
-            <div id="metanav">
-		      <p>Site-wide links</p>
-                <ul>
-                    <li id="metaskip"><a href="#pagecontent" title="Skip to content">Skip to content</a></li>
-                    <li id="metarithome"><a href="http://www.rit.edu/" title="RIT Home"><span id="metarithometext">RIT Home</span><span id="metaritlogo"></span></a></li>
-                    <li id="metaritdirectories"><a href="http://www.rit.edu/directories.html">Directories</a></li>
-                </ul>
-	</div>
+            <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="http://www.rit.edu/">
+            <img src="/images/idbar-black.gif" id="rit-logo">
+          </a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="http://www.rit.edu/directories/">Directories</a></li>
+          </ul>
+        </div>
+    </div>
         </div>
         <nav class="navbar navbar-default">
 			<div class="container">
@@ -34,7 +38,7 @@
 					<i class="fa fa-bars"></i>
 				</button>
 				<a href="index.php" class="navbar-brand">
-					<img src="img/logo.png" alt="Post">
+					<img id="headerlogo" src="img/logo.png" alt="Post">
 				</a>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
