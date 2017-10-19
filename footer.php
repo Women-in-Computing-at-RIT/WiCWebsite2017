@@ -25,23 +25,4 @@
 			</div>
 		</div>
     </footer>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-        $('.carousel[data-type="multi"] .item').each(function(){
-          var next = $(this).next();
-          if (!next.length) {
-            next = $(this).siblings(':first');
-          }
-          next.children(':first-child').clone().appendTo($(this));
-
-          for (var i=0;i<4;i++) {
-            next=next.next();
-            if (!next.length) {
-                next = $(this).siblings(':first');
-            }
-
-            next.children(':first-child').clone().appendTo($(this));
-          }
-        });        
-    </script>
+    
