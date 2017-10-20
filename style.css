@@ -963,3 +963,15 @@ h2.category-title:after {
 #headerlogo{
     height:70px;
 }
+/*upcoming events calendar*/
+iframe{
+  width: 90%;
+  height: 500px;
+}
+/*Contact Us Page*/
+form.contact > input, textarea{
+    width: 100%;
+}
+form.contact > textarea{
+    min-height: 200px;
+}

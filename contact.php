@@ -21,8 +21,8 @@
             <div class="row">
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US</h2>
-                    <div class="entry">
-                        <form>
+                    <div class="entry col-sm-10">
+                        <form class="contact">
                             <p>Name</p>
                             <input type="text" name="senderName">
                             <br/><br/>

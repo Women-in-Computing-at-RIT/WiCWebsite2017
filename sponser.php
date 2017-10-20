@@ -20,16 +20,26 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h2 class="page-title">WHY SPONSOR WIC</h2>
+                    <h2 class="page-title">BENEFITS OF SPONSORING WIC</h2>
                     <div class="entry">
                         <ul>
                             <!-- talk to pr about sponsor benefits -->
-                            <li>Sponsor females in computing degrees and field to continue their study </li>
-                            <li>list of the benis</li>
-                            <li>chart for the different tiers?</li>
+                            <li>Support females in computing degrees</li>
+                            <li>Host Tech Talks</li>
                         </ul>
-                        <p style="text-align: center;"><a href="#">Become a Sponser</a></p>
                     </div>
+                    <br/><br/>
+
+                    <h2 class="page-title">SUPPORT WOMEN IN COMPUTING</h2>
+                    <div class="entry">
+                        <ul>
+                            <li>Interested in sponsoring Women in Computing? Send us a message on our <a href="contact.php">Contact Page</a>.</li>
+                            <li>Want to sponsor WiCHacks? Read more on the <a href="https://wichacks.io/">WiCHacks Website</a></li>
+                            <li><a href="contact.php">Donate to Women in Computing</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
+                        </ul>
+
+                    </div>
+
                     <br><br>
                     <h2 class="page-title">OUR SPONSERS</h2>
                     
