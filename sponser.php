@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-     <?php include 'header.php';?>
+    <?php include 'header.php';?>
     <div class="bread_area">
         <div class="container">
             <div class="row">
@@ -17,48 +17,139 @@
     <main class="site-main page-main">
         <div class="container">
             <div class="row">
-                <section class="page col-sm-9">
-                    <h2 class="page-title">MISSION STATEMENT</h2>
-                    <div class="entry">
-                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
-                        <p style="text-align:center"><b><u>2017 -2018 Constitution </u></b></p>
-                    </div>
-                    <br><br>
-                    <h2 class="page-title">WHO WE ARE</h2>
-                    <div class="entry">
-                        <p>Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
-                    </div>
-                    <br><br>
-                    <h2 class="page-title">GOALS</h2>
+                <section class="page col-sm-12">
+                    <h2 class="page-title">WHY SPONSOR WIC</h2>
                     <div class="entry">
                         <ul>
-                            <li>To make the field of computing seem less intimidating to women and allow them to become better integrated within it.</li>
-                            <li>To break down gender barriers in the field and promote a truly equal and inclusive environment.</li>
-                            <li>To organize social events to strengthen relationships to encourage those who may feel ostracized.</li>
-                            <li>To encourage young women ages K-12 to explore computing through outreach programs, camps, and mentorship.</li>
-                            <li>To create opportunities for members to gain and expand their technical knowledge through projects, WiCHacks, tech talks, and conferences.</li>
-                            <li>To provide a channel for distributing event information from other organizations within the field.</li>
-                            <li>To accumulate technical news, knowledge, and information for use in encouraging the involvement of women in the field of computing and providing a clearer path to success within it.</li>
+                            <!-- talk to pr about sponsor benefits -->
+                            <li>Sponsor females in computing degrees and field to continue their study </li>
+                            <li>list of the benis</li>
+                            <li>chart for the different tiers?</li>
                         </ul>
+                        <p style="text-align: center;"><a href="#">Become a Sponser</a></p>
                     </div>
                     <br><br>
-                    <h2 class="page-title">GET INVOLVED</h2>
-                    <div class="entry">
-                        <p>All students in the Rochester Institute of Technology are eligible for membership in WiC at RIT.</p>
+                    <h2 class="page-title">OUR SPONSERS</h2>
+                    
+                    <!-- TIER 1 SPONSORS -->
+                    <div class="row">
+                    <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/350x250" alt="">
+                        <div class="card-body">
+                          <h4 class="card-title">Company</h4>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                        </div>
+                        <div class="card-footer">
+                          <a href="#">Website</a>
+                        </div>
+                      </div>
                     </div>
+                    <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/350x250" alt="">
+                        <div class="card-body">
+                          <h4 class="card-title">Company</h4>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                        </div>
+                        <div class="card-footer">
+                          <a href="#">Website</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/350x250" alt="">
+                        <div class="card-body">
+                          <h4 class="card-title">Company</h4>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                        </div>
+                        <div class="card-footer">
+                          <a href="#">Website</a>
+                        </div>
+                      </div>
+                    </div>
+                    </div>
+                    <br/><br/>
+
+                <!-- TIER 2 SPONSORS -->
+                <div class="row">
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 mb-4">
+                      <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/150x100" alt="">
+                        <div class="card-body">
+                          <h5 class="card-title">Company</h5>
+                        </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <br/><br/>
+                
+                <!-- TIER 3 SPONSORS -->
+                <div class="row text-center">
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-4 mb-4">
+                        <h5>Company Name</h5>
+                    </div>
+                </div>
+
                 </section>
-                <aside class="sidebar col-sm-3">
-                    <div class="widget">
-                        <h4>ABOUT</h4>
-                        <ul>
-                            <li class="current"><a href="#" title="">Mission</a></li>
-                            <li><a href="#" title="">Committees</a></li>
-                            <li><a href="#" title="">Allies</a></li>
-                            <li><a href="#" title="">Projects</a></li>
-                            <li><a href="#" title="">Alumni</a></li>
-                        </ul>
-                    </div>
-                </aside>
+                
             </div>
         </div>
     </main>
