@@ -10,7 +10,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="#">Home</a></li>
-                        <li class="active">About</li>
+                        <li class="active">Sponsor</li>
                     </ol>                    
                 </div>
             </div>

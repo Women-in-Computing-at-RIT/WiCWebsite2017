@@ -9,7 +9,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="#">Home</a></li>
-                        <li>Events</li>
+                        <li><a href="events.php">Events</a></li>
                         <li class="active">WiCHacks</li>
                     </ol>                    
                 </div>
@@ -28,8 +28,7 @@
                            
                         
                         
-                        <iframe width="711" height="400" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0"
-                                    frameborder="0" allowfullscreen></iframe>
+                        <iframe width="711" height="400" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0" frameborder="0" allowfullscreen></iframe>
                         
                     </div>
                 </section>
@@ -37,9 +36,9 @@
                     <div class="widget">
                         <h4>EVENTS</h4>
                         <ul>
-                            <li><a href="#" title="">Upcoming Calendar</a></li>
+                            <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li class="current"><a href="#" title="">WiCHacks</a></li>
-                            <li><a href="#" title="">Annual Events</a></li>
+                            <li><a href="annual_events.php" title="">Annual Events</a></li>
                         </ul>
                     </div>
                 </aside>

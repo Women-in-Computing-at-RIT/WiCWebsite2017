@@ -26,7 +26,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="http://localhost/index.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li>About</li>
                         <li class="active">Allies</li>
                     </ol>                    
                 </div>
@@ -74,11 +75,11 @@
                     <div class="widget">
                         <h4>ABOUT</h4>
                         <ul>
-                            <li class="current"><a href="#" title="">Mission</a></li>
-                            <li><a href="http://wic.rit.edu/committees.php" title="Committees">Committees</a></li>
-                            <li><a href="http://wic.rit.edu/allies.php" title="Allies">Allies</a></li>
-                            <li><a href="http://wic.rit.edu/projects.php" title="Projects">Projects</a></li>
-                            <li><a href="http://wic.rit.edu/alumni.php" title="Alumni">Alumni</a></li>
+                            <li><a href="mission.php" title="">Mission</a></li>
+                            <li><a href="committees.php" title="Committees">Committees</a></li>
+                            <li class="current"><a href="allies.php" title="Allies">Allies</a></li>
+                            <li><a href="projects.php" title="Projects">Projects</a></li>
+                            <li><a href="alumni.php" title="Alumni">Alumni</a></li>
                         </ul>
                     </div>
                 </aside>

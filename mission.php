@@ -54,10 +54,10 @@
                         <h4>ABOUT</h4>
                         <ul>
                             <li class="current"><a href="#" title="">Mission</a></li>
-                            <li><a href="#" title="">Committees</a></li>
-                            <li><a href="#" title="">Allies</a></li>
-                            <li><a href="#" title="">Projects</a></li>
-                            <li><a href="#" title="">Alumni</a></li>
+                            <li><a href="committees.php" title="">Committees</a></li>
+                            <li><a href="allies.php" title="">Allies</a></li>
+                            <li><a href="projects.php" title="">Projects</a></li>
+                            <li><a href="alumni.php" title="">Alumni</a></li>
                         </ul>
                     </div>
                 </aside>

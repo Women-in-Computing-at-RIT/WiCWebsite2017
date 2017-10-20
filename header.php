@@ -46,8 +46,8 @@
                                 <li><a href="mission.php" title="">MISSION</a></li>
                                 <li><a href="committees.php" title="">COMMITTEES</a></li>
                                 <li><a href="allies.php" title="">ALLIES</a></li>
-                                <li><a href="#" title="">PROJECTS</a></li>
-                                <li><a href="#" title="">ALUMNI</a></li>
+                                <li><a href="projects.php" title="">PROJECTS</a></li>
+                                <li><a href="alumni.php" title="">ALUMNI</a></li>
                             </ul>
                         </li>
                         <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks")){echo "active";} ?>">
@@ -58,8 +58,8 @@
                                 <li><a href="annual_events.php" title="">ANNUAL EVENTS</a></li>
                             </ul>
                         </li>
-                        <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="#" title="">AFTER HOURS</a></li>
-                        <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="#" title="">BLOG</a></li>
+                        <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="afterhours.php" title="">AFTER HOURS</a></li>
+                        <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="blog.php" title="">BLOG</a></li>
                         <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="sponser.php" title="">SPONSOR</a></li>
                         <li <?php if($title=="Contact Us"){echo "class='active'";} ?>><a href="contact.php" title="">CONTACT US</a></li>
                     </ul>                           

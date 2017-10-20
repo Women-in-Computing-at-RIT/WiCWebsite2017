@@ -1,5 +1,5 @@
 <!--Committees WiC Page-->
-<?php $title="Committes" ?>
+<?php $title="Committees"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="http://wic.rit.edu/index.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li>About</li>
                         <li class="active">Committees</li>
                     </ol>                    
                 </div>
@@ -65,11 +66,11 @@
                     <div class="widget">
                         <h4>ABOUT</h4>
                         <ul>
-                            <li class="current"><a href="#" title="">Mission</a></li>
-                            <li><a href="http://wic.rit.edu/committees.php" title="Committees">Committees</a></li>
-                            <li><a href="http://wic.rit.edu/allies.php" title="Allies">Allies</a></li>
-                            <li><a href="http://wic.rit.edu/projects.php" title="Projects">Projects</a></li>
-                            <li><a href="http://wic.rit.edu/alumni.php" title="Alumni">Alumni</a></li>
+                            <li><a href="mission.php" title="">Mission</a></li>
+                            <li class="current"><a href="committees.php" title="Committees">Committees</a></li>
+                            <li><a href="allies.php" title="Allies">Allies</a></li>
+                            <li><a href="projects.php" title="Projects">Projects</a></li>
+                            <li><a href="alumni.php" title="Alumni">Alumni</a></li>
                         </ul>
                     </div>
                 </aside>
@@ -77,7 +78,5 @@
         </div>
     </main>
     <?php include 'footer.php';?>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
