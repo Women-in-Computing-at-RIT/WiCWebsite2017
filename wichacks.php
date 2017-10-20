@@ -9,7 +9,8 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="#">Home</a></li>
-                        <li class="active">About</li>
+                        <li>Events</li>
+                        <li class="active">WiCHacks</li>
                     </ol>                    
                 </div>
             </div>
@@ -19,17 +20,17 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-9">
-                    <h2 class="page-title">WiCHacks: Women in Computing's Annual Hackaton</h2>
+                    <h2 class="page-title"><img id="wichackslogoheader" src="img/wichackslogol.png" alt="wichacks logo"/></h2>
                     <div class="entry">
                         <p>WiCHacks is an all women 24-hour hackathon hosted by Women in Computing at RIT. A hackathon is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event.</p>
                         
-                        
-                        <div class="wichackscontent">
+                        <h3><a href="https://wichacks.io/"><img id="wichackslogo" src="img/wichackslogos.png" alt="wichacks logo"/></a> Learn more at <a href="https://wichacks.io/">wichacks.io</a></h3>
                            
-                                <img src="img/wichackslogo.png" alt="wichacks logo"/><br>
-                                <iframe width="560px" height="315px" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0"
+                        
+                        
+                        <iframe width="711" height="400" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0"
                                     frameborder="0" allowfullscreen></iframe>
-                        </div>
+                        
                     </div>
                 </section>
                 <aside class="sidebar col-sm-3">

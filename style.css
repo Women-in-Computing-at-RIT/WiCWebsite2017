@@ -965,8 +965,16 @@ h2.category-title:after {
 #headerlogo{
     height:70px;
 }
+/*wichacks*/
+#wichackslogoheader{
+    height:60px;
+}
+#wichackslogo{
+    height:100px;
+}
+
 /*upcoming events calendar*/
-iframe{
+#wiccalendar{
   width: 90%;
   height: 500px;
 }

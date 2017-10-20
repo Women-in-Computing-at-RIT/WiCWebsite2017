@@ -1,5 +1,5 @@
 <!--Committees WiC Page-->
-<?php $title="Committees" ?>
+<?php $title="Committes" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
