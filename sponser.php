@@ -1,3 +1,5 @@
+<?php $title="Sponsor"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <body>

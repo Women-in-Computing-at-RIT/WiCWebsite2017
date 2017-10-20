@@ -1,3 +1,5 @@
+<?php $title="Contact Us"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <body>
