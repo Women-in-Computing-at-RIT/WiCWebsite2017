@@ -963,3 +963,8 @@ h2.category-title:after {
 #headerlogo{
     height:70px;
 }
+/*upcoming events calendar*/
+iframe{
+  width: 90%;
+  height: 500px;
+}
