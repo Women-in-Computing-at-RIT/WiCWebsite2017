@@ -1,5 +1,5 @@
 <!--Allies WiC Page-->
-
+<?php $title="Allies" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
