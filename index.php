@@ -1,3 +1,4 @@
+<?php $title="Home"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -19,7 +20,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <div class="box">
+                        <div class="box" id="meetingtimes">
                             <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>

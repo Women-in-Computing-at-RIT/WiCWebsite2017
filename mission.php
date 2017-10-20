@@ -1,3 +1,4 @@
+<?php $title="Mission"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
