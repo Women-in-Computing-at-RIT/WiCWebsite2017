@@ -965,6 +965,12 @@ h2.category-title:after {
 #headerlogo{
     height:70px;
 }
+/*mission*/
+.missionpics{
+    padding-bottom: 220px;
+}
+
+
 /*wichacks*/
 #wichackslogoheader{
     height:60px;
