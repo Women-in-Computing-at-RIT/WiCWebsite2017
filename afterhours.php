@@ -21,13 +21,22 @@
                 <section class="page">
                     <h2 class="page-title">AFTER HOURS</h2>
                     <div class="entry">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae mauris tempor, dictum enim nec, laoreet risus. Mauris eget elementum felis. Nam lobortis ipsum in magna finibus scelerisque. Suspendisse turpis augue, aliquam eleifend posuere sed, eleifend consectetur tellus. Phasellus vel leo et turpis scelerisque luctus vitae vulputate mauris. Sed semper metus ut ligula vehicula, vitae fringilla justo viverra. Suspendisse faucibus dictum arcu nec tincidunt. Etiam volutpat facilisis magna, vitae rhoncus enim tempus vel. Donec porttitor sodales posuere.</p>
+                        <h3>Program Date: March 31st or April 7th, 2018</h3>
+
+
+                        <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity to meet new friends and possibly your future roommate! This program is BY INVITE ONLY. Don’t miss this opportunity to get connected to your home away from home!</p>
+                        
+                        <p>BY INVITE ONLY- Invitations are sent to all women students who have been accepted to RIT's B. Thomas Golisano College of Computing and Information Sciences.</p>
                         
                     </div>
                     <br><br>
-                    <h2 class="page-title">Lorem ipsum dolor</h2>
+                    <h2 class="page-title">INFORMATION</h2>
                     <div class="entry">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae mauris tempor, dictum enim nec, laoreet risus. Mauris eget elementum felis. Nam lobortis ipsum in magna finibus scelerisque. Suspendisse turpis augue, aliquam eleifend posuere sed, eleifend consectetur tellus. Phasellus vel leo et turpis scelerisque luctus vitae vulputate mauris. Sed semper metus ut ligula vehicula, vitae fringilla justo viverra. Suspendisse faucibus dictum arcu nec tincidunt. Etiam volutpat facilisis magna, vitae rhoncus enim tempus vel. Donec porttitor sodales posuere.</p>
+                        <ul>
+                            <li><a target="_blank" href="pdfs/2017-FAQ-WiC-Overnight.pdf">Frequently Asked Questions</a></li>
+                            <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
+                            <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
+                        </ul>
                     </div>
                 </section>
             </div>
