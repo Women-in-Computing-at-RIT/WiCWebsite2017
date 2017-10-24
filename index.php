@@ -55,28 +55,48 @@
                         </div>
                     </div>
                     <div class="col-sm-4">
-                        <div class="box">
+                        <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor.</p>
+                            
+                            <b>Volunteer for Girl Scouts Badge Day! </b>
+                                <ul>
+                                    <li>11/4 (9:30am - 4pm)</li>
+                                    <li><a href="">http://bit.ly/GirlScoutsBadgeDay</a></li>
+                                </ul>
+                            <b>RSVP for Google Personal Branding Workshop</b>
+                                <ul>
+                                    <li>10/18 (6-8pm)</li>
+                                    <li><a href="">http://bit.ly/GoogleBrandingWorkshop</a></li>
+                                </ul>
+                            <b>RSVP for Trip to Powers Farm Market</b>
+                                <ul>
+                                    <li>10/22 (2-4pm)</li>
+                                    <li><a href="">http://bit.ly/wic-powers</a></li>
+                                </ul>
+                            <b>Volunteer for ROCGirlHacks</b>
+                                <ul>
+                                    <li>10/28 (9am - 7pm)</li>
+                                    <li><a href="">http://bit.ly/VolunteerROCGirlHacks</a></li>
+                                </ul>
                             <i class="fa fa-calendar"></i>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
-                            <p><a href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
+                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
                                 University News: ROCGirlHacks is Oct. 28</a></p>
-                            <p><a href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
+                            <p><a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
                         Campus Spotlight: WiC and the Girl Scouts</a></p>
-                            <p><a href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
+                            <p><a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
                         Founder of Girls Who Code to speak at RIT </a></p>
-                            <p><a href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
+                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
                             Girl Scouts honor WiC for promoting girls in STEM</a></p>
-                            <p><a href="https://www.youtube.com/watch?v=OqUx7HMd4zY">WiC on TV: Good Day Rochester</a></p>
-                            <p><a href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
+                            <p><a target="_blank" href="https://www.youtube.com/watch?v=OqUx7HMd4zY">WiC on TV: Good Day Rochester</a></p>
+                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
                                 University News: WiC Hacks 2017</a></p>
-                            <p><a href="https://www.youtube.com/watch?v=AS9TWebVQ98">WiC on TV: STEM Fair 2017 - ABC 13</a></p>
-                            <p><a href="https://www.youtube.com/watch?v=KEoWd_4Exag">WiC on TV: STEM Fair 2017 - TWC News</a></p>
+                            <p><a target="_blank" href="https://www.youtube.com/watch?v=AS9TWebVQ98">WiC on TV: STEM Fair 2017 - ABC 13</a></p>
+                            <p><a target="_blank" href="https://www.youtube.com/watch?v=KEoWd_4Exag">WiC on TV: STEM Fair 2017 - TWC News</a></p>
                             <i class="fa fa-newspaper-o"></i>
                         </div>
                     </div>
