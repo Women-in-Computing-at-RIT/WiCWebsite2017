@@ -27,6 +27,7 @@
                               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                               <li data-target="#myCarousel" data-slide-to="1"></li>
                               <li data-target="#myCarousel" data-slide-to="2"></li>
+                              <li data-target="#myCarousel" data-slide-to="3"></li>
                             </ol>
 
                             <!-- Wrapper for slides -->
@@ -39,6 +40,9 @@
                                 <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
                               </div>
 
+                              <div class="item">
+                                <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
+                              </div>
                               <div class="item">
                                 <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
                               </div>
@@ -80,3 +84,10 @@
      <?php include 'footer.php';?>
 </body>
 </html>
+<script>
+    $(function(){
+    $('.carousel').carousel({
+      interval: 2000
+    });
+});
+</script>
