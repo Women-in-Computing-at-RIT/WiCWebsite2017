@@ -25,25 +25,22 @@
                         <h2 class="page-title">WHY SPONSOR WIC?</h2>
                         <div class="entry">
                             <ul>
-                                <!-- talk to pr about sponsor benefits -->
                                 <li>Empower women in computing fields</li>
-                                <li>Recruit students for co-ops</li>
-                                <li>Host Tech Talks</li>
-                                <li>Support future and ongoing projects (This year we're making a Magic Mirror!)</li>
-                                <li></li>
+                                <li>Recruit students for future co-ops</li>
+                                <li>Host Tech Talks, as seen in the image on the right</li>
+                                <li>Support future and ongoing projects (<a target="_blank" href="projects.php">This year we're making a Magic Mirror!</a>)</li>
                             </ul>
-                            <p style="text-align: center;"><a href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
+                            <p style="text-align: center;"><a target="_black" href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
                         </div>
                         </section>  
-                        <div class="col-lg-4 mb-4">
+                            <div class="col-lg-4 mb-4">
                           <div class="card h-100 text-center">
-                            <img class="card-img-top" src="http://placehold.it/350x200" alt="">
+                            <img class="card-img-top" src="img/sponsor/techtalk2017Small.jpg" alt="WillowTree">
                             <div class="card-body">
-                              <h4 class="card-title">Tech Talk</h4>
-                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                              <p class="card-text">WillowTree Tech Talk on Octobor 4th, 2017</p>
                             </div>
                           </div>
-                        </div>  
+                            </div>  
                         </section>
                     </div>
 
@@ -52,18 +49,19 @@
                     <h2 class="page-title">HOW TO: SUPPORT WOMEN IN COMPUTING</h2>
                     <div class="entry">
                         <ul>
-                            <li>Want to get involved with Women in Computing? Send us a message on our <a href="contact.php">Contact Page</a>.</li>
-                            <li><a href="contact.php">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
-                            <li>Want to sponsor WiCHacks? Read more on the <a href="https://wichacks.io/">WiCHacks Website</a></li>
+                            <li>Want to get involved with Women in Computing? Send us a message over on our <a target="_black" href="contact.php">Contact Page</a>.</li>
+                            <li><a target="_black" href="contact.php">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
+                            <li>Want to sponsor WiCHacks? Read more on the <a target="_black" href="https://wichacks.io/">WiCHacks Website</a></li>
                         </ul>
 
                     </div>
 
                     <br><br>
 
+                    <!--
                     <h2 class="page-title">OUR SPONSERS</h2>
                     
-                    <!-- TIER 1 SPONSORS -->
+                    // TIER 1 SPONSORS
                     <div class="row">
                     <div class="col-lg-4 mb-4">
                       <div class="card h-100 text-center">
@@ -104,7 +102,7 @@
                     </div>
                     <br/><br/>
 
-                <!-- TIER 2 SPONSORS -->
+                // TIER 2 SPONSORS
                 <div class="row">
                     <div class="col-lg-2 mb-4">
                       <div class="card h-100 text-center">
@@ -158,7 +156,7 @@
                 </div>
                 <br/><br/>
                 
-                <!-- TIER 3 SPONSORS -->
+                // TIER 3 SPONSORS
                 <div class="row text-center">
                     <div class="col-lg-2 col-sm-4 mb-4">
                         <h5>Company Name</h5>
@@ -178,7 +176,7 @@
                     <div class="col-lg-2 col-sm-4 mb-4">
                         <h5>Company Name</h5>
                     </div>
-                </div>
+                </div>-->
 
                 </section>
                 
