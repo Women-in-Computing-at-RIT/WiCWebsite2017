@@ -27,7 +27,7 @@
                         
                         <div class="row-alliespics">
                             <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder"/>
-                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder"/>
+                            <img class="alliespics" src="img/allieslogo2.jpg" alt="placeholder"/>
                         </div>
                     </div>
                     

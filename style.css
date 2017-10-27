@@ -1014,5 +1014,6 @@ form.contact > textarea{
 }
 
 .committee-head-row {
+    height:150px;
     padding-bottom: 10px;
 }
