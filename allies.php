@@ -24,16 +24,15 @@
                     <h2 class="page-title">ALLIES</h2>
                     <div class="entry">
                         <p>WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
-<!--                        <p style="text-align:center"><b><u>2017 -2018 Constitution </u></b></p>-->
+                        
+                        <div style="text-align:center">
+                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder" style="padding: 10px; padding-bottom:0"/>
+                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder" style="padding: 10px; padding-bottom:0"/>
+                        </div>
                     </div>
+                    
                     <br><br>
-<!--
-                    <h2 class="page-title">CURRENT GOALS</h2>
-                    <div class="entry">
-                        <p>Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
-                    </div>
-                    <br><br>
--->
+
                     <h2 class="page-title">CURRENT GOALS</h2>
                     <div class="entry">
                         <ul>
@@ -51,8 +50,7 @@
                     <div class="entry">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor.</p>
                     </div>
-                    <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="300" height="200" style="padding-right: 20px" />
-                    <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="300" height="200" style="padding-left: 20px"/>
+
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
