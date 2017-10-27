@@ -20,27 +20,33 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h2 class="page-title">BENEFITS OF SPONSORING WIC</h2>
+                    <h2 class="page-title">WHY SPONSOR WIC?</h2>
                     <div class="entry">
                         <ul>
                             <!-- talk to pr about sponsor benefits -->
-                            <li>Support females in computing degrees</li>
+                            <li>Empower women in computing fields</li>
+                            <li>Recruit students for co-ops</li>
                             <li>Host Tech Talks</li>
+                            <li>Support future and ongoing projects (This year we're making a Magic Mirror!)</li>
+                            <li></li>
                         </ul>
+                        <p style="text-align: center;"><a href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
                     </div>
-                    <br/><br/>
 
-                    <h2 class="page-title">SUPPORT WOMEN IN COMPUTING</h2>
+                    <br><br>
+
+                    <h2 class="page-title">HOW TO: SUPPORT WOMEN IN COMPUTING</h2>
                     <div class="entry">
                         <ul>
-                            <li>Interested in sponsoring Women in Computing? Send us a message on our <a href="contact.php">Contact Page</a>.</li>
+                            <li>Want to get involved with Women in Computing? Send us a message on our <a href="contact.php">Contact Page</a>.</li>
+                            <li><a href="contact.php">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
                             <li>Want to sponsor WiCHacks? Read more on the <a href="https://wichacks.io/">WiCHacks Website</a></li>
-                            <li><a href="contact.php">Donate to Women in Computing</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
                         </ul>
 
                     </div>
 
                     <br><br>
+
                     <h2 class="page-title">OUR SPONSERS</h2>
                     
                     <!-- TIER 1 SPONSORS -->
