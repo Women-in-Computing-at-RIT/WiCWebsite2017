@@ -6,7 +6,8 @@
                     <ul class="list-inline">
                         <li><a target="_blank" href="https://www.facebook.com/WICATRIT/"><i class="fa fa-facebook"></i></a></li>
                         <li><a target="_blank" href="https://twitter.com/RITWIC"><i class="fa fa-twitter"></i></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/rit_wic/"><i class="fa fa-instagram"></i></a></li>                              
+                        <li><a target="_blank" href="https://www.instagram.com/rit_wic/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://ritwic.slack.com"><i class="fa fa-slack"></i></a></li>
                     </ul>
                 </div>
             </div>

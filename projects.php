@@ -26,7 +26,7 @@
                         
                     </div>
                     <br><br>
-                    <h2 class="page-title">Lorem ipsum dolor</h2>
+                    <h2 class="page-title">Lorem ipsum dolor hello</h2>
                     <div class="entry">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae mauris tempor, dictum enim nec, laoreet risus. Mauris eget elementum felis. Nam lobortis ipsum in magna finibus scelerisque. Suspendisse turpis augue, aliquam eleifend posuere sed, eleifend consectetur tellus. Phasellus vel leo et turpis scelerisque luctus vitae vulputate mauris. Sed semper metus ut ligula vehicula, vitae fringilla justo viverra. Suspendisse faucibus dictum arcu nec tincidunt. Etiam volutpat facilisis magna, vitae rhoncus enim tempus vel. Donec porttitor sodales posuere.</p>
                     </div>

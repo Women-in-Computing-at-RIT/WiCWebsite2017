@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>About</li>
                         <li class="active">Mission</li>
                     </ol>                    
@@ -23,9 +23,20 @@
                     <h2 class="page-title">MISSION STATEMENT</h2>
                     <div class="entry">
                         <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
-                        <p style="text-align:center"><b><u>2017 -2018 Constitution </u></b></p>
+                        <p style="text-align:center"><a target="_blank" href="pdfs/WiC_Constitution_16_17.pdf"><b>2017 - 2018 Constitution </b></a></p>
+                        
+                        <div id="row" class="missionpics">
+                            <div class="col-lg-4 mb-4">
+                                <img src="http://via.placeholder.com/250x175"/>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <img src="http://via.placeholder.com/250x175"/>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <img src="http://via.placeholder.com/250x175"/>
+                            </div>
+                        </div>
                     </div>
-                    <br><br>
                     <h2 class="page-title">WHO WE ARE</h2>
                     <div class="entry">
                         <p>Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
