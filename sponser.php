@@ -20,17 +20,31 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h2 class="page-title">WHY SPONSOR WIC?</h2>
-                    <div class="entry">
-                        <ul>
-                            <!-- talk to pr about sponsor benefits -->
-                            <li>Empower women in computing fields</li>
-                            <li>Recruit students for co-ops</li>
-                            <li>Host Tech Talks</li>
-                            <li>Support future and ongoing projects (This year we're making a Magic Mirror!)</li>
-                            <li></li>
-                        </ul>
-                        <p style="text-align: center;"><a href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
+                    <div class="row">
+                        <section class="col-sm-8">
+                        <h2 class="page-title">WHY SPONSOR WIC?</h2>
+                        <div class="entry">
+                            <ul>
+                                <!-- talk to pr about sponsor benefits -->
+                                <li>Empower women in computing fields</li>
+                                <li>Recruit students for co-ops</li>
+                                <li>Host Tech Talks</li>
+                                <li>Support future and ongoing projects (This year we're making a Magic Mirror!)</li>
+                                <li></li>
+                            </ul>
+                            <p style="text-align: center;"><a href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
+                        </div>
+                        </section>  
+                        <div class="col-lg-4 mb-4">
+                          <div class="card h-100 text-center">
+                            <img class="card-img-top" src="http://placehold.it/350x200" alt="">
+                            <div class="card-body">
+                              <h4 class="card-title">Tech Talk</h4>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                            </div>
+                          </div>
+                        </div>  
+                        </section>
                     </div>
 
                     <br><br>
