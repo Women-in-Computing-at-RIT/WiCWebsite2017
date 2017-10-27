@@ -994,21 +994,25 @@ form.contact > textarea{
 
 /*Allies*/
 
-/*
-.alliespics {
-    padding-bottom: 100px;
+.row-alliespics {
+    text-align: center;
 }
-*/
 
-/*
-Committees
-.committeetext {
-    float:right;
-    width: 200px;
-    padding-left: 20px;
+.alliespics {
+    padding: 10px;
+    padding-bottom: 0px;
 }
-*/
+
+/*Committees*/
+.committeetext {
+    width:90%;
+}
 
 .committeepic {
+    float:left;
     padding-right:20px;
+}
+
+.committee-head-row {
+    padding-bottom: 10px;
 }

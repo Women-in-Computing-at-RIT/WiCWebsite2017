@@ -25,9 +25,9 @@
                     <div class="entry">
                         <p>WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
                         
-                        <div style="text-align:center">
-                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder" style="padding: 10px; padding-bottom:0"/>
-                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder" style="padding: 10px; padding-bottom:0"/>
+                        <div class="row-alliespics">
+                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder"/>
+                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder"/>
                         </div>
                     </div>
                     
