@@ -2,6 +2,7 @@
 <?php $title="Allies" ?>
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
 <!--
 <head>
     <meta charset="utf-8">
@@ -21,6 +22,8 @@
     <![endif]
 </head>
 -->
+=======
+>>>>>>> 1024e60115b4c3d42e34438ff956fa0052aa4abe
 <?php include 'header.php';?>
 <body>
     <div class="bread_area">
