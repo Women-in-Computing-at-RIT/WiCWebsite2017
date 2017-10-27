@@ -23,26 +23,60 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">COMMITTEES</h2>
                     <section class="pic-col" width="130px">
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
-                        <img class="card-img-top" src="http://placehold.it/350x250" alt="placeholder" width="125" height="175"/>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                         <br><br>
+                        <div class="row"> 
+                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder" align="left" style="padding-right: 20px"/>
+                            <p>Name of person, committee</p>
+                            <p class="committeetext">Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        </div>
                     </section>
-                    <div class="entry" width="300" >
-                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
-                    </div>
                     <br><br>
                 </section>
                 <aside class="sidebar col-sm-3">
