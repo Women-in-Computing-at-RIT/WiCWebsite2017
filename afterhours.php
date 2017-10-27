@@ -28,23 +28,27 @@
                               <li data-target="#myCarousel" data-slide-to="1"></li>
                               <li data-target="#myCarousel" data-slide-to="2"></li>
                               <li data-target="#myCarousel" data-slide-to="3"></li>
+                                <li data-target="#myCarousel" data-slide-to="4"></li>
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                               <div class="item active">
-                                <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
+                                <img src="img/afterhours/afterhours1.jpg" style="width:100%;height:100%;">
                               </div>
 
                               <div class="item">
-                                <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
+                                <img src="img/afterhours/afterhours2.jpg" style="width:100%;height:100%;">
                               </div>
 
                               <div class="item">
-                                <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
+                                <img src="img/afterhours/afterhours3.jpg" style="width:100%;height:100%;">
                               </div>
                               <div class="item">
-                                <img src="http://via.placeholder.com/400x200" style="width:100%;height:400px;">
+                                <img src="img/afterhours/afterhours4.jpg" style="width:100%;height:100%;">
+                              </div>
+                              <div class="item">
+                                <img src="img/afterhours/afterhours5.jpg" style="width:100%;height:100%;">
                               </div>
                             </div>
 
