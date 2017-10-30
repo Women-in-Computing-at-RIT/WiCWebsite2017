@@ -27,13 +27,13 @@
                         
                         <div id="row" class="missionpics">
                             <div class="col-lg-4 mb-4">
-                                <img src="http://via.placeholder.com/250x175"/>
+                                <img src="img/mission/mission1.jpg"/>
                             </div>
                             <div class="col-lg-4 mb-4">
-                                <img src="http://via.placeholder.com/250x175"/>
+                                <img src="img/mission/mission2.jpg"/>
                             </div>
                             <div class="col-lg-4 mb-4">
-                                <img src="http://via.placeholder.com/250x175"/>
+                                <img src="img/mission/mission3.jpg"/>
                             </div>
                         </div>
                     </div>

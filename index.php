@@ -8,7 +8,7 @@
             <div class="hero_content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12">
+                        <div class="col-sm-12" id="intro">
                             <h1>Women in Computing at RIT</h1>
                             <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
                         </div>
@@ -39,7 +39,7 @@
                                 <ul>
                                     <li>Mon • 6:30pm • INS-1080</li>
                                 </ul>
-                                <b>WiC Allies:</b>
+                                <b>WiC Allies Committee:</b>
                                 <ul>
                                     <li>Wed • 12:00pm • GOL-2600</li>
                                 </ul>
