@@ -85,7 +85,7 @@
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
                             <p><a target="_blank" href="http://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
-                                Democrat and Chronicle: All-girl hackathon to be held at RIT to spur interest in STEM careers 
+                                Democrat and Chronicle: All-girl hackathon to be held at RIT to spur interest in STEM careers </a></p>
                             <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
                                 University News: ROCGirlHacks is Oct. 28</a></p>
                             <p><a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
