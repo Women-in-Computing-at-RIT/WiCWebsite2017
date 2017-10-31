@@ -1053,3 +1053,26 @@ form.contact > textarea{
     height:150px;
     padding-bottom: 10px;
 }
+
+/*Blog*/
+.blogimg{
+    display: block;
+    margin: auto;
+}
+.blogback{
+    text-align: right;
+    font-size: 15px;
+}
+.blogbtmback, .blogbtminfo{
+    padding-top: 30px;
+}
+.blogbtmback{
+    text-align: right;
+}
+.blogbtminfo{
+    float:left;
+}
+.pipe{
+    padding: 5px;
+}
+
