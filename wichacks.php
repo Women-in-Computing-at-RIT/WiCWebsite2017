@@ -27,8 +27,9 @@
                         <h3><a href="https://wichacks.io/"><img id="wichackslogo" src="img/wichackslogos.png" alt="wichacks logo"/></a> Learn more at <a href="https://wichacks.io/">wichacks.io</a></h3>
                            
                         
-                        
-                        <iframe width="711" height="400" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0" frameborder="0" allowfullscreen></iframe>
+                        <div class="videoWrapper">
+                            <iframe width="711" height="400" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
                         
                     </div>
                 </section>
