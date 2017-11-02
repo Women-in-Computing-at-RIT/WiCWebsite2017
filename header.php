@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
     
     
-    <base href="http://localhost:8888/" />  <!--CHANGE ON LAUNCH DAY-->
+    <!-- <base href="http://localhost:8888/" />  CHANGE ON LAUNCH DAY-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
@@ -64,7 +64,7 @@
                         </li>
                         <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="afterhours.php" title="">AFTER HOURS</a></li>
                         <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="blog.php" title="">BLOG</a></li>
-                        <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="sponser.php" title="">SPONSOR</a></li>
+                        <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="sponsor.php" title="">SPONSOR</a></li>
                         <li <?php if($title=="Contact Us"){echo "class='active'";} ?>><a href="contact.php" title="">CONTACT US</a></li>
                     </ul>                           
                 </div><!-- /.navbar-collapse -->                

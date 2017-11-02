@@ -24,20 +24,21 @@
                         <section class="col-sm-8">
                         <h2 class="page-title">WHY SPONSOR WIC?</h2>
                         <div class="entry">
+                            <p>Your support is vital to the success of our mission.Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers.Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
+                            <p>To learn more about our initiatives and how you can support us contact our director:</p>
                             <ul>
-                                <li>Empower women in computing fields</li>
-                                <li>Recruit students for future co-ops</li>
-                                <li>Host Tech Talks, as seen in the image on the right</li>
-                                <li>Support future and ongoing projects (<a target="_blank" href="projects.php">This year we're making a Magic Mirror!</a>)</li>
+                                <li>Lana Verschage - Director of Women in Computing</li>
+                                <li>Email: director@wic.rit.edu</li>
+                                <li>Phone: 585.475.7155</li>
                             </ul>
-                            <p style="text-align: center;"><a target="_black" href="pdfs/WiCHacks_Sponsor_Info.pdf">See WiCHacks Sponsor Benefits!</a></p>
+                            <p>Or use our <a target="_blank" href="contact.php">Contact Page</a></p>
                         </div>
                         </section>  
                             <div class="col-lg-4 mb-4">
                           <div class="card h-100 text-center">
                             <img class="card-img-top" src="img/sponsor/techtalk2017Small.jpg" alt="WillowTree">
                             <div class="card-body">
-                              <p class="card-text">WillowTree Tech Talk on Octobor 4th, 2017</p>
+                              <p class="card-text">WillowTree Tech Talk on October 4th, 2017</p>
                             </div>
                           </div>
                             </div>  
@@ -50,7 +51,7 @@
                     <div class="entry">
                         <ul>
                             <li>Want to get involved with Women in Computing? Send us a message over on our <a target="_black" href="contact.php">Contact Page</a>.</li>
-                            <li><a target="_black" href="contact.php">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
+                            <li><a target="_black" href="https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&area=kgcoe">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
                             <li>Want to sponsor WiCHacks? Read more on the <a target="_black" href="https://wichacks.io/">WiCHacks Website</a></li>
                         </ul>
 

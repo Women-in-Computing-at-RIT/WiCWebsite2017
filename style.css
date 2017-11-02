@@ -1052,6 +1052,13 @@ form.contact > input, textarea{
 form.contact > textarea{
     min-height: 200px;
 }
+form.contact > input.submitButton{
+    width: auto;
+    background: #EDE8EE;
+    padding: 5px;
+    border-width: 3px;
+    border-style: double;
+}
 
 /*Allies*/
 

@@ -25,7 +25,6 @@
         function validateContact(){
             var returnBoolean = true;
 
-
             var sName = document.getElementsByName("senderName")[0];
             if (sName.value == "") {
                 returnBoolean = false;
@@ -61,32 +60,29 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h2 class="page-title">CONTACT US</h2>
-                    <div class="entry col-sm-10">
+                    <h2 class="page-title">CONTACT US*</h2>
+                    <div class="entry col-sm-12 col-lg-10">
                         <form class="contact" action="" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
-                            <input type="text" name="senderName" placeholder="Name">
+                            <input type="text" name="name">
                             <br/><br/>
 
                             <p>Email Address</p>
-                            <input type="text" name="senderEmail" placeholder="example@site.com">
+                            <input type="text" name="email">
                             <br/><br/>
 
                             <p>Reason for Contact</p>
-                            <input type="text" name="senderTitle" placeholder="Questions? Comments? Concerns?">
+                            <input type="text" name="title"">
                             <br/><br/>
                             
                             <p>Message</p>
-                            <textarea placeholder="Your Message" name="senderMessage"></textarea>
+                            <textarea name="message"></textarea>
 
-                            <input type="submit" name="Send Email">
+                            <input type="submit" class="submitButton" name="Send Email">
                         </form>
-                    </div>
-                    <div class="col-sm-2">
-                        <p>Want to get involved?</p> 
-                        <p>Curious about ongoing activities and projects?<p> 
-                        <p>Have any suggestions or ideas?</p>
-                        <p>Questions, comments, concerns?</p>
+
+                    <br/><br/> 
+                    <p>*Messages will be sent to Lana Verschage, Director of Women in Computing</p>
                     </div>
                 </section>
                 
