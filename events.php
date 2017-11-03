@@ -1,4 +1,5 @@
-<?php $title="Events";?>
+<?php $title="Events";
+      $level="";?>
 <!DOCTYPE html>
 <body>
     <?php include 'header.php';?>
