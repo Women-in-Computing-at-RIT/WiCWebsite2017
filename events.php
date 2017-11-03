@@ -19,6 +19,11 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-9">
+                    <h2 class="page-title">EVENTS</h2>
+                    <div class="entry">
+                        <p>All WiC events are planned by the Events committee! Events committee meets once a week, and together we brainstorm ideas and plan for all the various social events that occur throughout the year! Some events we help plan are the Halloween party, ice cream socials, Friendsgiving, and much more!</p>
+                    </div>
+                    <br><br>
                     <iframe id="wiccalendar" src="https://www.google.com/calendar/embed?src=wicatrit%40gmail.com&ctz=America/New_York" frameborder="0" scrolling="no"></iframe>
                     <br><br>
                 </section>
