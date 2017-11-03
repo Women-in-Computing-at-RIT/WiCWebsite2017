@@ -1041,9 +1041,19 @@ h2.category-title:after {
 }
 
 /*upcoming events calendar*/
-#wiccalendar{
-  width: 90%;
-  height: 500px;
+.googleCalendar {
+    position: relative;
+    height:0;
+    width: 100%;
+    padding-bottom: 100%;
+}
+
+.googleCalendar iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
 }
 /*Contact Us Page*/
 form.contact > input, textarea{

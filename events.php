@@ -25,7 +25,7 @@
                         <p>All WiC events are planned by the Events committee! Events committee meets once a week, and together we brainstorm ideas and plan for all the various social events that occur throughout the year! Some events we help plan are the Halloween party, ice cream socials, Friendsgiving, and much more!</p>
                     </div>
                     <br><br>
-                    <iframe id="wiccalendar" src="https://www.google.com/calendar/embed?src=wicatrit%40gmail.com&ctz=America/New_York" frameborder="0" scrolling="no"></iframe>
+                    <div class="googleCalendar"><iframe src="https://www.google.com/calendar/embed?src=wicatrit%40gmail.com&ctz=America/New_York" frameborder="0" scrolling="no" width="800" height="600"></iframe></div>
                     <br><br>
                 </section>
                 <aside class="sidebar col-sm-3">

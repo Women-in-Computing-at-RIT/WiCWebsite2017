@@ -56,8 +56,6 @@
                             </div>
                         </li>                     
                     </ul>                    
-                </section>
-                <section class="category-content col-sm-9">
                     <h2 class="category-title">CONFERENCES</h2>
                     <ul class="media-list">
                         <li class="media">
