@@ -20,7 +20,7 @@
     <main class="site-main page-main">
         <div class="container">
             <div class="row">
-                <section class="page col-sm-12">
+                <section class="page col-lg-12">
                     <div class="row">
                         <section class="col-sm-8">
                         <h2 class="page-title">WHY SPONSOR WIC?</h2>

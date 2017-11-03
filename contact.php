@@ -33,7 +33,7 @@
             } else {sName.style.backgroundColor = "white";}
 
             var sEmail = document.getElementsByName("senderEmail")[0];
-            if (sEmail.value == "" || validateEmail(sEmail)) {
+            if (sEmail.value == "" || validateEmail(sEmail.value)) {
                 returnBoolean = false;
                 sEmail.style.backgroundColor = "pink";
             } else {
@@ -63,7 +63,7 @@
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US*</h2>
                     <div class="entry col-sm-12 col-lg-10">
-                        <form class="contact" action="" method="post" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" data-mailto="director@wic.rit.edu?subject=title&body=message" method="get" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -90,6 +90,6 @@
             </div>
         </div>
     </main>
-     <?php include 'footer.php';?>
+    <?php include 'footer.php';?>
 </body>
 </html>
