@@ -1,5 +1,5 @@
 <!--Committees WiC Page-->
-<?php $title="Committees"; ?>
+<?php $title="Committees"; $level=""; ?>
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'header.php';?>
@@ -23,7 +23,7 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">COMMITTEES</h2>
                         <div class="committee-head-row">
-                            <img class="committeepic" src="http://placehold.it/125x175" alt="placeholder"/>
+                            <img class="committeepic" src="img/committees/LanaSized.jpg" alt="placeholder"/>
                             <p>Lana Verschage, Director of Women in Computing</p>
                             <p class="committeetext">Responsible for the development of all programs, events, presentations, communications and marketing associated with Women in Computing at RIT whose purpose is to motivate and inspire girls and young women to choose computing as a profession and to recruit and retain women students for the Golisano College of Computing at RIT.</p>
                         </div>

@@ -8,13 +8,13 @@
     
     
     <!-- <base href="http://localhost:8888/" />  CHANGE ON LAUNCH DAY-->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
-    <link href="ritstyle.css" rel="stylesheet">
+    <link href="<?php echo $level ?>css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo $level ?>css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?php echo $level ?>style.css" rel="stylesheet">
+    <link href="<?php echo $level ?>ritstyle.css" rel="stylesheet">
     
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="<?php echo $level ?>favicon.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo $level ?>favicon.ico" type="image/x-icon">
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -36,36 +36,36 @@
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse">
 					<span class="sr-only">Toggle Navigation</span>
 					<i class="fa fa-bars"></i>
-				</button>
-				<a href="index.php" class="navbar-brand">
+	<?php echo $level ?>			</but<?php echo $level ?>ton>
+				<a href="<?php echo $level ?>index.php" class="navbar-brand">
 					<img id="headerlogo" src="img/logo.png" alt="Post">
 				</a>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav main-navbar-nav">
-                        <li <?php if($title=="Home"){echo "class='active'";} ?> ><a href="index.php" title="">HOME</a></li>
+                        <li <?php if($title=="Home"){echo "class='active'";} ?> ><a href="<?php echo $level ?>index.php" title="">HOME</a></li>
                         <li class="dropdown <?php if(($title=="Mission") || ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")){echo "active";} ?>">
                             <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="mission.php" title="">MISSION</a></li>
-                                <li><a href="committees.php" title="">COMMITTEES</a></li>
-                                <li><a href="allies.php" title="">ALLIES</a></li>
-                                <li><a href="projects.php" title="">PROJECTS</a></li>
-                                <li><a href="alumni.php" title="">ALUMNI</a></li>
+                                <li><a href="<?php echo $level ?>mission.php" title="">MISSION</a></li>
+                                <li><a href="<?php echo $level ?>committees.php" title="">COMMITTEES</a></li>
+                                <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
+                                <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
+                                <li><a href="<?php echo $level ?>alumni.php" title="">ALUMNI</a></li>
                             </ul>
                         </li>
                         <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks")){echo "active";} ?>">
                             <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="events.php" title="">UPCOMING CALENDAR</a></li>
-                                <li><a href="wichacks.php" title="">WICHACKS</a></li>
-                                <li><a href="annual_events.php" title="">ANNUAL EVENTS</a></li>
+                                <li><a href="<?php echo $level ?>events.php" title="">UPCOMING CALENDAR</a></li>
+                                <li><a href="<?php echo $level ?>wichacks.php" title="">WICHACKS</a></li>
+                                <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
                             </ul>
                         </li>
-                        <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="afterhours.php" title="">AFTER HOURS</a></li>
-                        <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="blog.php" title="">BLOG</a></li>
-                        <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="sponsor.php" title="">SPONSOR</a></li>
-                        <li <?php if($title=="Contact Us"){echo "class='active'";} ?>><a href="contact.php" title="">CONTACT US</a></li>
+                        <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>
+                        <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="<?php echo $level ?>blog.php" title="">BLOG</a></li>
+                        <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="<?php echo $level ?>sponsor.php" title="">SPONSOR</a></li>
+                        <li <?php if($title=="Contact Us"){echo "class='active'";} ?>><a href="<?php echo $level ?>contact.php" title="">CONTACT US</a></li>
                     </ul>                           
                 </div><!-- /.navbar-collapse -->                
 				<!-- END MAIN NAVIGATION -->

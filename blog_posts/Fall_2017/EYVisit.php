@@ -1,15 +1,16 @@
-<?php $title="Blog"; ?>
+<?php $title="Blog";
+    $level="../../" ?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
-     <?php include '../../header.php';?>
+     <?php include $level.'header.php';?>
     <div class="bread_area">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="blog.php">Blog</a></li>
+                        <li><a href="<?php echo($level)?>index.php">Home</a></li>
+                        <li><a href="<?php echo($level)?>blog.php">Blog</a></li>
                         <li>Fall 2017</li>
                         <li class="active">EY Visit</li>
                     </ol>                    

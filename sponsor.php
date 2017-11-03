@@ -1,4 +1,5 @@
-<?php $title="Sponsor"; ?>
+<?php $title="Sponsor"; 
+    $level="";?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -52,7 +53,7 @@
                         <ul>
                             <li>Want to get involved with Women in Computing? Send us a message over on our <a target="_black" href="contact.php">Contact Page</a>.</li>
                             <li><a target="_black" href="https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&area=kgcoe">Donate to Women in Computing!</a> Under "Desigination" Select "Your gift. Your choice" and search for "Women in Computing"</li>
-                            <li>Want to sponsor WiCHacks? Read more on the <a target="_black" href="https://wichacks.io/">WiCHacks Website</a></li>
+                            <li>Want to sponsor WiCHacks? Read more on the <a target="_black" href="https://wichacks.io/#sponsor">WiCHacks Website</a></li>
                         </ul>
 
                     </div>

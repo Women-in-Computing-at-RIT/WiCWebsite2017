@@ -1,4 +1,5 @@
-<?php $title="Contact Us"; ?>
+<?php $title="Contact Us"; 
+    $level="";?>
 
 <!DOCTYPE html>
 <html lang="en">
