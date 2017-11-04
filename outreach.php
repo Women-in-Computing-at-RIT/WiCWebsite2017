@@ -67,17 +67,6 @@
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                           
                             </div>
                         </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading">Girls Who Code Summer Camp</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                               
-                            </div>
-                        </li>
                     </ul>                                  
                 </section>
                 <aside class="sidebar col-sm-3">
