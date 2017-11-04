@@ -209,6 +209,11 @@ a.none:hover {
     line-height: 1.12857143;
     font-size: 12px;
 }
+@media (max-width: 767px){
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #dddddd;
+    }
+}
 
 .main-navbar-nav li > .dropdown-menu > li > a:hover,
 .main-navbar-nav li > .dropdown-menu > li > a:focus {

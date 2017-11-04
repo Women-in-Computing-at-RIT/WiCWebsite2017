@@ -86,11 +86,12 @@ Started in 1994, GHC is now the world’s largest gathering of women technologis
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
-                        <h4>Events</h4>
+                        <h4>EVENTS</h4>
                         <ul>
                             <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li class="current"><a href="#" title="">Annual Events</a></li>
+                            <li><a href="outreach.php" title="">Outreach</a></li>
                         </ul>
                     </div>
                 </aside>
