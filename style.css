@@ -1107,7 +1107,7 @@ form.contact > input.submitButton{
     margin: auto;
 }
 .blogback{
-    text-align: right;
+    text-align: left;
     padding-bottom: 20px;
     font-size: 15px;
 }

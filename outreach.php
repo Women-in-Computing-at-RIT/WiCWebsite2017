@@ -31,8 +31,11 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">ROCGirlHacks</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                               
+                                <p>Girls as young as eight-years-old used their laptops, imagination and teamwork skills for social good at ROCGirlHacks Powered by AT&amp;T, Rochester’s first all-girl youth hackathon hosted Oct. 28 at Rochester Institute of Technology. </p><p>
+                                The free hackathon was intended for all girls in grades 3–12, including those who have never programmed before, those who are already building apps and anyone in between. The learning program challenged participants to come up with technological solutions and tools to address the growing problem of cyberbullying and internet safety.
+                                The event was a collaboration between iCanCode, Women in Computing at RIT and AT&amp;T. The program was born out of a desire to expand coding opportunities for Rochester-area girls and to encourage them to enter the field of technology, specifically coding, an industry that is statistically male-dominant.</p>                               
                             </div>
+                            <hr>
                         </li> 
                         <li class="media">
                             <div class="media-left">
@@ -42,8 +45,18 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Girl Scout Tech Badge Day</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                               
+                                <p>Girl Scouts spend the day with Women in Computing undergraduate student instructors and mentors to earn their Technology Badge. These workshops were created to help inspire young girls to consider studying computing or as a career choice.</p>
+                                <p>The following Technology Badge Workshops were offered to Juniors, Cadettes, Seniors and Ambassador levels.</p>
+                                    <ul>
+                                        <li>Entertainment Technology Badge</li>
+                                        <li>Digital Movie Maker</li>
+                                        <li>Website Design Badge</li>
+                                    </ul>
+ 
+
+
                             </div>
+                            <hr>
                         </li>
                         <li class="media">
                             <div class="media-left">
@@ -53,8 +66,9 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">STEM Fair</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                               
+                                <p>Girls Soaring in STEM Fair is a free event for  grades 4 – 12 to learn about engineering and computing, technology and science possibilities through hands-on demonstrations and activities during this Fair.  Presented by the RIT Women in Computing, Women in Technology, Women in Engineering, and Women in Science students and faculty.</p>                               
                             </div>
+                            <hr>
                         </li>    
                         <li class="media">
                             <div class="media-left">
@@ -64,9 +78,10 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiC After Hours</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at efficitur lacus. Etiam est magna, maximus vel congue quis, fringilla eget justo. Sed nunc lacus, dictum non mi porttitor, suscipit suscipit sapien. Aliquam mauris dolor, egestas vel quam et, bibendum sodales lacus. Ut ultricies dignissim mollis.</p>                           
+                                <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity to meet new friends and possibly your future roommate! This program is BY INVITE ONLY.</p>                           
                             </div>
                         </li>
+                        
                     </ul>                                  
                 </section>
                 <aside class="sidebar col-sm-3">

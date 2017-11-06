@@ -22,8 +22,6 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-9">
-                    <p class="blogback"><a href="<?php echo($level)?>blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a></p>
-                    <br><br>
                     <h2 class="page-title">ERNST &amp; YOUNG VISIT</h2>
                     <div class="entry">
                         <h4>About EY:</h4>
@@ -69,6 +67,7 @@
                     </div>
                 </section>
                 <aside class="sidebar col-sm-3">
+                    <p class="blogback"><a href="<?php echo($level)?>blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a></p>
                     <img src="<?php echo($level)?>img/blog/fall_2017/EYlogo.png" alt="EY logo">
                 </aside>
             </div>
