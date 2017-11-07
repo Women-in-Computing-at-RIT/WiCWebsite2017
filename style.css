@@ -1002,6 +1002,18 @@ h2.category-title:after {
     /*wichacks*/
     
 }
+/*annoying homepage tablet fix*/
+@media (min-width:463px) and (max-width:769px){
+    #intro{
+        width: 90% !important;
+        margin: 5%;
+    }
+    #meetingtimes{
+        border-bottom:#ebebeb 1px solid;
+        margin-bottom: 40px;
+        padding-bottom: 10px;
+    }
+}
 /*homepage*/
 #meetingtimes ul{
     list-style-type: none;
@@ -1107,7 +1119,7 @@ form.contact > input.submitButton{
     margin: auto;
 }
 .blogback{
-    text-align: left;
+    text-align: right;
     padding-bottom: 20px;
     font-size: 15px;
 }

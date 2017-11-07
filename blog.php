@@ -24,7 +24,7 @@
                     <ul class="media-list">
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
+                                <a href="blog_posts/Fall_2017/DOSVisit.php" title="Post">
                                     <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Post">
                                 </a>
                             </div>
@@ -47,7 +47,7 @@
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
+                                <a href="blog_posts/Fall_2017/Projects1.php" title="Post">
                                     <img class="media-object" src="img/blog/fall_2017/Projects1cover.jpg" alt="Post">
                                 </a>
                             </div>
@@ -70,7 +70,7 @@
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
+                                <a href="blog_posts/Fall_2017/WillowTreeVisit.php" title="Post">
                                     <img class="media-object" src="img/blog/fall_2017/willowtreecover.jpg" alt="Post">
                                 </a>
                             </div>
@@ -93,8 +93,8 @@
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
+                                <a href="blog_posts/Fall_2017/CoreOSVisit.php" title="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/CoreOScover.png" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -116,7 +116,7 @@
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
+                                <a href="blog_posts/Fall_2017/EYVisit.php" title="Post">
                                     <img class="media-object" src="img/blog/fall_2017/EYcover.jpg" alt="Post">
                                 </a>
                             </div>

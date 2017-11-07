@@ -25,7 +25,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://placehold.it/150x150" alt="Post">
+                                    <img class="media-object" src="img/annualevents/wichacks.jpg" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -36,7 +36,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
+                                    <img class="media-object" src="img/annualevents/afterhours.jpg" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -47,7 +47,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
+                                    <img class="media-object" src="img/annualevents/wicconnects.jpg" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -61,20 +61,18 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
+                                    <img class="media-object" src="img/annualevents/ghc.JPG" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Grace Hopper Women In Computing">Grace Hopper Women In Computing</a></h3>
-                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront.
-
-Started in 1994, GHC is now the world’s largest gathering of women technologists. In 2013, GHC hosted over 4,750 attendees from 53 countries including 1,900 students from over 400 academic institutions and 2,850 professionals from industry, government and academia. The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers and the best of ACM SIGSOFT & SIGGRAPH. Meet the women who are transforming technology at the Grace Hopper Celebration.</p>
+                                <h3 class="media-heading"><a href="#" title="Grace Hopper Women In Computing">Grace Hopper Celebration of Women in Computing</a></h3>
+                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront. Started in 1994, GHC is now the world’s largest gathering of women technologists. In 2013, GHC hosted over 4,750 attendees from 53 countries including 1,900 students from over 400 academic institutions and 2,850 professionals from industry, government and academia. The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers and the best of ACM SIGSOFT and SIGGRAPH. Meet the women who are transforming technology at the Grace Hopper Celebration.</p>
                             </div>
                         </li> 
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
+                                    <img class="media-object" src="img/annualevents/NYCWIC.jpg" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">
