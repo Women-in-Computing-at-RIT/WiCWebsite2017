@@ -42,7 +42,7 @@
                         <p><b>Q: </b>Does the work at WillowTree Apps focus more on creating apps from scratch more or taking apps from other companies?
                         <br><b>A: </b>We tend to make more apps from scratch.For those that we do take over we want to make them our own. We customize it for the customer where we own what we do and help the client asking for the app. We do more than just listen.</p><br>
                         
-                        <h4>Opportunitie:</h4>
+                        <h4>Opportunities:</h4>
                         <p>WillowTree Apps offers full time and summer internships for iOS, Android, Web engineering, Product Designing, security, and QA. The company is not looking for a specific year or major, but rather, they desire experience. WillowTree Apps seeks students that have made a website, personal project app, online portfolios, or anything that displays the process of a designer.</p>
                         <p>At WillowTree Apps, interns will be working on a real project for a client. The company tries to match each intern with the best team that meets the student’s goals as a developer. WillowTree Apps provides an one-on-one mentor the duration of the internship. Employees also have the freedom to try other areas in the company.</p>
                         <p>In addition, WillowTree Apps provides relocation assistance for full time hires and a housing stipend for interns. Most interns are placed in Charlottesville at the main office.</p><br>

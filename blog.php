@@ -25,7 +25,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Post">
                                 </a>
                             </div>
                             <div class="media-body">

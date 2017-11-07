@@ -40,12 +40,11 @@
                             <li><a href="http://www.twc.edu/foreign-affairs-information-technology-fellowship-program" target="_blank">Foreign Affairs Information Technology (IT) Fellowship Program Site</a></li>
                             <li><a href="http://www.twc.edu/foreign-affairs-information-technology-fellowship-program/how-to-apply" target="_blank">Apply for the FAIT Fellowship Program</a></li>
                         </ul>
-                        
-                        
                         <br>
+                        <img class="blogimg" src="<?php echo($level)?>img/blog/fall_2017/dos.jpg" alt="dos pic">
                         
                         <div class="blogbtminfo">
-                            <span class="blogdate">Posted: 11/01s/17</span> 
+                            <span class="blogdate">Posted: 11/01/17</span> 
                             <span class="pipe">| </span>
                             <span class="blogtype"><i class="fa fa-building"></i> Company Visit</span>
                         </div>
