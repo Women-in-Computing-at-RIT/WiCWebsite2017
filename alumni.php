@@ -20,6 +20,12 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-9">
+                    <h2 class="page-title">ALUMNI</h2>
+                    <div class="entry">
+                        <p>Women in Computing is dedicated to supporting and showcasing their alumni. We love to stay in contact with our alumni, to find out where they are and what they are doing. Giving our current members people to look up to encourages them to succeed and reminds them why they should work hard. We are so glad you joined the WiC community during your time at RIT and we want you to know you can always have an active part in it.  Please send us an email if you have anything to contribute. Whether it is giving a tech talk, hosting a company recruitment event, or sponsoring a WiC event, you are always welcome! </p>
+                        
+                    </div>
+                    <br/><br/>
                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -31,15 +37,15 @@
   
   <div class="carousel-inner">
     <div class="item active">
-        <a href="https://placeholder.com"><img src="http://via.placeholder.com/350x150"></a>
+        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
     </div>
 
     <div class="item">
-      <a href="https://placeholder.com"><img src="http://via.placeholder.com/350x150"></a>
+        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
     </div>
 
     <div class="item">
-      <a href="https://placeholder.com"><img src="http://via.placeholder.com/350x150"></a>
+      <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
     </div>
   </div>
 
@@ -53,13 +59,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-    <br/><br/>
-                    <h2 class="page-title">ALUMNI</h2>
-                    <div class="entry">
-                        <p>Women in Computing is dedicated to supporting and showcasing their alumni. We love to stay in contact with our alumni, to find out where they are and what they are doing. Giving our current members people to look up to encourages them to succeed and reminds them why they should work hard. We are so glad you joined the WiC community during your time at RIT and we want you to know you can always have an active part in it.  Please send us an email if you have anything to contribute. Whether it is giving a tech talk, hosting a company recruitment event, or sponsoring a WiC event, you are always welcome! </p>
-                        
-                    </div>
-                    
+    <br/>    
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
