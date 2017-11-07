@@ -25,6 +25,98 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="#" title="Post">
+                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading"><a href="blog_posts/Fall_2017/DOSVisit.php" title="Post Title">Department of State Visit</a></h3>
+                                <p>The Department of State came to WiC for an informational session about the Foreign Affairs Information Technology Fellowship Program on Wednesday, November 1st.</p>
+                                <aside class="meta category-meta">
+                                    <div class="pull-left">
+                                        <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
+                                        <div class="arc-date">11/01/2017</div>
+                                    </div>
+                                    <div class="pull-right">
+                                        <ul class="arc-share">
+                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </aside>                                
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="media-left">
+                                <a href="#" title="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/Projects1cover.jpg" alt="Post">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading"><a href="blog_posts/Fall_2017/Projects1.php" title="Post Title">Projects Committee Update</a></h3>
+                                <p>The WiC Project Team is creating a Magic Mirror. The magic mirror will display information such as the weather and Facebook events, without preventing the owner from seeing their reflection.  The mirror will be presented at the 11th annual Imagine RIT event on April 28, 2018. </p>
+                                <aside class="meta category-meta">
+                                    <div class="pull-left">
+                                        <div class="arc-comment"><i class="fa fa-pencil"></i> Projects Update</div>
+                                        <div class="arc-date">10/30/2017</div>
+                                    </div>
+                                    <div class="pull-right">
+                                        <ul class="arc-share">
+                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </aside>                                
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="media-left">
+                                <a href="#" title="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/willowtreecover.jpg" alt="Post">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading"><a href="blog_posts/Fall_2017/WillowTreeVisit.php" title="Post Title">WillowTree Apps Visit</a></h3>
+                                <p>On Wednesday, October 4th, WillowTree Apps visited WiC to talk about opportunities for students within the company. These opportunities range from full-time positions to summer internships.</p>
+                                <aside class="meta category-meta">
+                                    <div class="pull-left">
+                                        <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
+                                        <div class="arc-date">10/04/2017</div>
+                                    </div>
+                                    <div class="pull-right">
+                                        <ul class="arc-share">
+                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </aside>                                
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="media-left">
+                                <a href="#" title="Post">
+                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading"><a href="blog_posts/Fall_2017/CoreOSVisit.php" title="Post Title">CoreOS Visit</a></h3>
+                                <p>CoreOS came to WiC for an informational company visit on Monday, October 2nd.</p>
+                                <aside class="meta category-meta">
+                                    <div class="pull-left">
+                                        <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
+                                        <div class="arc-date">10/02/2017</div>
+                                    </div>
+                                    <div class="pull-right">
+                                        <ul class="arc-share">
+                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </aside>                                
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="media-left">
+                                <a href="#" title="Post">
                                     <img class="media-object" src="img/blog/fall_2017/EYcover.jpg" alt="Post">
                                 </a>
                             </div>
@@ -34,7 +126,7 @@
                                 <aside class="meta category-meta">
                                     <div class="pull-left">
                                         <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
-                                        <div class="arc-date">10/20/2017</div>
+                                        <div class="arc-date">9/20/2017</div>
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
@@ -45,181 +137,7 @@
                                 </aside>                                
                             </div>
                         </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 1 Comment</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 2 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 2 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 12 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 2 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 3 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/262x200" alt="Post">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="#" title="Post Title">Post Title</a></h3>
-                                <p>Aenean vitae dolor sed purus tempus ullamcorper. Integer urna orci, lacinia ut ornare sit amet, luctus quis est. Ut interdum lorem in mattis lobortis. Maecenas tincidunt justo a lobortis facilisis.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><a href="#" title="Comment"><i class="fa fa-comments"></i> 8 Comments</a></div>
-                                        <div class="arc-date">10/15/2016</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>                        
+                                    
                     </ul>                    
                 </section>
                 <aside class="sidebar col-sm-3">

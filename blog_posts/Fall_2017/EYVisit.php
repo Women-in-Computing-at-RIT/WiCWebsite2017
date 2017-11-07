@@ -55,7 +55,7 @@
                         <img class="blogimg" src="<?php echo($level)?>img/blog/fall_2017/EY.jpg" alt="EY logo">
                         
                         <div class="blogbtminfo">
-                            <span class="blogdate">Posted: 10/20/17</span> 
+                            <span class="blogdate">Posted: 9/20/17</span> 
                             <span class="pipe">| </span>
                             <span class="blogtype"><i class="fa fa-building"></i> Company Visit</span>
                         </div>

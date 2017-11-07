@@ -25,13 +25,13 @@
                     <ul class="media-list">
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://placehold.it/150x150" alt="Post">
-                                </a>
+                                    <img class="media-object" src="img/outreach/rocgirlhacks.JPG" alt="hackspic">
+                                <img class="media-object" src="img/outreach/rghlogo.png"/>
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">ROCGirlHacks</h3>
-                                <p>Girls as young as eight-years-old used their laptops, imagination and teamwork skills for social good at ROCGirlHacks Powered by AT&amp;T, Rochester’s first all-girl youth hackathon hosted Oct. 28 at Rochester Institute of Technology. </p><p>
+                                <p>Girls as young as eight-years-old used their laptops, imagination and teamwork skills for social good at ROCGirlHacks Powered by AT&amp;T, Rochester’s first all-girl youth hackathon hosted Oct. 28 at Rochester Institute of Technology. </p>
+                                <p>
                                 The free hackathon was intended for all girls in grades 3–12, including those who have never programmed before, those who are already building apps and anyone in between. The learning program challenged participants to come up with technological solutions and tools to address the growing problem of cyberbullying and internet safety.
                                 The event was a collaboration between iCanCode, Women in Computing at RIT and AT&amp;T. The program was born out of a desire to expand coding opportunities for Rochester-area girls and to encourage them to enter the field of technology, specifically coding, an industry that is statistically male-dominant.</p>                               
                             </div>
@@ -39,9 +39,7 @@
                         </li> 
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
                                     <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
-                                </a>
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Girl Scout Tech Badge Day</h3>
@@ -52,17 +50,12 @@
                                         <li>Digital Movie Maker</li>
                                         <li>Website Design Badge</li>
                                     </ul>
- 
-
-
                             </div>
                             <hr>
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
-                                </a>
+                                    <img class="media-object" src="img/outreach/stemfair.JPG" alt="Post">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">STEM Fair</h3>
@@ -72,9 +65,7 @@
                         </li>    
                         <li class="media">
                             <div class="media-left">
-                                <a href="#" title="Post">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
-                                </a>
+                                    <img class="media-object" src="img/outreach/afterhours.jpg" alt="Post">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiC After Hours</h3>
