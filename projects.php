@@ -1,5 +1,5 @@
 <!--Projects WiC Page-->
-<?php $title="Projects"; ?>
+<?php $title="Projects"; $level=""; ?>
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'header.php';?>
@@ -22,38 +22,34 @@
             <div class="row">
                 <section class="page col-sm-9">
                     <h2 class="page-title">PROJECTS</h2>
-                        <div>
-                            <img class="projimg" src="http://placehold.it/600x100" alt="placeholder"/>
-                            <br/><br/>
-                            <p>2015- Wearables</p>
-                            <p>The wearable pulse monitor bracelet was developed to help young children deal with stress and have a way to take  action against their anxiety.</p>
+                        <div class="committee-head-row">
+                            <a href="https://placeholder.com"><img class="committeepic" src="http://via.placeholder.com/150x150"></a>
+                            <h4><p><strong>2018:</strong> Magic Mirror (Current Project)</p></h4>
+                            <p class="committeetext">Blurb coming</p>
                         </div>
                     
                         <br><br>
                     
-                        <div>
-                            <img class="projimg" src="http://placehold.it/600x100" alt="placeholder"/>
-                            <br/><br/>
-                            <p>2016- BMO Game Emulator</p>
-                            <p>The projects committee decided to create our own version of a Gameboy. We 3D printed a case and used a raspberry pi with retropie to create the emulator. We soldered the pi to buttons, speakers, and a power supply. After downloading games we had a running gameboy emulator.</p>
+                        <div class="committee-head-row">
+                            <a href="https://placeholder.com"><img class="committeepic" src="http://via.placeholder.com/150x150"></a>
+                            <h4><p><strong>2017:</strong> Raspberry Pi Arcade Table</p></h4>
+                            <p class="committeetext">The arcade table was created using a raspberry pi 3 to run Retropie, in order to create a bar top arcade emulator. It is for one or two players with multiple games on the system. Can be found in the WiC space. </p>
                         </div>
                     
                         <br><br>
                     
-                        <div>
-                            <img class="projimg" src="http://placehold.it/600x100" alt="placeholder"/>
-                            <br/><br/>
-                            <p>2017- Raspberry Pi Arcade Table</p>
-                            <p>The arcade table was created using a raspberry pi 3 to run Retropie, in order to create a bar top arcade emulator. It is for one or two players with multiple games on the system. Can be found in the WiC space. </p>
+                        <div class="committee-head-row"> 
+                            <a href="https://placeholder.com"><img class="committeepic" src="http://via.placeholder.com/150x150"></a>
+                            <h4><p><strong>2016:</strong> BMO Game Emulator</p></h4>
+                            <p class="committeetext">The projects committee decided to create our own version of a Gameboy. We 3D printed a case and used a raspberry pi with retropie to create the emulator. We soldered the pi to buttons, speakers, and a power supply. After downloading games we had a running gameboy emulator.</p>
                         </div>
                     
                         <br><br>
                     
-                        <div>
-                            <img class="projimg" src="http://placehold.it/600x100" alt="placeholder"/>
-                            <br/><br/>
-                            <p>2018- Magic Mirror (Current Project)</p>
-                            <p>Project Paragraph</p>
+                        <div class="committee-head-row">
+                            <a href="https://placeholder.com"><img class="committeepic" src="http://via.placeholder.com/150x150">
+                                <h4><p><strong>2015:</strong> Wearables</p></h4>
+                            <p class="committeetext">The wearable pulse monitor bracelet was developed to help young children  deal with stress and have a way to take  action against their anxiety.</p>
                         </div>
                     
                     <br><br>
