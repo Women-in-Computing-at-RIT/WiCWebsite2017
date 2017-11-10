@@ -1,4 +1,4 @@
-<?php $title="Home"; ?>
+<?php $title="Home";$level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -45,7 +45,7 @@
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Wed • 8:00pm • GOL-3560</li>
+                                    <li>Wed • 7:30pm • GOL-3560</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>

@@ -68,7 +68,7 @@
                 </section>
                 <aside class="sidebar col-sm-3">
                     <p class="blogback"><a href="<?php echo($level)?>blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a></p>
-                    <img src="<?php echo($level)?>img/blog/fall_2017/willowtreeappslogo.png" alt="EY logo">
+                    <img src="<?php echo($level)?>img/blog/fall_2017/WillowTreeappslogo.png" alt="EY logo">
                 </aside>
             </div>
         </div>

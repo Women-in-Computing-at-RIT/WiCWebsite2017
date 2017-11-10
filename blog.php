@@ -1,4 +1,4 @@
-<?php $title="Blog"; ?>
+<?php $title="Blog";$level="";?>
 
 <!DOCTYPE html>
 <html lang="en">
