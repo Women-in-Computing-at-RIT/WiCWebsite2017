@@ -32,8 +32,8 @@
                         <p>Join the conversation by attending one of our meetings or workshops.</p>
                         
                         <div class="row-alliespics">
-                            <img class="alliespics" src="img/allies/allies.jpg" alt="placeholder"/>
-                            <img class="alliespics" src="img/allies/allies_logo.png" alt="placeholder"/>
+                            <img class="alliespics" src="img/allies/allies_larger2.jpg" alt="placeholder"/>
+                            <img class="alliespics" src="img/allies/allies_logo_larger2.png" alt="placeholder"/>
                         </div>
                     </div>
                     
