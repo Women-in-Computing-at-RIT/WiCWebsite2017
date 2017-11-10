@@ -1,8 +1,8 @@
 <!--Allies WiC Page-->
-<?php $title="Allies" ?>
+<?php $title="Allies"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'header.php'; $level=""; ?>
+<?php include 'header.php';?>
 <body>
     <div class="bread_area">
         <div class="container">

@@ -1,4 +1,4 @@
-<?php $title="After Hours"; ?>
+<?php $title="After Hours"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>

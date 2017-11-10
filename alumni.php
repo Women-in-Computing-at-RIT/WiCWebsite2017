@@ -1,4 +1,4 @@
-<?php $title="Alumni"; ?>
+<?php $title="Alumni"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
