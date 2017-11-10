@@ -1002,7 +1002,28 @@ h2.category-title:after {
     
     /*wichacks*/
     
+    
+    
+/*    allies*/
+    
+/*
+    .row-alliespics {
+        text-align: left;
+    }
+
+    .alliespics {
+        padding: 0;
+        padding-bottom: 5px;
+    }   
+*/
+    
+/*
+    #slideshow {
+        display: none;
+    }
+*/
 }
+
 /*annoying homepage tablet fix*/
 @media (min-width:463px) and (max-width:769px){
     #intro{
@@ -1099,6 +1120,10 @@ form.contact > input.submitButton{
     padding: 15px;
     padding-bottom: 0px;
 /*    border: 1px solid #ebebeb;*/
+}
+
+#slideshow {
+    display: block;
 }
 
 /*Committees*/
