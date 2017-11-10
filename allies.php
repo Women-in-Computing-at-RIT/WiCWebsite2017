@@ -32,33 +32,12 @@
                         <p>Join the conversation by attending one of our meetings or workshops.</p>
                         
                         <div class="row-alliespics">
-                            <img class="alliespics" src="http://placehold.it/300x200" alt="placeholder"/>
-                            <img class="alliespics" src="img/allieslogo2.jpg" alt="placeholder"/>
+                            <img class="alliespics" src="img/allies/allies.jpg" alt="placeholder"/>
+                            <img class="alliespics" src="img/allies/allies_logo.png" alt="placeholder"/>
                         </div>
                     </div>
                     
                     <br><br>
-
-<!--
-                    <h2 class="page-title">CURRENT GOALS</h2>
-                    <div class="entry">
-                        <ul>
-                            <li>Learn how to be a better ally looking at topics:</li>
-                                <ul>
-                                    <li>Teaching bystanders to take action</li>
-                                    <li>Unconscious bias</li>
-                                    <li>Micro Aggressions</li>
-                                </ul>
-                            <li>Volunteering at WiC events</li>
-                        </ul>
-                    </div>
-                    <br><br>
-                    <h2 class="page-title">HOW TO BE AN ALLY</h2>
-                    <div class="entry">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id pulvinar magna. Aenean accumsan iaculis lorem, nec sodales lectus auctor tempor.</p>
-                    </div>
--->
-                    
                     
                     <h2 class="page-title">HOW TO BE AN ALLY</h2>
 
