@@ -999,6 +999,7 @@ h2.category-title:after {
     .missionpics {
         padding: 30px !important;
     }
+    
     /*wichacks*/
     
 }
@@ -1075,6 +1076,7 @@ h2.category-title:after {
 /*Contact Us Page*/
 form.contact > input, textarea{
     width: 100%;
+    border: 1px solid grey;
 }
 form.contact > textarea{
     min-height: 200px;
