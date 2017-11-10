@@ -3,8 +3,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<?php include 'header.php';?>
 <body>
-    <?php include 'header.php';?>
     <div class="bread_area">
         <div class="container">
             <div class="row">
@@ -25,7 +25,7 @@
                         <section class="col-sm-8">
                         <h2 class="page-title">WHY SPONSOR WIC?</h2>
                         <div class="entry">
-                            <p>Your support is vital to the success of our mission.Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers.Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
+                            <p>Your support is vital to the success of our mission. Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers.Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
                             <p>To learn more about our initiatives and how you can support us contact our director:</p>
                             <ul>
                                 <li>Lana Verschage - Director of Women in Computing</li>
@@ -37,9 +37,9 @@
                         </section>  
                             <div class="col-lg-4 mb-4">
                           <div class="card h-100 text-center">
-                            <img class="card-img-top" src="img/sponsor/techtalk2017Small.jpg" alt="WillowTree">
+                            <img class="card-img-top" src="img/sponsor/IntuitWiCHacksSmall.png" alt="Intuit">
                             <div class="card-body">
-                              <p class="card-text">WillowTree Tech Talk on October 4th, 2017</p>
+                              <p class="card-text">Intuit booth at the 2017 WiCHacks</p>
                             </div>
                           </div>
                             </div>  
