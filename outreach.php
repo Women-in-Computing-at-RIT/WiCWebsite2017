@@ -39,7 +39,7 @@
                         </li> 
                         <li class="media">
                             <div class="media-left">
-                                    <img class="media-object" src="http://via.placeholder.com/150x150" alt="Post">
+                                    <img class="media-object" src="img/outreach/techbadge.jpg" alt="Post">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Girl Scout Tech Badge Day</h3>
