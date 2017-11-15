@@ -3,23 +3,24 @@
     ?>
 
     <?php 
-                $name = $_POST['name'];
-                $email = $_POST['email'];
-                $subject = $_POST['title'];
-                $message = $_POST['message'];
-                $from = "From: " . $name;
-                $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
+        $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
-                $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+        if ($_POST['submit']) {
+            $name = $_POST['name'];
+            $email = $_POST['email'];
+            $subject = $_POST['title'];
+            $message = $_POST['message'];
+            $from = "From: " . $name;
 
-                if ($_POST['submit']) {
-                    if (mail ($to, $subject, $body, $from)) {
-                        echo "<p>Message sent</p>";
-                    } else{
-                        echo "<p>Something went wrong, please try again</p>";
-                    }
-                }
-            ?>
+            $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+
+            if (mail ($to, $subject, $body, $from)) {
+                echo "<p>Message sent</p>";
+            } else{
+                echo "<p>Something went wrong, please try again</p>";
+            }
+        }
+    ?>
 
 <!DOCTYPE html>
 <html lang="en">
