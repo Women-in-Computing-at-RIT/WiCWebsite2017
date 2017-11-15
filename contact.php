@@ -1,5 +1,25 @@
 <?php $title="Contact Us"; 
-    $level="";?>
+    $level="";
+    ?>
+
+    <?php 
+                $name = $_POST['name'];
+                $email = $_POST['email'];
+                $subject = $_POST['title'];
+                $message = $_POST['message'];
+                $from = "From: " . $name;
+                $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
+
+                $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+
+                if ($_POST['submit']) {
+                    if (mail ($to, $subject, $body, $from)) {
+                        echo "<p>Message sent</p>";
+                    } else{
+                        echo "<p>Something went wrong, please try again</p>";
+                    }
+                }
+            ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,7 +43,6 @@
             return re.test(email);
         }
 
-
         function validateContact(){
             var returnBoolean = true;
 
@@ -34,7 +53,7 @@
             } else {sName.style.backgroundColor = "white";}
 
             var sEmail = document.getElementsByName("email")[0];
-            if ( ( sEmail.value == "" ) || ( validEmail(sEmail.value) ) ) {
+            if ( ( sEmail.value == "" )  ) {
                 returnBoolean = false;
                 sEmail.style.backgroundColor = "pink";
             } else { sEmail.style.backgroundColor = "white";}
@@ -53,6 +72,10 @@
 
             return returnBoolean;
         }
+
+        function sendMail(){
+            
+        }
     </script>
     <main class="site-main page-main">
         <div class="container">
@@ -60,7 +83,7 @@
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US*</h2>
                     <div class="entry col-sm-12 col-lg-10">
-                        <form class="contact" mailto="director@wic.rit.edu?subject=title&body=message" method="post" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -77,6 +100,7 @@
                             <textarea name="message"></textarea>
 
                             <input type="submit" class="submitButton" name="Send Email">
+                            
                         </form>
 
                     <br/><br/> 
