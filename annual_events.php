@@ -67,7 +67,7 @@
                         <hr/>
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="# " alt="Picture of WiCyS">
+                                <img class="media-object" src="img/annualevents/wicysconference 2015.jpg " alt="Picture of WiCyS">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Women in Cyber Security (WiCyS)</h3>
