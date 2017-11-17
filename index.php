@@ -1,3 +1,12 @@
+<!--
+Created Fall 2017
+
+Lauren DiDonato '20 (Webmaster)
+Ariel Viggiano '20
+Rachel Poturich '19
+Dakota Sorenson '20
+Kerri Zalba '
+-->
 <?php $title="Home";$level="";?>
 <!DOCTYPE html>
 <html lang="en">
