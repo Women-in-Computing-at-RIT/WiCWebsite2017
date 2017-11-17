@@ -23,7 +23,6 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">COMMITTEES</h2>
                     
-<!--                    Lana-->
                     <div class="media-left">
                         <img class="committeepic" src="img/committees/LanaSized.jpg" alt="Lana Verschage"/>
                     </div>
@@ -31,14 +30,7 @@
                         <p class="committetitle">Lana Verschage, Director of Women in Computing</p>
                         <p class="committeetext">Responsible for the development of all programs, events, presentations, communications and marketing associated with Women in Computing at RIT whose purpose is to motivate and inspire girls and young women to choose computing as a profession and to recruit and retain women students for the Golisano College of Computing at RIT.</p>
                     </div>
-<!--
-                        <div class="committee-head-row">
-                            <img class="committeepic" src="img/committees/LanaSized.jpg" alt="Lana Verschage"/>
-                            <p class="committetitle">Lana Verschage, Director of Women in Computing</p>
-                            <p class="committeetext">Responsible for the development of all programs, events, presentations, communications and marketing associated with Women in Computing at RIT whose purpose is to motivate and inspire girls and young women to choose computing as a profession and to recruit and retain women students for the Golisano College of Computing at RIT.</p>
-                        </div>
--->
-                    
+     
                         <br><br>
                     
                     <div class="media-left">
