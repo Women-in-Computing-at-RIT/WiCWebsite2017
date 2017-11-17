@@ -1,6 +1,9 @@
-<?php $title="Alumni"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
+=======
+<?php $title="Alumni"; $level="";?>
+>>>>>>> 8deee9006e4d2812d25ac60d0383ff541fdb25f5
 <?php include 'header.php';?>
 <body>
     <div class="bread_area">
@@ -8,7 +11,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>About</li>
                         <li class="active">Alumni</li>
                     </ol>                    
@@ -26,8 +29,9 @@
                         
                     </div>
                     <br/><br/>
+                    <!--
                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
+  
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -49,7 +53,7 @@
     </div>
   </div>
 
-  <!-- Left and right controls -->
+ 
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
@@ -60,7 +64,9 @@
   </a>
 </div>
     <br/>    
+-->
                 </section>
+            
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
                         <h4>ABOUT</h4>
