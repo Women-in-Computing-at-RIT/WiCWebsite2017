@@ -100,7 +100,7 @@
                             <p>Message</p>
                             <textarea name="message"></textarea>
 
-                            <input type="submit" class="submitButton" name="Submit">
+                            <input type="submit" class="submitButton" name="submit" value="submit">
                             
                         </form>
 
