@@ -98,7 +98,7 @@
                             <img class="committeepic" src="img/committees/BillSized.jpg"/>
                             <p class="committetitle">Bill Krodthoff, WiC Allies</p>
                             <p class="committeetext">WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
-                    </div>
+                        </div>
                     
                     <br><br>
                 </section>
