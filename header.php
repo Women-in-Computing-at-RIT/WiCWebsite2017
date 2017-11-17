@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
     
     
-    <!-- <base href="http://localhost:8888/" />  CHANGE ON LAUNCH DAY-->
+    <!-- <base href="http://localhost:8888/" />-->
     <link href="<?php echo $level ?>css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo $level ?>css/font-awesome.min.css" rel="stylesheet">
     <link href="<?php echo $level ?>style.css" rel="stylesheet">
@@ -35,10 +35,9 @@
 			<div class="container">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse">
 					<span class="sr-only">Toggle Navigation</span>
-					<i class="fa fa-bars"></i>
-	<?php echo $level ?>			</but<?php echo $level ?>ton>
+					<i class="fa fa-bars"></i></button>
 				<a href="<?php echo $level ?>index.php" class="navbar-brand">
-					<img id="headerlogo" src="img/logo.png" alt="Post">
+					<img id="headerlogo" src="<?php echo($level)?>img/logo.png" alt="header logo">
 				</a>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
@@ -54,12 +53,13 @@
                                 <li><a href="<?php echo $level ?>alumni.php" title="">ALUMNI</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks")){echo "active";} ?>">
+                        <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks") || ($title=="Outreach")){echo "active";} ?>">
                             <a href="#" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="<?php echo $level ?>events.php" title="">UPCOMING CALENDAR</a></li>
                                 <li><a href="<?php echo $level ?>wichacks.php" title="">WICHACKS</a></li>
                                 <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
+                                <li><a href="<?php echo $level ?>outreach.php" title="">OUTREACH</a></li>
                             </ul>
                         </li>
                         <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>
@@ -73,7 +73,7 @@
 		</nav>        
     </header>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="<?php echo $level ?>js/bootstrap.min.js"></script>
     <script type="text/javascript">
         $('.carousel[data-type="multi"] .item').each(function(){
           var next = $(this).next();

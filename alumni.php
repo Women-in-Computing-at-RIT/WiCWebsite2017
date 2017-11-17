@@ -1,4 +1,4 @@
-<?php $title="Alumni"; ?>
+<?php $title="Alumni"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -22,14 +22,44 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">ALUMNI</h2>
                     <div class="entry">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae mauris tempor, dictum enim nec, laoreet risus. Mauris eget elementum felis. Nam lobortis ipsum in magna finibus scelerisque. Suspendisse turpis augue, aliquam eleifend posuere sed, eleifend consectetur tellus. Phasellus vel leo et turpis scelerisque luctus vitae vulputate mauris. Sed semper metus ut ligula vehicula, vitae fringilla justo viverra. Suspendisse faucibus dictum arcu nec tincidunt. Etiam volutpat facilisis magna, vitae rhoncus enim tempus vel. Donec porttitor sodales posuere.</p>
+                        <p>Women in Computing is dedicated to supporting and showcasing their alumni. We love to stay in contact with our alumni, to find out where they are and what they are doing. Giving our current members people to look up to encourages them to succeed and reminds them why they should work hard. We are so glad you joined the WiC community during your time at RIT and we want you to know you can always have an active part in it.  Please send us an email if you have anything to contribute. Whether it is giving a tech talk, hosting a company recruitment event, or sponsoring a WiC event, you are always welcome! </p>
                         
                     </div>
-                    <br><br>
-                    <h2 class="page-title">Lorem ipsum dolor</h2>
-                    <div class="entry">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae mauris tempor, dictum enim nec, laoreet risus. Mauris eget elementum felis. Nam lobortis ipsum in magna finibus scelerisque. Suspendisse turpis augue, aliquam eleifend posuere sed, eleifend consectetur tellus. Phasellus vel leo et turpis scelerisque luctus vitae vulputate mauris. Sed semper metus ut ligula vehicula, vitae fringilla justo viverra. Suspendisse faucibus dictum arcu nec tincidunt. Etiam volutpat facilisis magna, vitae rhoncus enim tempus vel. Donec porttitor sodales posuere.</p>
-                    </div>
+                    <br/><br/>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  
+  <div class="carousel-inner">
+    <div class="item active">
+        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
+    </div>
+
+    <div class="item">
+        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
+    </div>
+
+    <div class="item">
+      <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    <br/>    
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">

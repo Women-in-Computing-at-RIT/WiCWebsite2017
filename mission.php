@@ -1,4 +1,4 @@
-<?php $title="Mission"; ?>
+<?php $title="Mission"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>

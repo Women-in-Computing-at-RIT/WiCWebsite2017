@@ -1,6 +1,7 @@
 <?php $title="Events";
       $level="";?>
 <!DOCTYPE html>
+<html lang="en">
 <body>
     <?php include 'header.php';?>
     <div class="bread_area">
@@ -30,11 +31,12 @@
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
-                        <h4>Events</h4>
+                        <h4>EVENTS</h4>
                         <ul>
                             <li class="current"><a href="#" title="">Upcoming Calendar</a></li>
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
+                            <li><a href="outreach.php" title="">Outreach</a></li>
                         </ul>
                     </div>
                 </aside>

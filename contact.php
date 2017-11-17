@@ -1,5 +1,26 @@
 <?php $title="Contact Us"; 
-    $level="";?>
+    $level="";
+    ?>
+
+    <?php 
+        $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
+
+        if ($_POST['submit']) {
+            $name = $_POST['name'];
+            $email = $_POST['email'];
+            $subject = $_POST['title'];
+            $message = $_POST['message'];
+            $from = "From: " . $name;
+
+            $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+
+            if (mail ($to, $subject, $body, $from)) {
+                echo "<p>Message sent</p>";
+            } else{
+                echo "<p>Something went wrong, please try again</p>";
+            }
+        }
+    ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,43 +39,43 @@
         </div>
     </div>
     <script type="text/javascript">
-        function validateEmail(email) {
+        function validEmail(email) {
             var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
             return re.test(email);
         }
-        
+
         function validateContact(){
             var returnBoolean = true;
 
-            var sName = document.getElementsByName("senderName")[0];
+            var sName = document.getElementsByName("name")[0];
             if (sName.value == "") {
                 returnBoolean = false;
                 sName.style.backgroundColor = "pink";
             } else {sName.style.backgroundColor = "white";}
 
-            var sEmail = document.getElementsByName("senderEmail")[0];
-            if (sEmail.value == "" || validateEmail(sEmail)) {
+            var sEmail = document.getElementsByName("email")[0];
+            if ( ( sEmail.value == "" )  ) {
                 returnBoolean = false;
                 sEmail.style.backgroundColor = "pink";
-            } else {
-                sEmail.style.backgroundColor = "white";}
+            } else { sEmail.style.backgroundColor = "white";}
 
-            var reason = document.getElementsByName("senderTitle")[0];
+            var reason = document.getElementsByName("title")[0];
             if (reason.value == "") {
                 returnBoolean = false;
                 reason.style.backgroundColor = "pink";
-            } else {
-                reason.style.backgroundColor = "white";}
+            } else { reason.style.backgroundColor = "white";}
             
-
-            var message = document.getElementsByName("senderMessage")[0];
+            var message = document.getElementsByName("message")[0];
             if (message.value == "") {
                 returnBoolean = false;
                 message.style.backgroundColor = "pink";
-            } else {
-                message.style.backgroundColor = "white";}
+            } else { message.style.backgroundColor = "white";}
 
             return returnBoolean;
+        }
+
+        function sendMail(){
+            
         }
     </script>
     <main class="site-main page-main">
@@ -63,7 +84,7 @@
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US*</h2>
                     <div class="entry col-sm-12 col-lg-10">
-                        <form class="contact" action="" method="post" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -80,6 +101,7 @@
                             <textarea name="message"></textarea>
 
                             <input type="submit" class="submitButton" name="Send Email">
+                            
                         </form>
 
                     <br/><br/> 
@@ -90,6 +112,6 @@
             </div>
         </div>
     </main>
-     <?php include 'footer.php';?>
+    <?php include 'footer.php';?>
 </body>
 </html>

@@ -22,8 +22,6 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-9">
-                    <p class="blogback"><a href="blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a></p>
-                    <br><br>
                     <h2 class="page-title">ERNST &amp; YOUNG VISIT</h2>
                     <div class="entry">
                         <h4>About EY:</h4>
@@ -54,26 +52,27 @@
                         <ul>
                             <li>Technical experience that meets the role is what employers look for initially, but what gets you the job is your positive attitude and willingness to learn. The most important thing is that you are excited to learn and are a delight to be with in the conference room.</li>
                         </ul><br>
-                        <img class="blogimg" src="img/blog/fall_2017/EY.jpg" alt="EY logo">
+                        <img class="blogimg" src="<?php echo($level)?>img/blog/fall_2017/EY.jpg" alt="EY logo">
                         
                         <div class="blogbtminfo">
-                            <span class="blogdate">Posted: 10/20/17</span> 
+                            <span class="blogdate">Posted: 9/20/17</span> 
                             <span class="pipe">| </span>
                             <span class="blogtype"><i class="fa fa-building"></i> Company Visit</span>
                         </div>
                         
                         <div class="blogbtmback">
-                            <a href="blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a>
+                            <a href="<?php echo($level)?>blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a>
                         </div>
                         
                     </div>
                 </section>
                 <aside class="sidebar col-sm-3">
-                    <img src="img/blog/fall_2017/EYlogo.png" alt="EY logo">
+                    <p class="blogback"><a href="<?php echo($level)?>blog.php"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> Back to Blog</a></p>
+                    <img src="<?php echo($level)?>img/blog/fall_2017/EYlogo.png" alt="EY logo">
                 </aside>
             </div>
         </div>
     </main>
-     <?php include '../../footer.php';?>
+     <?php include $level.'footer.php';?>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<?php $title="WiCHacks"; ?>
+<?php $title="WiCHacks"; $level="";?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -40,6 +40,7 @@
                             <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li class="current"><a href="#" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
+                            <li><a href="outreach.php" title="">Outreach</a></li>
                         </ul>
                     </div>
                 </aside>

@@ -209,6 +209,11 @@ a.none:hover {
     line-height: 1.12857143;
     font-size: 12px;
 }
+@media (max-width: 767px){
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #dddddd;
+    }
+}
 
 .main-navbar-nav li > .dropdown-menu > li > a:hover,
 .main-navbar-nav li > .dropdown-menu > li > a:focus {
@@ -994,8 +999,42 @@ h2.category-title:after {
     .missionpics {
         padding: 30px !important;
     }
+    
     /*wichacks*/
     
+    
+    
+/*    allies*/
+    
+/*
+    .row-alliespics {
+        text-align: left;
+    }
+
+    .alliespics {
+        padding: 0;
+        padding-bottom: 5px;
+    }   
+*/
+    
+/*
+    #slideshow {
+        display: none;
+    }
+*/
+}
+
+/*annoying homepage tablet fix*/
+@media (min-width:463px) and (max-width:769px){
+    #intro{
+        width: 90% !important;
+        margin: 5%;
+    }
+    #meetingtimes{
+        border-bottom:#ebebeb 1px solid;
+        margin-bottom: 40px;
+        padding-bottom: 10px;
+    }
 }
 /*homepage*/
 #meetingtimes ul{
@@ -1058,6 +1097,7 @@ h2.category-title:after {
 /*Contact Us Page*/
 form.contact > input, textarea{
     width: 100%;
+    border: 1px solid grey;
 }
 form.contact > textarea{
     min-height: 200px;
@@ -1077,13 +1117,22 @@ form.contact > input.submitButton{
 }
 
 .alliespics {
-    padding: 10px;
+    padding: 15px;
     padding-bottom: 0px;
+/*    border: 1px solid #ebebeb;*/
+}
+
+#slideshow {
+    display: block;
 }
 
 /*Committees*/
 .committeetext {
     width:90%;
+}
+
+.committetitle {
+    font-weight: bold;
 }
 
 .committeepic {
