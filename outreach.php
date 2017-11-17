@@ -39,7 +39,7 @@
                         </li> 
                         <li class="media">
                             <div class="media-left">
-                                    <img class="media-object" src="img/outreach/techbadge.jpg" alt="Post">
+                                    <img class="media-object" src="img/outreach/techbadge.jpg" alt="tech badge day pic">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Girl Scout Tech Badge Day</h3>
@@ -55,7 +55,7 @@
                         </li>
                         <li class="media">
                             <div class="media-left">
-                                    <img class="media-object" src="img/outreach/stemfair.JPG" alt="Post">
+                                    <img class="media-object" src="img/outreach/stemfair.JPG" alt="stem fair pic">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">STEM Fair</h3>
@@ -65,7 +65,7 @@
                         </li>    
                         <li class="media">
                             <div class="media-left">
-                                    <img class="media-object" src="img/outreach/afterhours.jpg" alt="Post">
+                                    <img class="media-object" src="img/outreach/afterhours.jpg" alt="after hours pic">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiC After Hours</h3>
