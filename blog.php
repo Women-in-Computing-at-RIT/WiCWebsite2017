@@ -25,7 +25,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/DOSVisit.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Picture of DOS">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -48,7 +48,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/Projects1.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/Projects1cover.jpg" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/Projects1cover.jpg" alt="Picture of Projects">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -71,7 +71,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/WillowTreeVisit.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/willowtreecover.jpg" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/willowtreecover.jpg" alt="Picture of WillowTree">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -94,7 +94,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/CoreOSVisit.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/CoreOScover.png" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/CoreOScover.png" alt="Picture of CoreOS">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -117,7 +117,7 @@
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/EYVisit.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/EYcover.jpg" alt="Post">
+                                    <img class="media-object" src="img/blog/fall_2017/EYcover.jpg" alt="Picture of EY">
                                 </a>
                             </div>
                             <div class="media-body">
