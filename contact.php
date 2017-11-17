@@ -1,8 +1,7 @@
-<?php $title="Contact Us"; 
+<?php 
+    $title="Contact Us"; 
     $level="";
-    ?>
 
-    <?php 
         $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
         if ($_POST['submit']) {
@@ -11,7 +10,6 @@
             $subject = $_POST['title'];
             $message = $_POST['message'];
             $from = "From: " . $name;
-
             $body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
             if (mail ($to, $subject, $body, $from)) {
@@ -74,9 +72,6 @@
             return returnBoolean;
         }
 
-        function sendMail(){
-            
-        }
     </script>
     <main class="site-main page-main">
         <div class="container">
