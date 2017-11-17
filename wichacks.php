@@ -22,7 +22,7 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title"><img id="wichackslogoheader" src="img/wichackslogol.png" alt="wichacks logo"/></h2>
                     <div class="entry">
-                        <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age.</p>
+                        <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants are female college students.</p>
                         
                         <h3><a href="https://wichacks.io/"><img id="wichackslogo" src="img/wichackslogos.png" alt="wichacks logo"/></a> Learn more at <a href="https://wichacks.io/">wichacks.io</a></h3>
                            

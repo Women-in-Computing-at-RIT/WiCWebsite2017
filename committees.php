@@ -89,7 +89,7 @@
                         <div class="committee-head-row"> 
                             <img class="committeepic" src="img/committees/LaurenSized.jpg" alt="placeholder"/>
                             <p class="committetitle">Lauren DiDonato, WiC WebMaster</p>
-                            <p class="committeetext">The Webmaster is responsible for updating and maintaining all three of WiC’s websites.</p>
+                            <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website. This website was revemped in the fall of 2017.</p>
                         </div>
                     
                         <br><br>
