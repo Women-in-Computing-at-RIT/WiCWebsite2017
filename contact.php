@@ -94,7 +94,7 @@
                             <br/><br/>
 
                             <p>Reason for Contact</p>
-                            <input type="text" name="title"">
+                            <input type="text" name="title">
                             <br/><br/>
                             
                             <p>Message</p>
