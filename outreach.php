@@ -2,8 +2,8 @@
       $level="";?>
 <!DOCTYPE html>
 <html lang="en">
-<body>
 <?php include 'header.php';?>
+<body>
     <div class="bread_area">
         <div class="container">
             <div class="row">

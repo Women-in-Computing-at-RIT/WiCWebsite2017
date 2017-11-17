@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<?php include 'header.php';?>
 <body>
-    <?php include 'header.php';?>
     <div class="bread_area">
         <div class="container">
             <div class="row">
