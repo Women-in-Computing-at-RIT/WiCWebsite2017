@@ -984,12 +984,6 @@ h2.category-title:after {
     .alliespics {
         margin-bottom: 10px;
     }
-    
-    /*    committees*/
-    .committee-head-row {
-        margin-bottom: 60px;
-    }
-    
 }
 /*MOBILE*/
 @media screen and (max-width:462px) {
@@ -1028,11 +1022,6 @@ h2.category-title:after {
     
     #howtoallytitle {
         display: none;
-    }
-    
-/*    committees*/
-    .committee-head-row {
-        margin-bottom: 60px;
     }
 }
 
@@ -1139,12 +1128,6 @@ form.contact > input.submitButton{
     width:960px;
 }
 
-/*
-#howtoallytitle {
-    visibility: visible;
-}
-*/
-
 /*Committees*/
 .committeetext {
     width:90%;
@@ -1152,6 +1135,7 @@ form.contact > input.submitButton{
 
 .committetitle {
     font-weight: bold;
+    font-size: 1.5em;
 }
 
 .committeepic {
