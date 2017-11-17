@@ -1,8 +1,9 @@
 <?php $title="Annual Events";
       $level="";?>
 <!DOCTYPE html>
-<body>
+<html lang="en">
 <?php include 'header.php';?>
+<body>
     <div class="bread_area">
         <div class="container">
             <div class="row">
