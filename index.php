@@ -58,25 +58,10 @@
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             
-                            <b>Volunteer for Girl Scouts Badge Day! </b>
+                            <b>Volunteer for Code and Coffee </b>
                                 <ul>
-                                    <li>11/4 (9:30am - 4pm)</li>
-                                    <li><a href="">http://bit.ly/GirlScoutsBadgeDay</a></li>
-                                </ul>
-                            <b>RSVP for Google Personal Branding Workshop</b>
-                                <ul>
-                                    <li>10/18 (6-8pm)</li>
-                                    <li><a href="">http://bit.ly/GoogleBrandingWorkshop</a></li>
-                                </ul>
-                            <b>RSVP for Trip to Powers Farm Market</b>
-                                <ul>
-                                    <li>10/22 (2-4pm)</li>
-                                    <li><a href="">http://bit.ly/wic-powers</a></li>
-                                </ul>
-                            <b>Volunteer for ROCGirlHacks</b>
-                                <ul>
-                                    <li>10/28 (9am - 7pm)</li>
-                                    <li><a href="">http://bit.ly/VolunteerROCGirlHacks</a></li>
+                                    <li>12/5 (3pm - 5pm)</li>
+                                    <li><a href="http://bit.ly/WiC_Code_Coffee">http://bit.ly/WiC_Code_Coffee</a></li>
                                 </ul>
                             <i class="fa fa-calendar"></i>
                         </div>

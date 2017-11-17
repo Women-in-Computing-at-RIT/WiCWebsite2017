@@ -39,7 +39,7 @@
                     </div>
                     <h2 class="page-title">WHO WE ARE</h2>
                     <div class="entry">
-                        <p>Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
+                        <p>Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Heads and active members. Our ultimate goal is to empower women in computing fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
                     </div>
                     <br><br>
                     <h2 class="page-title">GOALS</h2>
@@ -57,7 +57,7 @@
                     <br><br>
                     <h2 class="page-title">GET INVOLVED</h2>
                     <div class="entry">
-                        <p>All students in the Rochester Institute of Technology are eligible for membership in WiC at RIT.</p>
+                        <p>All members of the Rochester Institute of Technology community are eligible to get involved with WiC at RIT.</p>
                     </div>
                 </section>
                 <aside class="sidebar col-sm-3">

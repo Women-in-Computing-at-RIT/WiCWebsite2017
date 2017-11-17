@@ -25,8 +25,8 @@
                         <section class="col-sm-8">
                         <h2 class="page-title">WHY SPONSOR WIC?</h2>
                         <div class="entry">
-                            <p>Your support is vital to the success of our mission. Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers.Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
-                            <p>To learn more about our initiatives and how you can support us contact our director:</p>
+                            <p>Your support is vital to the success of our mission. Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their academic and professional careers. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of Technology and beyond.</p>
+                            <p>To learn more about our initiatives and how you can support us, contact our director:</p>
                             <ul>
                                 <li>Lana Verschage - Director of Women in Computing</li>
                                 <li>Email: director@wic.rit.edu</li>
@@ -48,7 +48,7 @@
 
                     <br><br>
 
-                    <h2 class="page-title">HOW TO: SUPPORT WOMEN IN COMPUTING</h2>
+                    <h2 class="page-title">HOW TO SUPPORT WOMEN IN COMPUTING</h2>
                     <div class="entry">
                         <ul>
                             <li>Want to get involved with Women in Computing? Send us a message over on our <a target="_black" href="contact.php">Contact Page</a>.</li>

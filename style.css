@@ -971,6 +971,20 @@ h2.category-title:after {
     .missionpics{
         padding: 0 !important;
     }
+    
+/*    allies*/
+    #slideshow {
+        display: none;
+    }
+    
+    #slides-link {
+        visibility: visible;
+    }
+
+    .alliespics {
+        margin-bottom: 10px;
+    }
+    
 }
 /*MOBILE*/
 @media screen and (max-width:462px) {
@@ -1001,27 +1015,20 @@ h2.category-title:after {
     }
     
     /*wichacks*/
-    
-    
-    
-/*    allies*/
-    
-/*
-    .row-alliespics {
-        text-align: left;
-    }
 
-    .alliespics {
-        padding: 0;
-        padding-bottom: 5px;
-    }   
-*/
-    
-/*
+/*    allies*/
     #slideshow {
         display: none;
     }
-*/
+    
+    #slides-link {
+        visibility: visible;
+    }
+    
+/*    committees*/
+    .committee-head-row {
+        margin-bottom: 55px;
+    }
 }
 
 /*annoying homepage tablet fix*/
@@ -1123,7 +1130,12 @@ form.contact > input.submitButton{
 }
 
 #slideshow {
-    display: block;
+    height: 569px;
+    width:960px;
+}
+
+#slides-link {
+    visibility: hidden;
 }
 
 /*Committees*/
