@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<<<<<<< HEAD
-=======
 <?php $title="Alumni"; $level="";?>
->>>>>>> 8deee9006e4d2812d25ac60d0383ff541fdb25f5
 <?php include 'header.php';?>
 <body>
     <div class="bread_area">
