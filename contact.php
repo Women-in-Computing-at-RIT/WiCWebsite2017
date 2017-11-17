@@ -1,24 +1,24 @@
 <?php 
     $title="Contact Us"; 
     $level="";
+    $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
-        $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
+    if ($_POST['submit']) {
+        $name = $_POST['name'];
+        $email = $_POST['email'];
+        $subject = $_POST['title'];
+        $message = $_POST['message'];
+        $from = "From: " . $name;
+        $body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
-        if ($_POST['submit']) {
-            $name = $_POST['name'];
-            $email = $_POST['email'];
-            $subject = $_POST['title'];
-            $message = $_POST['message'];
-            $from = "From: " . $name;
-            $body = "From: $name\n E-Mail: $email\n Message:\n $message";
-
-            if (mail ($to, $subject, $body, $from)) {
-                echo "<p>Message sent</p>";
-            } else{
-                echo "<p>Something went wrong, please try again</p>";
-            }
+        if (mail ($to, $subject, $body, $from)) {
+            echo "<p>Message sent</p>";
+        } else{
+            echo "<p>Something went wrong, please try again</p>";
         }
-    ?>
+    }
+    
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">Contact Us</li>
                     </ol>                    
                 </div>
@@ -77,8 +77,13 @@
         <div class="container">
             <div class="row">
                 <section class="page col-sm-12">
-                    <h2 class="page-title">CONTACT US*</h2>
+                    <h2 class="page-title">CONTACT US</h2>
                     <div class="entry col-sm-12 col-lg-10">
+                        <p>This page is under construction, please contact our director Lana Verschage:</p>
+                        <ul>
+                                <li>Email: director@wic.rit.edu</li>
+                                <li>Phone: 585.475.7155</li>
+                            </ul>
                         <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
