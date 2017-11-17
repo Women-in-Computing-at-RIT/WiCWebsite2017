@@ -3,7 +3,7 @@
     $level="";
     $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
-    if ($_POST['Submit']) {
+    if ($_POST['submit']) {
         $name = $_POST['name'];
         $email = $_POST['email'];
         $subject = $_POST['title'];
@@ -100,7 +100,7 @@
                             <p>Message</p>
                             <textarea name="message"></textarea>
 
-                            <input type="submit" class="submitButton" name="Submit">
+                            <input type="submit" class="submitButton" name="submit" value="Submit">
                             
                         </form>
 
