@@ -977,8 +977,8 @@ h2.category-title:after {
         display: none;
     }
     
-    #slides-link {
-        visibility: visible;
+    #howtoallytitle {
+        display: none;
     }
 
     .alliespics {
@@ -1021,8 +1021,8 @@ h2.category-title:after {
         display: none;
     }
     
-    #slides-link {
-        visibility: visible;
+    #howtoallytitle {
+        display: none;
     }
     
 /*    committees*/
@@ -1134,9 +1134,11 @@ form.contact > input.submitButton{
     width:960px;
 }
 
-#slides-link {
-    visibility: hidden;
+/*
+#howtoallytitle {
+    visibility: visible;
 }
+*/
 
 /*Committees*/
 .committeetext {

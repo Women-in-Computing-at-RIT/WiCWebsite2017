@@ -39,7 +39,7 @@
                     
                     <br><br>
                     
-                    <h2 class="page-title">HOW TO BE AN ALLY</h2>
+                    <h2 class="page-title" id="howtoallytitle">HOW TO BE AN ALLY</h2>
 
                     <iframe id="slideshow" src="https://docs.google.com/presentation/d/e/2PACX-1vQqwps5546lfghlaPZk05O3G6xOR676VqU7fzkAw5h5kXsn4bhvfrmWBfE0QHTAh3XfJgsnbNkbUJ3k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                 </section>
