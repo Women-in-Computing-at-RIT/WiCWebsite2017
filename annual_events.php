@@ -55,8 +55,7 @@
                                 <p>An evening event celebrating Golisano College female computing professionals and allies. The event is comprised of a keynote, tech talk, networking event, dinner and lasting words of inspiration.</p>                               
                             </div>
                         </li>                     
-                    </ul>
-                    <br/>                    
+                    </ul>                    
                     <h2 class="category-title">CONFERENCES</h2>
                     <ul class="media-list">
                         <li class="media">
