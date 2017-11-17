@@ -977,12 +977,17 @@ h2.category-title:after {
         display: none;
     }
     
-    #slides-link {
-        visibility: visible;
+    #howtoallytitle {
+        display: none;
     }
 
     .alliespics {
         margin-bottom: 10px;
+    }
+    
+    /*    committees*/
+    .committee-head-row {
+        margin-bottom: 60px;
     }
     
 }
@@ -1021,13 +1026,13 @@ h2.category-title:after {
         display: none;
     }
     
-    #slides-link {
-        visibility: visible;
+    #howtoallytitle {
+        display: none;
     }
     
 /*    committees*/
     .committee-head-row {
-        margin-bottom: 55px;
+        margin-bottom: 60px;
     }
 }
 
@@ -1134,9 +1139,11 @@ form.contact > input.submitButton{
     width:960px;
 }
 
-#slides-link {
-    visibility: hidden;
+/*
+#howtoallytitle {
+    visibility: visible;
 }
+*/
 
 /*Committees*/
 .committeetext {
