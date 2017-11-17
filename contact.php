@@ -4,6 +4,7 @@
     $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
     $name = $_POST['name'];
+    $_POST['submit'];
 
     if ($_POST['submit']) {
         $name = $_POST['name'];
