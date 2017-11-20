@@ -38,8 +38,8 @@
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </aside>                                
@@ -61,8 +61,8 @@
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/Projects1.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/Projects1.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </aside>                                
@@ -84,8 +84,8 @@
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/WillowTreeVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/WillowTreeVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </aside>                                
@@ -107,8 +107,8 @@
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/CoreOSVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/CoreOSVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </aside>                                
@@ -130,8 +130,8 @@
                                     </div>
                                     <div class="pull-right">
                                         <ul class="arc-share">
-                                            <li><a href="#" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/EYVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/EYVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                     </div>
                                 </aside>                                

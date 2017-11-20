@@ -46,7 +46,7 @@ Kerri Zalba '
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:30pm • INS-1080</li>
+                                    <li>Mon • 6:30pm • GOL-2600</li>
                                 </ul>
                                 <b>WiC Allies Committee:</b>
                                 <ul>
@@ -70,7 +70,7 @@ Kerri Zalba '
                             <b>Volunteer for Code and Coffee </b>
                                 <ul>
                                     <li>12/5 (3pm - 5pm)</li>
-                                    <li><a href="http://bit.ly/WiC_Code_Coffee">http://bit.ly/WiC_Code_Coffee</a></li>
+                                    <li><a href="http://bit.ly/WiC_Code_Coffee" target="_blank">http://bit.ly/WiC_Code_Coffee</a></li>
                                 </ul>
                             <i class="fa fa-calendar"></i>
                         </div>

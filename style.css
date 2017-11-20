@@ -18,6 +18,9 @@ body {
     color: #8c8c8c;
     background-color: #fff;
 }
+main .container{
+    min-height: 60vh;
+}
 
 h1,
 h2,
@@ -218,7 +221,7 @@ a.none:hover {
 .main-navbar-nav li > .dropdown-menu > li > a:hover,
 .main-navbar-nav li > .dropdown-menu > li > a:focus {
     color: #4D1F5B;
-    background-color: transparent;
+    background-color: #EDE8EE;
 }
 
 .main-navbar-nav li > .dropdown-menu > li > a i {

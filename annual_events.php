@@ -29,7 +29,7 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiCHacks</h3>
-                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age. <a href="https://wichacks.io/">Learn More...</a></p>                               
+                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age. <a href="https://wichacks.io/" target="_blank">Learn More...</a></p>                               
                             </div>
                         </li> 
                         <hr/>
@@ -62,7 +62,7 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">New York Celebration of Women in Computing (NYCWiC)</h3>
-                                <p>New York Celebration of Women in Computing (NYCWiC) Conference is every two years in April. Attendees will be women in industry and academia from all over New York state. NYCWiC hopes to encourage women to complete their studies in computing by exploring careers and meeting women leaders from business, industry and academia. <a href="http://nycwic.hosting.acm.org/">Learn More...</a></p>
+                                <p>New York Celebration of Women in Computing (NYCWiC) Conference is every two years in April. Attendees will be women in industry and academia from all over New York state. NYCWiC hopes to encourage women to complete their studies in computing by exploring careers and meeting women leaders from business, industry and academia. <a href="http://nycwic.hosting.acm.org/" target="_blank">Learn More...</a></p>
                             </div>
                         </li>  
                         <hr/>
@@ -72,7 +72,7 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Women in Cyber Security (WiCyS)</h3>
-                                <p>Women in Cyber Security (WiCyS) is a conference in March only for women in the Computer Security majors. WiCyS is an effort to build a community of women students/faculty/researchers/professionals in cybersecurity from academia, research and industry. <a href="https://www.wicys.net/">Learn More...</a></p>
+                                <p>Women in Cyber Security (WiCyS) is a conference in March only for women in the Computer Security majors. WiCyS is an effort to build a community of women students/faculty/researchers/professionals in cybersecurity from academia, research and industry. <a href="https://www.wicys.net/" target="_blank">Learn More...</a></p>
                             </div>
                         </li>  
                         <hr/>
@@ -82,7 +82,7 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">Grace Hopper Celebration of Women in Computing</h3>
-                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront. Started in 1994, GHC is now the world’s largest gathering of women technologists. In 2013, GHC hosted over 4,750 attendees from 53 countries including 1,900 students from over 400 academic institutions and 2,850 professionals from industry, government and academia. The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers and the best of ACM SIGSOFT and SIGGRAPH. Meet the women who are transforming technology at the Grace Hopper Celebration. <a href="https://ghc.anitab.org/">Learn More...</a></p>
+                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront. Started in 1994, GHC is now the world’s largest gathering of women technologists. In 2013, GHC hosted over 4,750 attendees from 53 countries including 1,900 students from over 400 academic institutions and 2,850 professionals from industry, government and academia. The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers and the best of ACM SIGSOFT and SIGGRAPH. Meet the women who are transforming technology at the Grace Hopper Celebration. <a href="https://ghc.anitab.org/" target="_blank">Learn More...</a></p>
                             </div>
                         </li>                 
                     </ul>                    

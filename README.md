@@ -1,2 +1,2 @@
 # WiCWebsite2017
-New Website fro 2017
+New Website for 2017
