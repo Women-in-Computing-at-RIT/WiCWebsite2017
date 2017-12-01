@@ -18,7 +18,7 @@
     <main class="site-main page-main">
         <div class="container">
             <div class="row">
-                <section class="page">
+                <section class="page col-sm-9">
                     <h2 class="page-title">AFTER HOURS</h2>
                     <div class="entry">
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
