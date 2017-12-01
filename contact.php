@@ -64,7 +64,7 @@
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US</h2>
                     <div class="entry col-sm-12 col-lg-10">
-                        <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" action="contact.php" method="get" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -82,7 +82,7 @@
 
                             <input type="submit" class="submitButton" name="submit" value="Submit">
                             <?php
-                                if (isset($_POST['submit'])) {
+                                if (isset($_GET['submit'])) {
                                     $name = $_POST['name'];
                                     $email = $_POST['email'];
                                     $subject = $_POST['title'];
