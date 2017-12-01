@@ -614,6 +614,10 @@ ul.big li:nth-child(2n) {
     margin-left: 2%;
 }
 
+.site-footer .list-inline li i {
+    font-size: 2em;
+}
+
 @media (max-width:462px) {
     .fbox:last-child {
         margin-top: 20px;
@@ -1179,4 +1183,5 @@ form.contact > input.submitButton{
 #conferences {
     margin-top: 2em;
 }
+
 
