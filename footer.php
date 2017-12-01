@@ -22,7 +22,7 @@
 			</div>
 			<div class="col-md-6 text-right">
 				One Lomb Memorial Drive Rochester NY 14623-5603 <br/>
-				Qustions or comments? <a href="http://www.rit.edu/ask/">Send us feedback.</a> Telephone 585-475-2411
+				Questions or comments? <a href="http://www.rit.edu/ask/">Send us feedback.</a> Telephone 585-475-2411
 			</div>
 		</div>
     </footer>

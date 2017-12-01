@@ -33,8 +33,8 @@ Kerri Zalba '
                             <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
-                                    <li>Wed • 6:30pm • SIH-1600</li>
-                                    <li>(The Fishbowl- unless otherwise stated)</li>
+                                    <li>Wed • 6:30pm • GOL-3560</li>
+                                    <!--<li>(The Fishbowl- unless otherwise stated)</li>-->
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
@@ -66,7 +66,11 @@ Kerri Zalba '
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            
+                            <b>RSVP for the WiC Holiday Party!</b>
+                            <ul>
+                                <li>12/6 (6:30pm - 7:30pm)</li>
+                                <li><a href="http://bit.ly/wic-holiday" target="_blank">http://bit.ly/wic-holiday</a></li>
+                            </ul>
                             <b>Volunteer for Code and Coffee </b>
                                 <ul>
                                     <li>12/5 (3pm - 5pm)</li>
