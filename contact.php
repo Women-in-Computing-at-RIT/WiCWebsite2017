@@ -106,7 +106,7 @@
                         </form>
 
                     <br/><br/> 
-                    <p>*Messages will be sent to Lana Verschage, Director of Women in Computing</p>
+                    <p>*Messages will be s!!ent to Lana Verschage, Director of Women in Computing</p>
                     </div>
                     
                 </section>
