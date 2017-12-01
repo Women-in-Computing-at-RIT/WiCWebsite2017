@@ -1,7 +1,7 @@
 <?php 
     $title = "Contact Us"; 
     $level = "";
-    $to = "ltvvse@rit.edu";
+    $to = "aviggian836@gmail.com"; //"ltvvse@rit.edu";
 ?>
 
 <!DOCTYPE html>
@@ -90,10 +90,16 @@
                                     $from = "From: " . $name;
                                     $body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
+
+                                    console.log($body);
+
+
+                                    console.log(mail ($to, $subject, $body, $from));
+
                                     if (mail ($to, $subject, $body, $from)) {
-                                        echo "<p>Message sent</p>";
+                                        alert("Message sent</p>");
                                     } else{
-                                        echo "<p>Something went wrong, please try again</p>";
+                                        alert("<p>Something went wrong, please try again</p>");
                                     }
                                 }
                             ?>    
