@@ -89,7 +89,7 @@
                                     $message = $_POST['message'];
                                     $from = "From: " . $name;
                                     $body = "From: $name\n E-Mail: $email\n Message:\n $message";
-                                    if (mail ($to, $subject, $body, $from)) {
+                                    if (mail($to, $subject, $body, $from)) {
                                         echo "<script>alert('Message sent')</script>";
                                     } else{
                                         echo "<script>alert('Something went wrong, please try again')</script>";
@@ -99,7 +99,7 @@
                         </form>
 
                     <br/><br/> 
-                    <p>*Messages will be s!!ent to Lana Verschage, Director of Women in Computing</p>
+                    <p>*Messages will be sent to Lana Verschage, Director of Women in Computing</p>
                     </div>
                     
                 </section>
