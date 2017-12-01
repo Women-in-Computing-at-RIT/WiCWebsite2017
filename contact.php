@@ -2,23 +2,26 @@
     $title = "Contact Us"; 
     $level = "";
     
-    // issue
-    // $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
+    issue
+    $to = "aviggiano836@gmail.com";  //"director@wic.rit.edu";
 
-    // if ($_POST['submit']) {
-    //     $name = $_POST['name'];
-    //     $email = $_POST['email'];
-    //     $subject = $_POST['title'];
-    //     $message = $_POST['message'];
-    //     $from = "From: " . $name;
-    //     $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+    function send(){
 
-    //     if (mail ($to, $subject, $body, $from)) {
-    //         echo "<p>Message sent</p>";
-    //     } else{
-    //         echo "<p>Something went wrong, please try again</p>";
-    //     }
-    // }
+    }
+    if (isset($_POST['submit']) {
+        $name = $_POST['name'];
+        $email = $_POST['email'];
+        $subject = $_POST['title'];
+        $message = $_POST['message'];
+        $from = "From: " . $name;
+        $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+
+        if (mail ($to, $subject, $body, $from)) {
+            echo "<p>Message sent</p>";
+        } else{
+            echo "<p>Something went wrong, please try again</p>";
+        }
+    }
 ?>
 
 <!DOCTYPE html>
@@ -85,7 +88,7 @@
                                 <li>Email: director@wic.rit.edu</li>
                                 <li>Phone: 585.475.7155</li>
                             </ul>
-                        <!-- <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -107,7 +110,7 @@
 
                     <br/><br/> 
                     <p>*Messages will be sent to Lana Verschage, Director of Women in Computing</p>
-                    </div> -->
+                    </div>
                 </section>
                 
             </div>
