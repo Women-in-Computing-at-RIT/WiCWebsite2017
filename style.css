@@ -1060,6 +1060,12 @@ h2.category-title:after {
     width:90%;
     color:black;
 }
+
+.news-head {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /*mission*/
 .missionpics{
     padding-bottom: 220px;

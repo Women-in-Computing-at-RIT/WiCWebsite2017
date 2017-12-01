@@ -82,21 +82,40 @@ Kerri Zalba '
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
-                            <p><a target="_blank" href="http://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
-                                Democrat and Chronicle: All-girl hackathon to be held at RIT to spur interest in STEM careers </a></p>
-                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
-                                University News: ROCGirlHacks is Oct. 28</a></p>
-                            <p><a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
-                        Campus Spotlight: WiC and the Girl Scouts</a></p>
-                            <p><a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
-                        Founder of Girls Who Code to speak at RIT </a></p>
-                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
-                            Girl Scouts honor WiC for promoting girls in STEM</a></p>
-                            <p><a target="_blank" href="https://www.youtube.com/watch?v=OqUx7HMd4zY">WiC on TV: Good Day Rochester</a></p>
-                            <p><a target="_blank" href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
-                                University News: WiC Hacks 2017</a></p>
-                            <p><a target="_blank" href="https://www.youtube.com/watch?v=AS9TWebVQ98">WiC on TV: STEM Fair 2017 - ABC 13</a></p>
-                            <p><a target="_blank" href="https://www.youtube.com/watch?v=KEoWd_4Exag">WiC on TV: STEM Fair 2017 - TWC News</a></p>
+                            <p>
+                                <a target="_blank" href="http://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
+                                <span class="news-head">Democrat and Chronicle</span> | All-girl hackathon to be held at RIT to spur interest in STEM careers </a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
+                                <span class="news-head">University News</span>| ROCGirlHacks is Oct. 28</a></p>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
+                                <span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
+                                <span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
+                                <span class="news-head">University News</span> | Girl Scouts honor WiC for promoting girls in STEM</a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=OqUx7HMd4zY">
+                                <span class="news-head">WiC on TV</span> | Good Day Rochester</a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
+                                <span class="news-head">University News</span> | WiC Hacks 2017</a></p>
+                            <p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=AS9TWebVQ98">
+                                <span class="news-head">WiC on TV</span> | STEM Fair 2017 - ABC 13</a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=KEoWd_4Exag">
+                                <span class="news-head">WiC on TV</span> | STEM Fair 2017 - TWC News</a>
+                            </p>
                             <i class="fa fa-newspaper-o"></i>
                         </div>
                     </div>
