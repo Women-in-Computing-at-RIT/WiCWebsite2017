@@ -76,7 +76,7 @@
                             
                         <li class="media">
                             <div class="media-left">
-                                    <img class="media-object" src="img/outreach/afterhours.jpg" alt="pre orienation pic">
+                                    <img class="media-object" src="img/outreach/preorientation.jpg" alt="pre orienation pic">
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiC Pre-Orientation Program</h3>
