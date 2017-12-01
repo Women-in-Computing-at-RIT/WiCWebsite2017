@@ -1,9 +1,7 @@
 <?php 
     $title = "Contact Us"; 
     $level = "";
-    
-    $to = "director@wic.rit.edu";
-
+    $to = "ltvvse@rit.edu";
 ?>
 
 <!DOCTYPE html>
@@ -38,7 +36,8 @@
             } else {sName.style.backgroundColor = "white";}
 
             var sEmail = document.getElementsByName("email")[0];
-            if ( ( sEmail.value == "" )  ) {
+            console.log(validEmail(sEmail.value));
+            if ( ( sEmail.value == "" ) && !validEmail(sEmail.value)  ) {
                 returnBoolean = false;
                 sEmail.style.backgroundColor = "pink";
             } else { sEmail.style.backgroundColor = "white";}
