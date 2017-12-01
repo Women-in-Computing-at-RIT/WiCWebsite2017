@@ -22,35 +22,43 @@
             <div class="row">
                 <section class="page col-sm-9">
                     <h2 class="page-title">PROJECTS</h2>
-                        <div class="committee-head-row">
-                            <img class="committeepic" src="img/projects/wiclogo.png">
-                            <h4><p><strong>2018:</strong> Magic Mirror (Current Project)</p></h4>
-                            <p class="committeetext"><a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about current progress on this project.</p>
-                        </div>
+                    <div class="media-left">
+                        <img class="committeepic" src="img/projects/wiclogo.png">
+                    </div>
+                    <div class="media-body">
+                        <h4><p><strong>2018:</strong> Magic Mirror (Current Project)</p></h4>
+                        <p class="committeetext"><a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about current progress on this project.</p>
+                    </div>
                     
                         <br><br>
                     
-                        <div class="committee-head-row">
-                            <img class="committeepic" src="img/projects/project2017.JPG">
-                            <h4><p><strong>2017:</strong> Raspberry Pi Arcade Table</p></h4>
-                            <p class="committeetext">The arcade table was created using a raspberry pi 3 to run Retropie, in order to create a bar top arcade emulator. It is for one or two players with multiple games on the system. Can be found in the WiC space. </p>
-                        </div>
+                    <div class="media-left">
+                        <img class="committeepic" src="img/projects/project2017.JPG">
+                    </div>
+                    <div class="media-body">    
+                        <h4><p><strong>2017:</strong> Raspberry Pi Arcade Table</p></h4>
+                        <p class="committeetext">The arcade table was created using a raspberry pi 3 to run Retropie, in order to create a bar top arcade emulator. It is for one or two players with multiple games on the system. Can be found in the WiC space. </p>
+                    </div>
                     
                         <br><br>
                     
-                        <div class="committee-head-row"> 
-                            <img class="committeepic" src="img/projects/project2016.JPG">
-                            <h4><p><strong>2016:</strong> BMO Game Emulator</p></h4>
-                            <p class="committeetext">The projects committee decided to create our own version of a Gameboy. We 3D printed a case and used a raspberry pi with retropie to create the emulator. We soldered the pi to buttons, speakers, and a power supply. After downloading games we had a running gameboy emulator.</p>
-                        </div>
+                    <div class="media-left"> 
+                        <img class="committeepic" src="img/projects/project2016.JPG">
+                    </div>
+                    <div class="media-body">
+                        <h4><p><strong>2016:</strong> BMO Game Emulator</p></h4>
+                        <p class="committeetext">The projects committee decided to create our own version of a Gameboy. We 3D printed a case and used a raspberry pi with retropie to create the emulator. We soldered the pi to buttons, speakers, and a power supply. After downloading games we had a running gameboy emulator.</p>
+                    </div>
                     
                         <br><br>
                     
-                        <div class="committee-head-row">
-                            <img class="committeepic" src="img/projects/project2015.JPG">
-                                <h4><p><strong>2015:</strong> Wearable Stress Monitor</p></h4>
-                            <p class="committeetext">The wearable pulse monitor bracelet was developed to help young children  deal with stress and have a way to take  action against their anxiety.</p>
-                        </div>
+                    <div class="media-left">
+                        <img class="committeepic" src="img/projects/project2015.JPG">
+                    </div>
+                    <div class="media-body">
+                        <h4><p><strong>2015:</strong> Wearable Stress Monitor</p></h4>
+                        <p class="committeetext">The wearable pulse monitor bracelet was developed to help young children  deal with stress and have a way to take  action against their anxiety.</p>
+                    </div>
                     
                     <br><br>
                 </section>
