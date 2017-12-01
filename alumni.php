@@ -26,7 +26,7 @@
                         
                     </div>
                     <br/><br/>
-                    <h2 class="page-title">SPOTLIGHT</h2>
+                    <h2 class="page-title header-remove">SPOTLIGHT</h2>
                     <div class="entry">
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
 

@@ -1198,3 +1198,13 @@ form.contact > input.submitButton{
     color:#4D1F5B;
 }
 
+@media screen and (max-width: 992px) {
+    #myCarousel {
+        display: none;
+    }
+
+    .header-remove {
+        display: none;
+    }
+}
+
