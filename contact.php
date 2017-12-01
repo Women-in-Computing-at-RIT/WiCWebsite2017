@@ -89,17 +89,10 @@
                                     $message = $_POST['message'];
                                     $from = "From: " . $name;
                                     $body = "From: $name\n E-Mail: $email\n Message:\n $message";
-
-
-                                    console.log($body);
-
-
-                                    console.log(mail ($to, $subject, $body, $from));
-
                                     if (mail ($to, $subject, $body, $from)) {
-                                        alert("Message sent</p>");
+                                        echo "<script>alert('Message sent')</script>";
                                     } else{
-                                        alert("<p>Something went wrong, please try again</p>");
+                                        echo "<script>alert('Something went wrong, please try again')</script>";
                                     }
                                 }
                             ?>    
