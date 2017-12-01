@@ -33,26 +33,26 @@
             if (sName.value == "") {
                 returnBoolean = false;
                 sName.style.backgroundColor = "pink";
-            } else {sName.style.backgroundColor = "white";}
+            } else {sName.style.backgroundColor = "white"; }
 
             var sEmail = document.getElementsByName("email")[0];
             console.log(validEmail(sEmail.value));
             if ( ( sEmail.value == "" ) && !validEmail(sEmail.value)  ) {
                 returnBoolean = false;
                 sEmail.style.backgroundColor = "pink";
-            } else { sEmail.style.backgroundColor = "white";}
+            } else { sEmail.style.backgroundColor = "white"; }
 
             var reason = document.getElementsByName("title")[0];
             if (reason.value == "") {
                 returnBoolean = false;
                 reason.style.backgroundColor = "pink";
-            } else { reason.style.backgroundColor = "white";}
+            } else { reason.style.backgroundColor = "white"; }
             
             var message = document.getElementsByName("message")[0];
             if (message.value == "") {
                 returnBoolean = false;
                 message.style.backgroundColor = "pink";
-            } else { message.style.backgroundColor = "white";}
+            } else { message.style.backgroundColor = "white"; }
 
             return returnBoolean;
         }
@@ -64,7 +64,7 @@
                 <section class="page col-sm-12">
                     <h2 class="page-title">CONTACT US</h2>
                     <div class="entry col-sm-12 col-lg-10">
-                        <form class="contact" action="contact.php" method="get" onsubmit="return validateContact();" name="contactForm">
+                        <form class="contact" action="contact.php" method="post" onsubmit="return validateContact();" name="contactForm">
                             <p>Name</p>
                             <input type="text" name="name">
                             <br/><br/>
@@ -82,7 +82,7 @@
 
                             <input type="submit" class="submitButton" name="submit" value="Submit">
                             <?php
-                                if (isset($_GET['submit'])) {
+                                if (isset($_POST['submit'])) {
                                     $name = $_POST['name'];
                                     $email = $_POST['email'];
                                     $subject = $_POST['title'];
