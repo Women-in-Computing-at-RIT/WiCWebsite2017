@@ -71,8 +71,9 @@
                                 <h3 class="media-heading">WiC After Hours</h3>
                                 <p>The Women in Computing After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program includes learning about Study Abroad, Housing, Academic Support Services, Cooperative Education, leadership opportunities and much more.  <a href="afterhours.php">Learn More.</a></p>                           
                             </div>
-                        </li>
                             <hr>
+                        </li>
+                            
                         <li class="media">
                             <div class="media-left">
                                     <img class="media-object" src="img/outreach/afterhours.jpg" alt="pre orienation pic">
@@ -81,6 +82,7 @@
                                 <h3 class="media-heading">WiC Pre-Orientation Program</h3>
                                 <p>Women in Compputing’s pre-orientation program will provide incoming female computing students with early access to the RIT experience, helping them to prepare for success and increase confidence. They will meet faculty of the Golisano College of Computing through engaging labs that will help to expand their knowledge about different applications for the technologies that they will be learning about during the year. They will get to know fellow women classmates, both in their year and upperclassmen while participating in our great team activities! It also includes a trip to the Strong National Museum of Play.</p>                           
                             </div>
+                            <hr>
                         </li>
                         
                     </ul>                                  
