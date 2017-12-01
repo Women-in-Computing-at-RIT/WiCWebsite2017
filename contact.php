@@ -94,7 +94,7 @@
                     <p>*Messages will be sent to Lana Verschage, Director of Women in Computing</p>
                     </div>
                     <?php
-                        if ($_POST['submit']) {
+                        if (isset($_POST['submit'])) {
                             $name = $_POST['name'];
                             $email = $_POST['email'];
                             $subject = $_POST['title'];
