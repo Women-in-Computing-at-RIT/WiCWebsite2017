@@ -1190,4 +1190,11 @@ form.contact > input.submitButton{
     margin-top: 2em;
 }
 
+/*Alumni*/
+.glyphicon-chevron-right:before{
+    color:#4D1F5B;
+}
+.glyphicon-chevron-left:before{
+    color:#4D1F5B;
+}
 
