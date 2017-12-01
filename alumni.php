@@ -26,42 +26,50 @@
                         
                     </div>
                     <br/><br/>
-                    <!--
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-  
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
+                    <h2 class="page-title">SPOTLIGHT</h2>
+                    <div class="entry">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-  
-  <div class="carousel-inner">
-    <div class="item active">
-        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
-    </div>
+                          <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                          </ol>
 
-    <div class="item">
-        <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
-    </div>
 
-    <div class="item">
-      <a href="https://placeholder.com"><center><img src="http://via.placeholder.com/350x500"></center></a>
-    </div>
-  </div>
+                          <div class="carousel-inner">
+                            <div class="item active">
+                                <center><img src="img/alumnai/alumnai_spotlight/kristenSeverskyAlumniSpotlight.png"></center>
+                            </div>
 
- 
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-    <br/>    
--->
+                            <div class="item">
+                                <center><img src="img/alumnai/alumnai_spotlight/AnushriThandarAlumniSpotlight.png"></center>
+                            </div>
+
+                            <div class="item">
+                              <center><img src="img/alumnai/alumnai_spotlight/Huda%20Al-HabsiAlumniSpotlight.png"></center>
+                            </div>
+                            <div class="item">
+                              <center><img src="img/alumnai/alumnai_spotlight/KarenRothAlumniSpotlight.png"></center>
+                            </div>
+                            <div class="item">
+                              <center><img src="img/alumnai/alumnai_spotlight/LauraWiemeAlumniSpotlight.png"></center>
+                            </div>
+                          </div>
+
+
+                          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                            <br/>    
+                    </div>
+
                 </section>
             
                 <aside class="sidebar col-sm-3">
