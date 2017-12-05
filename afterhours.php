@@ -73,15 +73,18 @@
                         
                     </div>
                     <br><br>
-                    <h2 class="page-title">INFORMATION</h2>
-                    <div class="entry">
-                        <ul>
-                            <li><a target="_blank" href="pdfs/2017-FAQ-WiC-Overnight.pdf">Frequently Asked Questions</a></li>
-                            <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
-                            <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
-                        </ul>
-                    </div>
-                </section>
+                    </section>
+                    <aside class="sidebar col-sm-3">
+                        <div class="widget">
+                            <h4 class="page-title">INFORMATION</h4>
+                            <ul>
+                                <li><a target="_blank" href="pdfs/2018%20FAQ%20WiC%20Overnight.pdf">Frequently Asked Questions</a></li>
+                                <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
+                                <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                
             </div>
         </div>
     </main>
