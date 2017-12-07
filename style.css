@@ -1207,4 +1207,27 @@ form.contact > input.submitButton{
         display: none;
     }
 }
+/*For WiCHacks Alert*/
+.alertwic {
+    padding: 20px;
+    background-color: #FDC000;
+    color: #4D1F5B;
+    text-align: center;
+}
+
+
+.closebtn {
+    margin-left: 15px;
+    color: black;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: white;
+}
 

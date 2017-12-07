@@ -5,7 +5,6 @@ Lauren DiDonato '20 (Webmaster)
 Ariel Viggiano '20
 Rachel Poturich '19
 Dakota Sorenson '20
-Kerri Zalba '
 -->
 <?php $title="Home";$level="";?>
 <!DOCTYPE html>
@@ -66,16 +65,8 @@ Kerri Zalba '
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            <b>RSVP for the WiC Holiday Party!</b>
-                            <ul>
-                                <li>12/6 (6:30pm - 7:30pm)</li>
-                                <li><a href="http://bit.ly/wic-holiday" target="_blank">http://bit.ly/wic-holiday</a></li>
-                            </ul>
-                            <b>Volunteer for Code and Coffee </b>
-                                <ul>
-                                    <li>12/5 (3pm - 5pm)</li>
-                                    <li><a href="http://bit.ly/WiC_Code_Coffee" target="_blank">http://bit.ly/WiC_Code_Coffee</a></li>
-                                </ul>
+                            No more events this semester!
+
                             <i class="fa fa-calendar"></i>
                         </div>
                     </div>

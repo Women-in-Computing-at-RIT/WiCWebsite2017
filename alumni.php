@@ -90,3 +90,10 @@
      <?php include 'footer.php';?>
 </body>
 </html>
+<script>
+    $(function(){
+        $('.carousel').carousel({
+            interval: 3000
+        });
+    });
+</script>

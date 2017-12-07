@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="qtyip_WLR-DScsdgFgnjSDFbH7vB_ftpnDFHdIBFVFU" />
     <title><?php echo $title;?> | Women in Computing</title>
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
@@ -15,6 +16,7 @@
     
     <link rel="shortcut icon" href="<?php echo $level ?>favicon.ico" type="image/x-icon">
     <link rel="icon" href="<?php echo $level ?>favicon.ico" type="image/x-icon">
+    
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -29,8 +31,18 @@
                     <li id="metarithome"><a href="http://www.rit.edu/" title="RIT Home"><span id="metarithometext">RIT Home</span><span id="metaritlogo"></span></a></li>
                     <li id="metaritdirectories"><a href="http://www.rit.edu/directories.html">Directories</a></li>
                 </ul>
-	</div>
+	        </div>
         </div>
+        
+   
+        <div class="alertwic">
+            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+             <a href="https://wichacks.io/" target="_blank">
+                 <strong >WiCHacks 2018 Applications are Open!</strong> <u>Click</u> to Apply for WiCHacks: The Women in Computing's annual all women hackaton.
+             </a>
+        </div>
+        
+
         <nav class="navbar navbar-default">
 			<div class="container">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse">
@@ -90,5 +102,5 @@
 
             next.children(':first-child').clone().appendTo($(this));
           }
-        });        
+        });
     </script>
