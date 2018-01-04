@@ -38,7 +38,7 @@
         <div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
              <a href="https://wichacks.io/" target="_blank">
-                 <strong >WiCHacks 2018 Applications are Open!</strong> <u>Click</u> to Apply for WiCHacks: The Women in Computing's annual all women hackaton.
+                 <strong >WiCHacks 2018 Applications are OPEN!</strong> <u>Click here</u> to learn more!
              </a>
         </div>
         

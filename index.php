@@ -29,35 +29,35 @@ Dakota Sorenson '20
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
-                            <h3>FALL  MEETING TIMES</h3>
+                            <h3>SPRING  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
-                                    <li>Wed • 6:30pm • GOL-3560</li>
+                                    <li>Wed • 6:30pm • GOL-1610</li>
                                     <!--<li>(The Fishbowl- unless otherwise stated)</li>-->
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Fri • 2:00pm • GOL-2600</li>
+                                    <li>TBD</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Mon • 4:35pm • GOL-2600</li>
+                                    <li>TBD</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:30pm • GOL-2600</li>
+                                    <li>TBD</li>
                                 </ul>
                                 <b>WiC Allies Committee:</b>
                                 <ul>
-                                    <li>Wed • 12:00pm • GOL-2600</li>
+                                    <li>TBD</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Wed • 7:30pm • GOL-3560</li>
+                                    <li>TBD</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Mon • 5:35pm • GOL-2600</li>
+                                    <li>TBD</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
