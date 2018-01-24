@@ -37,7 +37,7 @@
                         <img class="committeepic" src="img/committees/Laura%20WSized.jpg" alt="Laura Weintraub"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Laura Weintraub, Public Relations Committee Head</p>
+                        <p class="committetitle">Laura Weintraub, Public Relations Committee Head </p>
                         <p class="committeetext">The responsibilities of Public Relations committee are to update and maintain Social Media, brochures and newsletters. They are also responsible for scheduling company tech talks, info sessions and cultivating relationships with university recruiters at the RIT career fair. This committee plans and executes WiConnects, a networking event for female Golisano faculty, students and WiC Allies.</p>
                     </div>
                     
@@ -47,7 +47,7 @@
                         <img class="committeepic" src="img/committees/CatherineSized.jpg" alt="Catherine Nemechek"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Catherine Nemechek, Events</p>
+                        <p class="committetitle">Catherine Nemechek, Events Committee Head </p>
                         <p class="committeetext">The responsibilities of the Events committee are to plan, advertise, and execute internal and external social events, student tech talks, outings, and combined events with other Golisano clubs.</p>
                     </div>
                     
@@ -57,7 +57,7 @@
                         <img class="committeepic" src="img/committees/Laura%20CSized.jpg" alt="Laura Corrigan"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Laura Corrigan, Logistics</p>
+                        <p class="committetitle">Laura Corrigan, Logistics Committee Head </p>
                         <p class="committeetext">The responsibilities of Logistics are to assist the Director, maintain WiC calendar, send updates regarding upcoming events, maintain membership information, and maintain historical information.</p>
                     </div>
                     
@@ -67,7 +67,7 @@
                         <img class="committeepic" src="img/committees/SarahSized.jpg" alt="Sarah Fomchenko"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Sarah Fomchenko, Outreach</p>
+                        <p class="committetitle">Sarah Fomchenko, Outreach  Committee Co-Head </p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                         
@@ -77,7 +77,7 @@
                         <img class="committeepic" src="img/committees/CassidySized.jpg" alt="Cassidy Horzempa"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Cassidy Horzempa, Outreach</p>
+                        <p class="committetitle">Cassidy Horzempa, Outreach Committee Co-Head </p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                     
@@ -87,7 +87,7 @@
                         <img class="committeepic" src="img/committees/ReginaSized.jpg" alt="Regina Locicero"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Regina Locicero, Projects</p>
+                        <p class="committetitle">Regina Locicero, Projects Committee Head </p>
                         <p class="committeetext">The responsibilities of the Projects committee are to encourage students of all majors to come together and work on a project of interest that is fun and can grow students’ technical skills. The goal is to present the project at Imagine RIT.</p>
                     </div>
                     
@@ -97,7 +97,7 @@
                         <img class="committeepic" src="img/committees/SnehaSized.jpg" alt="Sneha Vaswani"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Sneha Vaswani, WiC Hacks</p>
+                        <p class="committetitle">Sneha Vaswani, WiCHacks Committee Head</p>
                         <p class="committeetext">The responsibilities of the WiCHacks committee are to plan and execute the annual WiC Hackathon, a women only hackathon. Planning includes obtaining company sponsors and mentors, scheduling API workshops and tech talks, and planning a Newbie Track for women who haven’t coded before.</p>
                     </div>
                     
@@ -107,7 +107,7 @@
                         <img class="committeepic" src="img/committees/LaurenSized.jpg" alt="Lauren DiDonato"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Lauren DiDonato, WiC WebMaster</p>
+                        <p class="committetitle">Lauren DiDonato, WebMaster</p>
                         <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website. This website was revemped in the fall of 2017.</p>
                     </div>
                     
@@ -117,7 +117,7 @@
                         <img class="committeepic" src="img/committees/BillSized.jpg" alt="Bill Krodthoff"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Bill Krodthoff, WiC Allies</p>
+                        <p class="committetitle">Bill Krodthoff, Allies Committee Head </p>
                         <p class="committeetext">WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
                     </div>
                     
