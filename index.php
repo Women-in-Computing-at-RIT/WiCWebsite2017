@@ -49,7 +49,7 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Wed • 12:15pm • GOL-2455</li>
+                                    <li>Wed • 12:15pm • GOL-1435</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>

@@ -1,3 +1,34 @@
+<!-- cookie stuff -->
+<script>
+    function setCookie(cname,cvalue,exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expires = "expires=" + d.toGMTString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+    function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for(var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    function checkCookie() {
+        var cookie = getCookie("wicalert");
+        if (cookie == "true") {
+            console.log(document.getElementsByClassName("alertwic"));
+            document.getElementsByClassName("alertwic")[0].style.display = "none";
+        }
+    }
+</script>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,7 +67,7 @@
         
    
         <div class="alertwic">
-            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
              <a href="https://wichacks.io/" target="_blank">
                  <strong >WiCHacks 2018 Applications are OPEN!</strong> <u>Click here</u> to learn more!
              </a>
@@ -103,4 +134,6 @@
             next.children(':first-child').clone().appendTo($(this));
           }
         });
+        window.onload = checkCookie();
     </script>
+
