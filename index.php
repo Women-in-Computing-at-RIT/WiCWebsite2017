@@ -65,12 +65,11 @@ Dakota Sorenson '20
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            <b>RSVP for the Ice Cream Social</b>
-                            <ul>
-                                <li>Next WiC General Meeting</li>
-                                <li>2/14 • 6:30pm - 7:30pm • GOL-1610</li>
-                                <li><a href="http://bit.ly/wic-ice-cream" target="_blank">bit.ly/wic-ice-cream</a> </li>
-                            </ul>
+                            <div id="general-event">
+                                <b>Next General Meeting:</b>
+                                <br>Lenel Workshop
+
+                            </div>
                             <b>SHPE Networking Event</b>
                             <ul>
                                 <li>2/6 • 6pm - 8pm  • Fireside Lounge</li>
@@ -80,6 +79,11 @@ Dakota Sorenson '20
                             <ul>
                                 <li>2/9 - 2/11 • 6:00pm</li>
                                 <li><a href="https://bit.ly/wichacks-volunteer" target="_blank">bit.ly/wichacks-volunteer</a> </li>
+                            </ul>
+                            <b>RSVP for the Ice Cream Social</b>
+                            <ul>
+                                <li>2/14 • 6:30pm - 7:30pm • GOL-1610</li>
+                                <li><a href="http://bit.ly/wic-ice-cream" target="_blank">bit.ly/wic-ice-cream</a> </li>
                             </ul>
 
                             <i class="fa fa-calendar"></i>
