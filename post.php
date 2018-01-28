@@ -83,6 +83,7 @@ $level="" ?>
         ref.on("value", function(snapshot) {
             data = snapshot.val().posts[id];
 
+
             for(i=0; i<document.getElementsByClassName("semester").length; i++){
                 document.getElementsByClassName("semester")[i].innerHTML = data.semester;
             }
@@ -93,13 +94,21 @@ $level="" ?>
                 document.getElementsByClassName("text")[i].innerHTML = data.text;
             }
             for(i=0; i<document.getElementsByClassName("date").length; i++) {
-                document.getElementsByClassName("date")[i].innerHTML = data.title;
+                document.getElementsByClassName("date")[i].innerHTML = "Posted: " + data.date;
             }
             for(i=0; i<document.getElementsByClassName("image").length; i++) {
-                document.getElementsByClassName("image")[i].src = data.image;
+                if(data.image == ""){
+                    document.getElementsByClassName("image")[i].style.display = "none";
+                }else {
+                    document.getElementsByClassName("image")[i].src = data.image;
+                }
             }
             for(i=0; i<document.getElementsByClassName("logo").length; i++) {
-                document.getElementsByClassName("logo")[i].src = data.logo;
+                if(data.logo == ""){
+                    document.getElementsByClassName("logo")[i].style.display = "none";
+                }else {
+                    document.getElementsByClassName("logo")[i].src = data.logo;
+                }
             }
 
             //category
@@ -116,18 +125,10 @@ $level="" ?>
                     document.getElementsByClassName("categorytxt")[i].innerHTML = " Projects Update";
                 }
             }
-
-
-
-
         }, function (error) {
             console.log("Error: " + error.code);
         });
 
     }
-
-
     window.onload = start();
-
-
 </script>
