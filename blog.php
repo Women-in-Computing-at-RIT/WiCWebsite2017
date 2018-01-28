@@ -22,29 +22,29 @@
                 <section class="category-content col-sm-9">
                     <h2 class="category-title">BLOG</h2>
                     <ul class="media-list">
-                        <li class="media">
-                            <div class="media-left">
-                                <a href="blog_posts/Fall_2017/DOSVisit.php" title="Post">
-                                    <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Picture of DOS">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h3 class="media-heading"><a href="blog_posts/Fall_2017/DOSVisit.php" title="Post Title">Department of State Visit</a></h3>
-                                <p>The Department of State came to WiC for an informational session about the Foreign Affairs Information Technology Fellowship Program on Wednesday, November 1st.</p>
-                                <aside class="meta category-meta">
-                                    <div class="pull-left">
-                                        <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
-                                        <div class="arc-date">11/01/2017</div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <ul class="arc-share">
-                                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </aside>                                
-                            </div>
-                        </li>
+                            <li class="media">
+                                <div class="media-left">
+                                    <a href="blog_posts/Fall_2017/DOSVisit.php" title="Post">
+                                        <img class="media-object" src="img/blog/fall_2017/doscover.jpg" alt="Picture of DOS">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="media-heading"><a href="blog_posts/Fall_2017/DOSVisit.php" title="Post Title">Department of State Visit</a></h3>
+                                    <p>The Department of State came to WiC for an informational session about the Foreign Affairs Information Technology Fellowship Program on Wednesday, November 1st.</p>
+                                    <aside class="meta category-meta">
+                                        <div class="pull-left">
+                                            <div class="arc-comment"><i class="fa fa-building"></i> Company Visit</div>
+                                            <div class="arc-date">11/01/2017</div>
+                                        </div>
+                                        <div class="pull-right">
+                                            <ul class="arc-share">
+                                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="https://twitter.com/home?status=Check%20out%20this%20WiC%20Blog%20post!%0Ahttp%3A//wic.rit.edu/blog_posts/Fall_2017/DOSVisit.php" target="_blank" title="Post"><i class="fa fa-twitter"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </aside>
+                                </div>
+                            </li>
                         <li class="media">
                             <div class="media-left">
                                 <a href="blog_posts/Fall_2017/Projects1.php" title="Post">

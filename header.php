@@ -24,7 +24,6 @@
     function checkCookie() {
         var cookie = getCookie("wicalert");
         if (cookie == "true") {
-            console.log(document.getElementsByClassName("alertwic"));
             document.getElementsByClassName("alertwic")[0].style.display = "none";
         }
     }

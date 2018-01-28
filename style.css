@@ -896,6 +896,7 @@ h2.category-title:after {
     margin-left: -15px;
     margin-right: -15px;
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .sidebar ul li a:hover {
