@@ -63,15 +63,13 @@
         old.classList.remove("current");
 
         //if it is clicked turn it on
-        console.log(item);
         item.classList.add("current");
-        console.log(document.getElementsByClassName("current"));
     }
 
     function getPosts(period) {
         ref.on("value", function(snapshot) {
             bigString ="<ul class=\"media-list\">";
-            for(i=1; i<snapshot.val().posts.length; i++){
+            for(i=0; i<snapshot.val().posts.length; i++){
                 if(snapshot.val().posts[i].semester == period) {
                     bigString += makePost(snapshot.val().posts[i]);
                 }
