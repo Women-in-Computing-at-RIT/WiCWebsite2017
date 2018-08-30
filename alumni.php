@@ -34,6 +34,12 @@
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                             <li data-target="#myCarousel" data-slide-to="1"></li>
                             <li data-target="#myCarousel" data-slide-to="2"></li>
+                              <li data-target="#myCarousel" data-slide-to="3"></li>
+                              <li data-target="#myCarousel" data-slide-to="4"></li>
+                              <li data-target="#myCarousel" data-slide-to="5"></li>
+                              <li data-target="#myCarousel" data-slide-to="6"></li>
+                              <li data-target="#myCarousel" data-slide-to="7"></li>
+                              <li data-target="#myCarousel" data-slide-to="8"></li>
                           </ol>
 
 
@@ -41,29 +47,39 @@
                             <div class="item active">
                                 <center><img src="img/alumnai/alumnai_spotlight/kristenSeverskyAlumniSpotlight.png"></center>
                             </div>
-
-                            <div class="item">
-                                <center><img src="img/alumnai/alumnai_spotlight/AnushriThandarAlumniSpotlight.png"></center>
-                            </div>
-
-                            <div class="item">
-                              <center><img src="img/alumnai/alumnai_spotlight/Huda%20Al-HabsiAlumniSpotlight.png"></center>
-                            </div>
-                            <div class="item">
-                              <center><img src="img/alumnai/alumnai_spotlight/KarenRothAlumniSpotlight.png"></center>
-                            </div>
-                            <div class="item">
-                              <center><img src="img/alumnai/alumnai_spotlight/LauraWiemeAlumniSpotlight.png"></center>
-                            </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/AnushriThandarAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/CaseyKlimkowskyAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/Huda%20Al-HabsiAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/KarenRothAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/KirstieFaileyAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/LauraWiemeAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/MelodyKellyAlumniSpotlight.png"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/NoelSarahDastaAlumniSpotlight.png"></center>
+                              </div>
                           </div>
 
 
                           <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="alumarrow glyphicon glyphicon-chevron-left"></span>
                             <span class="sr-only">Previous</span>
                           </a>
                           <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="alumarrow glyphicon glyphicon-chevron-right"></span>
                             <span class="sr-only">Next</span>
                           </a>
                         </div>
@@ -77,6 +93,7 @@
                         <h4>ABOUT</h4>
                         <ul>
                             <li><a href="mission.php" title="">Mission</a></li>
+                            <li><a href="faq.php" title="">FAQ</a></li>
                             <li><a href="committees.php" title="">Committees</a></li>
                             <li><a href="allies.php" title="">Allies</a></li>
                             <li><a href="projects.php" title="">Projects</a></li>

@@ -59,7 +59,6 @@
                         <h4><p><strong>2015:</strong> Wearable Stress Monitor</p></h4>
                         <p class="committeetext">The wearable pulse monitor bracelet was developed to help young children  deal with stress and have a way to take  action against their anxiety.</p>
                     </div>
-                    
                     <br><br>
                 </section>
                 <aside class="sidebar col-sm-3">
@@ -67,10 +66,12 @@
                         <h4>ABOUT</h4>
                         <ul>
                             <li><a href="mission.php" title="">Mission</a></li>
+                            <li><a href="faq.php" title="">FAQ</a></li>
                             <li><a href="committees.php" title="Committees">Committees</a></li>
                             <li><a href="allies.php" title="Allies">Allies</a></li>
                             <li class="current"><a href="projects.php" title="Projects">Projects</a></li>
                             <li><a href="alumni.php" title="Alumni">Alumni</a></li>
+                            <div id="projgit" class="empty-space"><a href="https://github.com/women-in-computing-at-rit" target="_blank"> <i class="fa fa-github fa-4x" aria-hidden="true"></i></a></div>
                         </ul>
                     </div>
                 </aside>

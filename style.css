@@ -1073,6 +1073,17 @@ h2.category-title:after {
     margin-bottom: 10px;
     text-align: center;
 }
+.homeicon{
+    font-size: 13px !important;
+    color:inherit !important;
+    position: inherit !important;
+}
+i.newsicon {
+    position: static;
+    font-size: 13px;
+    color: #8c8c8c;
+    padding-right: 5px;
+}
 
 /*mission*/
 .missionpics{
@@ -1117,21 +1128,23 @@ h2.category-title:after {
     left: 0;
 }
 /*Contact Us Page*/
-form.contact > input, textarea{
-    width: 100%;
-    border: 1px solid grey;
+.formFooter{
+    display:none !important;
+    background-color:white;
 }
-form.contact > textarea{
-    min-height: 200px;
+.jotform-form{
+    padding: 0px !important;
 }
-form.contact > input.submitButton{
-    width: auto;
-    background: #EDE8EE;
-    padding: 5px;
-    border-width: 3px;
-    border-style: double;
+#submit{
+    text-align: center;
+    font-size:20px;
 }
-
+#submit b{
+    font-size: 30px;
+}
+#submit img{
+    width:300px;
+}
 /*Allies*/
 
 .row-alliespics {
@@ -1197,12 +1210,14 @@ form.contact > input.submitButton{
 #conferences {
     margin-top: 2em;
 }
+#GHCVideo{
+    display: block;
+    margin: 0 auto;
+}
+
 
 /*Alumni*/
-.glyphicon-chevron-right:before{
-    color:#4D1F5B;
-}
-.glyphicon-chevron-left:before{
+.alumarrow{
     color:#4D1F5B;
 }
 
@@ -1218,12 +1233,10 @@ form.contact > input.submitButton{
 /*For WiCHacks Alert*/
 .alertwic {
     padding: 20px;
-    background-color: #FDC000;
+    background-color:#EDE8EE; /*WicHacks: #FDC000, After Hours: #EDE8EE*/
     color: #4D1F5B;
     text-align: center;
 }
-
-
 .closebtn {
     margin-left: 15px;
     color: black;
@@ -1234,8 +1247,66 @@ form.contact > input.submitButton{
     cursor: pointer;
     transition: 0.3s;
 }
-
 .closebtn:hover {
     color: white;
 }
-
+/*After Hours*/
+.afterhours-btn{
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4D1F5B;
+    border-color: grey;
+}
+.afterhours-btn:hover{
+    background-color: #EDE8EE;
+    color: #4D1F5B;
+}
+/*News*/
+.card-header{
+    background-color:#EDE8EE;
+    cursor: pointer;
+    text-align: center;
+}
+.btn-link:hover, .btn-link, .btn-link:visited{
+    color:black;
+    text-decoration: none;
+}
+.btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+    color:black;
+    text-decoration: none;
+}
+#accordion .card-body{
+    padding:5px;
+}
+.thumbnail iframe{
+    height:315px;
+}
+#accordion i{
+    padding-right: 10px;
+}
+.empty-space{
+    padding-top:30px;
+}
+#projgit{
+    text-align: center;
+}
+#projgit a{
+    color: #8c8c8c;
+}
+#projgit a:hover{
+    color: #4D1F5B;
+}
+/*FAQ*/
+.img-row img {
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.img-row{
+    padding-bottom: 20px;
+}

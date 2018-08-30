@@ -94,6 +94,7 @@
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
                             <li class="current"><a href="#" title="">Outreach</a></li>
+                            <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
                 </aside>

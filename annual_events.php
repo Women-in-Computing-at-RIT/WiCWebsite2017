@@ -28,8 +28,8 @@
                                 <img class="media-object" src="img/annualevents/wichacks.jpg" alt="Picture of WiCHacks">
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading">WiCHacks</h3>
-                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age. <a href="https://wichacks.io/" target="_blank">Learn More...</a></p>                               
+                                <h3 class="media-heading"><a href="https://wichacks.io/" target="_blank">WiCHacks</a></h3>
+                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age.</p>                               
                             </div>
                         </li> 
                         <hr/>
@@ -38,8 +38,8 @@
                                 <img class="media-object" src="img/annualevents/afterhours.jpg" alt="Picture of After Hours">
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading">WiC After Hours</h3>
-                                <p>The Women in Computing After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program includes learning about Study Abroad, Housing, Academic Support Services, Cooperative Education, leadership opportunities and much more. <a href="afterhours.php">Learn More...</a></p>                               
+                                <h3 class="media-heading"><a href="afterhours.php">WiC After Hours</a></h3>
+                                <p>The Women in Computing After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program includes learning about Study Abroad, Housing, Academic Support Services, Cooperative Education, leadership opportunities and much more.</p>                               
                             </div>
                         </li>
                         <hr/>
@@ -81,8 +81,8 @@
                                 <img class="media-object" src="img/annualevents/ghc.JPG" alt="Picture of Grace Hopper Conference Group">
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading">Grace Hopper Celebration of Women in Computing</h3>
-                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront. Started in 1994, GHC is now the world’s largest gathering of women technologists. In 2013, GHC hosted over 4,750 attendees from 53 countries including 1,900 students from over 400 academic institutions and 2,850 professionals from industry, government and academia. The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers and the best of ACM SIGSOFT and SIGGRAPH. Meet the women who are transforming technology at the Grace Hopper Celebration. <a href="https://ghc.anitab.org/" target="_blank">Learn More...</a></p>
+                                <h3 class="media-heading"><a href="GHC.php">Grace Hopper Celebration of Women in Computing</a></h3>
+                                <p>The Grace Hopper Celebration of Women in Computing is the World’s largest gathering of women technologists. It is designed to bring the research and career interests of women in computing to the forefront. Started in 1994, GHC is now the world’s largest gathering of women technologists.The conference features keynotes by prominent women in technology, career workshops, and technical tracks from leading researchers. Meet the women who are transforming technology at the Grace Hopper Celebration.</p>
                             </div>
                         </li>                 
                     </ul>                    
@@ -95,6 +95,7 @@
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li class="current"><a href="#" title="">Annual Events</a></li>
                             <li><a href="outreach.php" title="">Outreach</a></li>
+                            <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
                 </aside>

@@ -28,7 +28,18 @@
         }
     }
 </script>
+
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118010790-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-118010790-1');
+    </script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -64,14 +75,15 @@
 	        </div>
         </div>
         
-   
+<!--
         <div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
-             <a href="https://wichacks.io/" target="_blank">
-                 <strong >WiCHacks 2018 Applications are OPEN!</strong> <u>Click here</u> to learn more!
+             <a href="/afterhours.php">
+                 <strong >Registration for the After Hours Program is now open!</strong> <u>Click here</u> to learn more!
              </a>
         </div>
         
+-->
 
         <nav class="navbar navbar-default">
 			<div class="container">
@@ -85,10 +97,11 @@
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav main-navbar-nav">
                         <li <?php if($title=="Home"){echo "class='active'";} ?> ><a href="<?php echo $level ?>index.php" title="">HOME</a></li>
-                        <li class="dropdown <?php if(($title=="Mission") || ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")){echo "active";} ?>">
+                        <li class="dropdown <?php if(($title=="Mission") || ($title=="FAQ")|| ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")){echo "active";} ?>">
                             <a href="<?php echo $level ?>mission.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="<?php echo $level ?>mission.php" title="">MISSION</a></li>
+                                <li><a href="<?php echo $level ?>faq.php" title="">FAQ</a></li>
                                 <li><a href="<?php echo $level ?>committees.php" title="">COMMITTEES</a></li>
                                 <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
                                 <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
@@ -102,6 +115,7 @@
                                 <li><a href="<?php echo $level ?>wichacks.php" title="">WICHACKS</a></li>
                                 <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
                                 <li><a href="<?php echo $level ?>outreach.php" title="">OUTREACH</a></li>
+                                <li><a href="<?php echo $level ?>news.php" title="">IN THE NEWS</a></li>
                             </ul>
                         </li>
                         <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>

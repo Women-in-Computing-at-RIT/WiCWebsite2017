@@ -57,7 +57,7 @@
                         <img class="committeepic" src="img/committees/Laura%20CSized.jpg" alt="Laura Corrigan"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Laura Corrigan, Logistics Committee Head </p>
+                        <p class="committetitle">Laura Corrigan, Logistics</p>
                         <p class="committeetext">The responsibilities of Logistics are to assist the Director, maintain WiC calendar, send updates regarding upcoming events, maintain membership information, and maintain historical information.</p>
                     </div>
                     
@@ -128,6 +128,7 @@
                         <h4>ABOUT</h4>
                         <ul>
                             <li><a href="mission.php" title="">Mission</a></li>
+                            <li><a href="faq.php" title="">FAQ</a></li>
                             <li class="current"><a href="committees.php" title="Committees">Committees</a></li>
                             <li><a href="allies.php" title="Allies">Allies</a></li>
                             <li><a href="projects.php" title="Projects">Projects</a></li>

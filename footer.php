@@ -8,6 +8,7 @@
                         <li><a target="_blank" href="https://twitter.com/RITWIC"><i class="fa fa-twitter"></i></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/rit_wic/"><i class="fa fa-instagram"></i></a></li>
                         <li><a target="_blank" href="https://ritwic.slack.com"><i class="fa fa-slack"></i></a></li>
+                        <li><a target="_blank" href="https://github.com/women-in-computing-at-rit"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>

@@ -29,19 +29,20 @@ Dakota Sorenson '20
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
-                            <h3>SPRING  MEETING TIMES</h3>
+                            <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
-                                    <li>Wed • 6:30pm • GOL-1610</li>
+                                    <li>Wed • 6:30pm • GOL-1400 (The Auditorium)</li>
                                     <!--<li>(The Fishbowl- unless otherwise stated)</li>-->
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Mon • 5:00pm • GOL-2600 (WiC Space)</li>
+                                    <li><a href="http://bit.ly/Events_meeting">bit.ly/Events_meeting</a></li>
+                                    <!--<li>Mon • 5:00pm • GOL-2600 (WiC Space)</li>-->
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Mon • 4:30pm • GOL-1445</li>
+                                    <li><a href="http://bit.ly/WiCOutreach2018">bit.ly/WiCOutreach2018</a></li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
@@ -49,15 +50,15 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Wed • 12:15pm • GOL-1435</li>
+                                    <li><a href="http://bit.ly/WiC_Allies_2018">bit.ly/WiC_Allies_2018</a></li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Wed • 7:30pm • GOL-2500</li>
+                                    <li><a href="http://bit.ly/WhenisWicHacks">bit.ly/WhenisWicHacks</a></li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Mon • 4:00pm - 6:00pm • <a href="http://hack.rit.edu/" target="_blank">The Construct</a></li>
+                                    <li><a href="http://bit.ly/WiCProjectsMeeting">bit.ly/WiCProjectsMeeting</a></li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -66,24 +67,21 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting:</b>
-                                <br>Lenel Workshop
+                                <b>Next General Meeting (8/29):<br>Dino BBQ Kick Off</b>
 
                             </div>
-                            <b>SHPE Networking Event</b>
+                            <b>Trampoline Park</b>
                             <ul>
-                                <li>2/6 • 6pm - 8pm  • Fireside Lounge</li>
+                                <li>Sat. 9/8 • 3pm • GOL Atrium for carpool</li>
+                                <li>RSVP: <a href="bit.ly/WiCTrampolinePark">bit.ly/WiCTrampolinePark</a></li>
                             </ul>
-
-                            <b>Apply to Volunteer for WiCHacks!</b>
+                            <b>Seneca Park Zoo</b>
                             <ul>
-                                <li>2/9 - 2/11 • 6:00pm</li>
-                                <li><a href="https://bit.ly/wichacks-volunteer" target="_blank">bit.ly/wichacks-volunteer</a> </li>
+                                <li>Sat. 10/6 • 2pm • GOL Atrium for carpool</li>
                             </ul>
-                            <b>RSVP for the Ice Cream Social</b>
+                            <b>Stokoe Farm (Pumpkin Picking)</b>
                             <ul>
-                                <li>2/14 • 6:30pm - 7:30pm • GOL-1610</li>
-                                <li><a href="http://bit.ly/wic-ice-cream" target="_blank">bit.ly/wic-ice-cream</a> </li>
+                                <li> Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                             </ul>
 
                             <i class="fa fa-calendar"></i>
@@ -93,39 +91,38 @@ Dakota Sorenson '20
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
                             <p>
+                                <a target="_blank" href="https://stories.mlh.io/community-roundup-empowering-safety-security-and-diversity-caaf07022edc">
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">MLH Stories</span> | Hackathons Empowering Safety, Security, and Diversity </a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="https://theithacan.org/news/women-in-computing-team-wins-award-for-community-service-app/">
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">The Ithacan</span> | Women in Computing team wins award for community service app </a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="http://13wham.com/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women">
+                                    <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | WiCHacks 2018 - WHAM 13 </a>
+                            </p>
+                            <p>
                                 <a target="_blank" href="http://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
-                                <span class="news-head">Democrat and Chronicle</span> | All-girl hackathon to be held at RIT to spur interest in STEM careers </a>
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Democrat and Chronicle</span> | All-girl hackathon to be held at RIT to spur interest in STEM careers </a>
                             </p>
                             <p>
                                 <a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
-                                <span class="news-head">University News</span>| ROCGirlHacks is Oct. 28</a></p>
+                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span>| ROCGirlHacks is Oct. 28</a></p>
                             <p>
                                 <a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
-                                <span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
+                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
                             </p>
                             <p>
                                 <a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
-                                <span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
                             </p>
                             <p>
                                 <a target="_blank" href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
-                                <span class="news-head">University News</span> | Girl Scouts honor WiC for promoting girls in STEM</a>
+                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | Girl Scouts honor WiC for promoting girls in STEM</a>
                             </p>
-                            <p>
-                                <a target="_blank" href="https://www.youtube.com/watch?v=OqUx7HMd4zY">
-                                <span class="news-head">WiC on TV</span> | Good Day Rochester</a>
-                            </p>
-                            <p>
-                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
-                                <span class="news-head">University News</span> | WiC Hacks 2017</a></p>
-                            <p>
-                                <a target="_blank" href="https://www.youtube.com/watch?v=AS9TWebVQ98">
-                                <span class="news-head">WiC on TV</span> | STEM Fair 2017 - ABC 13</a>
-                            </p>
-                            <p>
-                                <a target="_blank" href="https://www.youtube.com/watch?v=KEoWd_4Exag">
-                                <span class="news-head">WiC on TV</span> | STEM Fair 2017 - TWC News</a>
-                            </p>
+                            <p class="text-center"><a href="/news.php"><b>More News</b></a> </p>
+
                             <i class="fa fa-newspaper-o"></i>
                         </div>
                     </div>
@@ -137,7 +134,7 @@ Dakota Sorenson '20
     <?php include 'footer.php';?>
 </body>
 </html>
-<!-- Start of StatCounter Code for Default Guide -->
+<!-- Start of StatCounter Code for Default Guide
 <script type="text/javascript">
 var sc_project=11547322; 
 var sc_invisible=1; 
@@ -153,4 +150,4 @@ href="http://statcounter.com/" target="_blank"><img
 class="statcounter"
 src="//c.statcounter.com/11547322/0/04a1acbf/1/" alt="Web
 Analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
+End of StatCounter Code for Default Guide -->

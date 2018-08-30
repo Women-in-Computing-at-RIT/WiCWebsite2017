@@ -82,49 +82,67 @@ $level="" ?>
         id = getQueryVariable("id");
         ref.on("value", function(snapshot) {
             data = snapshot.val().posts[id];
+            if(data == undefined){
+                window.location.href = "/blog-old.php";
+            }else{
+                for(i=0; i<document.getElementsByClassName("semester").length; i++){
+                    document.getElementsByClassName("semester")[i].innerHTML = data.semester;
+                }
+                for(i=0; i<document.getElementsByClassName("title").length; i++){
+                    document.getElementsByClassName("title")[i].innerHTML = data.title;
+                }
+                for(i=0; i<document.getElementsByClassName("text").length; i++){
+                    document.getElementsByClassName("text")[i].innerHTML = data.text;
+                }
+                for(i=0; i<document.getElementsByClassName("date").length; i++) {
+                    document.getElementsByClassName("date")[i].innerHTML = "Posted: " + data.date;
+                }
+                for(i=0; i<document.getElementsByClassName("image").length; i++) {
+                    if(data.image == ""){
+                        document.getElementsByClassName("image")[i].style.display = "none";
+                    }else {
+                        document.getElementsByClassName("image")[i].src = data.image;
+                    }
+                }
+                for(i=0; i<document.getElementsByClassName("logo").length; i++) {
+                    if(data.logo == ""){
+                        document.getElementsByClassName("logo")[i].style.display = "none";
+                    }else {
+                        document.getElementsByClassName("logo")[i].src = data.logo;
+                    }
+                }
+
+                //category
+                if(data.category == "company"){
+                    for(i=0; i<document.getElementsByClassName("category").length; i++) {
+                        document.getElementsByClassName("category")[i].classList.add("fa");
+                        document.getElementsByClassName("category")[i].classList.add("fa-building");
+                        document.getElementsByClassName("categorytxt")[i].innerHTML = " Company Visit";
+                    }
+                }else if(data.category == "projects"){
+                    for(i=0; i<document.getElementsByClassName("category").length; i++) {
+                        document.getElementsByClassName("category")[i].classList.add("fa");
+                        document.getElementsByClassName("category")[i].classList.add("fa-pencil");
+                        document.getElementsByClassName("categorytxt")[i].innerHTML = " Projects Update";
+                    }
+                }
+                else if(data.category == "alumni"){
+                    for(i=0; i<document.getElementsByClassName("category").length; i++) {
+                        document.getElementsByClassName("category")[i].classList.add("fa");
+                        document.getElementsByClassName("category")[i].classList.add("fa-graduation-cap");
+                        document.getElementsByClassName("categorytxt")[i].innerHTML = " Alumni Talk";
+                    }
+                }
+                else if(data.category == "event"){
+                    for(i=0; i<document.getElementsByClassName("category").length; i++) {
+                        document.getElementsByClassName("category")[i].classList.add("fa");
+                        document.getElementsByClassName("category")[i].classList.add("fa-calendar-o");
+                        document.getElementsByClassName("categorytxt")[i].innerHTML = " WiC Event";
+                    }
+                }
+            }
 
 
-            for(i=0; i<document.getElementsByClassName("semester").length; i++){
-                document.getElementsByClassName("semester")[i].innerHTML = data.semester;
-            }
-            for(i=0; i<document.getElementsByClassName("title").length; i++){
-                document.getElementsByClassName("title")[i].innerHTML = data.title;
-            }
-            for(i=0; i<document.getElementsByClassName("text").length; i++){
-                document.getElementsByClassName("text")[i].innerHTML = data.text;
-            }
-            for(i=0; i<document.getElementsByClassName("date").length; i++) {
-                document.getElementsByClassName("date")[i].innerHTML = "Posted: " + data.date;
-            }
-            for(i=0; i<document.getElementsByClassName("image").length; i++) {
-                if(data.image == ""){
-                    document.getElementsByClassName("image")[i].style.display = "none";
-                }else {
-                    document.getElementsByClassName("image")[i].src = data.image;
-                }
-            }
-            for(i=0; i<document.getElementsByClassName("logo").length; i++) {
-                if(data.logo == ""){
-                    document.getElementsByClassName("logo")[i].style.display = "none";
-                }else {
-                    document.getElementsByClassName("logo")[i].src = data.logo;
-                }
-            }
-
-            //category
-            if(data.category == "company"){
-                for(i=0; i<document.getElementsByClassName("category").length; i++) {
-                    document.getElementsByClassName("category")[i].classList.add("fa");
-                    document.getElementsByClassName("category")[i].classList.add("fa-building");
-                    document.getElementsByClassName("categorytxt")[i].innerHTML = " Company Visit";
-                }
-            }else if(data.category == "projects"){
-                for(i=0; i<document.getElementsByClassName("category").length; i++) {
-                    document.getElementsByClassName("category")[i].classList.add("fa");
-                    document.getElementsByClassName("category")[i].classList.add("fa-pencil");
-                    document.getElementsByClassName("categorytxt")[i].innerHTML = " Projects Update";
-                }
-            }
         }, function (error) {
             console.log("Error: " + error.code);
         });

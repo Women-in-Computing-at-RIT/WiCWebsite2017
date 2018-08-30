@@ -65,6 +65,7 @@
                         <h4>ABOUT</h4>
                         <ul>
                             <li class="current"><a href="#" title="">Mission</a></li>
+                            <li><a href="faq.php" title="">FAQ</a></li>
                             <li><a href="committees.php" title="">Committees</a></li>
                             <li><a href="allies.php" title="">Allies</a></li>
                             <li><a href="projects.php" title="">Projects</a></li>

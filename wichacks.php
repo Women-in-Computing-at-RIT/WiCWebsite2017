@@ -41,6 +41,7 @@
                             <li class="current"><a href="#" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
                             <li><a href="outreach.php" title="">Outreach</a></li>
+                            <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
                 </aside>

@@ -79,8 +79,10 @@
                             <h4 class="page-title">INFORMATION</h4>
                             <ul>
                                 <li><a target="_blank" href="pdfs/2018%20FAQ%20WiC%20Overnight.pdf">Frequently Asked Questions</a></li>
+                                <li><a target="_blank" href="pdfs/TentativeSchedule.png">Tentative Schedule</a></li>
                                 <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
                                 <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
+                                <!--<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSdD2lDb9TQz84pY0M7sNO2YlLRzyNxfIMuUCYQf0iDBDfVVmA/viewform'" type="button" class="btn btn-primary afterhours-btn">Register</button>-->
                             </ul>
                         </div>
                     </aside>
