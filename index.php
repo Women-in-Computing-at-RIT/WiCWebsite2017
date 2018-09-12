@@ -37,12 +37,11 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/Events_meeting">bit.ly/Events_meeting</a></li>
-                                    <!--<li>Mon • 5:00pm • GOL-2600 (WiC Space)</li>-->
+                                    <li>Mon • 1:00pm • GOL-2500</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/WiCOutreach2018">bit.ly/WiCOutreach2018</a></li>
+                                    <li>Fri • 5:00pm • GOL-2500</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
@@ -50,15 +49,15 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/WiC_Allies_2018">bit.ly/WiC_Allies_2018</a></li>
+                                    <li>Mon • 6:00pm • GOL-3445</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/WhenisWicHacks">bit.ly/WhenisWicHacks</a></li>
+                                    <li>Tue • 7:30pm • GOL-2500</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/WiCProjectsMeeting">bit.ly/WiCProjectsMeeting</a></li>
+                                    <li>Sun • 1:00pm - 3:00pm • GOL-2530</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -67,17 +66,22 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (8/29):<br>Dino BBQ Kick Off</b>
+                                <b>Next General Meeting (9/12):<br>Microsoft</b>
 
                             </div>
-                            <b>Trampoline Park</b>
+                            <b>Movies 10: Oceans 8</b>
                             <ul>
-                                <li>Sat. 9/8 • 3pm • GOL Atrium for carpool</li>
-                                <li>RSVP: <a href="bit.ly/WiCTrampolinePark">bit.ly/WiCTrampolinePark</a></li>
+                                <li>Fri. 9/14 • 7:25pm • Tickets $4</li>
+                                <li>RSVP: <a href="http://bit.ly/MovieNight-Oceans8 ">bit.ly/MovieNight-Oceans8</a></li>
+                            </ul>
+                            <b>Women in Open Source Day</b>
+                            <ul>
+                                <li>Fri. 9/22 • 1pm • GOL-2400</li>
                             </ul>
                             <b>Seneca Park Zoo</b>
                             <ul>
                                 <li>Sat. 10/6 • 2pm • GOL Atrium for carpool</li>
+                                <li>RSVP: <a href="http://bit.ly/WiCZooTrip2018">bit.ly/WiCZooTrip2018</a></li>
                             </ul>
                             <b>Stokoe Farm (Pumpkin Picking)</b>
                             <ul>

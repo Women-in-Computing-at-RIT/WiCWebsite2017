@@ -23,7 +23,7 @@
                     <h2 class="page-title">ALUMNI</h2>
                     <div class="entry">
                         <p>Women in Computing is dedicated to supporting and showcasing their alumni. We love to stay in contact with our alumni, to find out where they are and what they are doing. Giving our current members people to look up to encourages them to succeed and reminds them why they should work hard. We are so glad you joined the WiC community during your time at RIT and we want you to know you can always have an active part in it.  Please send us an email if you have anything to contribute. Whether it is giving a tech talk, hosting a company recruitment event, or sponsoring a WiC event, you are always welcome! </p>
-                        
+                        <p>Alumni Talks: <a href="/post.php?id=9">Karen Roth</a></p>
                     </div>
                     <br/><br/>
                     <h2 class="page-title header-remove">SPOTLIGHT</h2>

@@ -40,6 +40,20 @@
                             <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
+                    <div class="widget">
+                        <h4>CS TUTORING HOURS</h4>
+                        <ul>
+                            <li><b>Tuesday • GOL-2600</b></li>
+                            <li>2:00PM - 4:00PM</li>
+                            <li><br></li>
+                            <li><b>Wednesday • GOL-2500</b></li>
+                            <li>3:00PM - 5:00PM</li>
+                            <li><br></li>
+                            <li><b>Thursday • GOL-2600</b></li>
+                            <li>11:00AM - 12:00PM</li>
+                            <li>12:30PM - 2:30PM</li>
+                        </ul>
+                    </div>
                 </aside>
             </div>
         </div>

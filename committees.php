@@ -34,57 +34,57 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/Laura%20WSized.jpg" alt="Laura Weintraub"/>
+                        <img class="committeepic" src="img/committees/shannonPR.jpeg" alt="Laura Weintraub"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Laura Weintraub, Public Relations Committee Head </p>
+                        <p class="committetitle">Shannon McHale, Public Relations Committee Head </p>
                         <p class="committeetext">The responsibilities of Public Relations committee are to update and maintain Social Media, brochures and newsletters. They are also responsible for scheduling company tech talks, info sessions and cultivating relationships with university recruiters at the RIT career fair. This committee plans and executes WiConnects, a networking event for female Golisano faculty, students and WiC Allies.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/CatherineSized.jpg" alt="Catherine Nemechek"/>
+                        <img class="committeepic" src="img/committees/emily.jpeg" alt="Catherine Nemechek"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Catherine Nemechek, Events Committee Head </p>
+                        <p class="committetitle">Emily Zimmerman, Events Committee Head </p>
                         <p class="committeetext">The responsibilities of the Events committee are to plan, advertise, and execute internal and external social events, student tech talks, outings, and combined events with other Golisano clubs.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/Laura%20CSized.jpg" alt="Laura Corrigan"/>
+                        <img class="committeepic" src="img/committees/shannonLogistics.jpeg" alt="Laura Corrigan"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Laura Corrigan, Logistics</p>
+                        <p class="committetitle">Shannon McIntosh, Logistics</p>
                         <p class="committeetext">The responsibilities of Logistics are to assist the Director, maintain WiC calendar, send updates regarding upcoming events, maintain membership information, and maintain historical information.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/SarahSized.jpg" alt="Sarah Fomchenko"/>
+                        <img class="committeepic" src="img/committees/imris.jpeg" alt="Sarah Fomchenko"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Sarah Fomchenko, Outreach  Committee Co-Head </p>
+                        <p class="committetitle">Imris Curry, Outreach  Committee Co-Head </p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                         
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/CassidySized.jpg" alt="Cassidy Horzempa"/>
+                        <img class="committeepic" src="img/committees/caitlin.jpeg" alt="Cassidy Horzempa"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Cassidy Horzempa, Outreach Committee Co-Head </p>
+                        <p class="committetitle">Caitlin Lander, Outreach Committee Co-Head </p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/ReginaSized.jpg" alt="Regina Locicero"/>
+                        <img class="committeepic" src="img/committees/regina.jpeg" alt="Regina Locicero"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Regina Locicero, Projects Committee Head </p>
@@ -94,17 +94,17 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/SnehaSized.jpg" alt="Sneha Vaswani"/>
+                        <img class="committeepic" src="img/committees/lindsey.jpeg" alt="Sneha Vaswani"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Sneha Vaswani, WiCHacks Committee Head</p>
+                        <p class="committetitle">Lindsey Ferretti, WiCHacks Committee Head</p>
                         <p class="committeetext">The responsibilities of the WiCHacks committee are to plan and execute the annual WiC Hackathon, a women only hackathon. Planning includes obtaining company sponsors and mentors, scheduling API workshops and tech talks, and planning a Newbie Track for women who haven’t coded before.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/LaurenSized.jpg" alt="Lauren DiDonato"/>
+                        <img class="committeepic" src="img/committees/lauren.jpeg" alt="Lauren DiDonato"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Lauren DiDonato, WebMaster</p>
@@ -114,10 +114,10 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/BillSized.jpg" alt="Bill Krodthoff"/>
+                        <img class="committeepic" src="img/committees/kevin.jpeg" alt="Bill Krodthoff"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Bill Krodthoff, Allies Committee Head </p>
+                        <p class="committetitle">Kevin Barnett, Allies Committee Head </p>
                         <p class="committeetext">WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
                     </div>
                     

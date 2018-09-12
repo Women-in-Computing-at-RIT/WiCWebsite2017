@@ -40,6 +40,7 @@
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="afterhours.php">WiC After Hours</a></h3>
                                 <p>The Women in Computing After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program includes learning about Study Abroad, Housing, Academic Support Services, Cooperative Education, leadership opportunities and much more.</p>                               
+                                <p>Blogs: <a href="/post.php?id=5">2018</a></p>
                             </div>
                         </li>
                         <hr/>
@@ -49,7 +50,8 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">WiConnects</h3>
-                                <p>An evening event celebrating Golisano College female computing professionals and allies. The event is comprised of a keynote, tech talk, networking event, dinner and lasting words of inspiration.</p>                               
+                                <p>An evening event celebrating Golisano College female computing professionals and allies. The event is comprised of a keynote, tech talk, networking event, dinner and lasting words of inspiration.</p>
+                                <p>Blogs: <a href="/post.php?id=6">2018</a></p>
                             </div>
                         </li>
                         <hr/>                     

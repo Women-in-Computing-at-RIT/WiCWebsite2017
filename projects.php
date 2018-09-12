@@ -26,7 +26,7 @@
                         <img class="committeepic" src="img/projects/wiclogo.png">
                     </div>
                     <div class="media-body">
-                        <h4><p><strong>2018:</strong> Magic Mirror (Current Project)</p></h4>
+                        <h4><p><strong>2018:</strong> Magic Mirror</p></h4>
                         <p class="committeetext"><a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about current progress on this project.</p>
                     </div>
                     
