@@ -35,6 +35,10 @@
                             <div id="collapseTwo" class="collapse in" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
+                                        <a target="_blank" href="http://www.rit.edu/news/story.php?id=67898">
+                                            <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT women are networking and learning at 2018 Grace Hopper Celebration</a>
+                                    </p>
+                                    <p>
                                         <a target="_blank" href="https://stories.mlh.io/community-roundup-empowering-safety-security-and-diversity-caaf07022edc">
                                             <i class="fa fa-newspaper-o" aria-hidden="true"></i><span class="news-head">MLH Stories</span> | Hackathons Empowering Safety, Security, and Diversity </a>
                                     </p>

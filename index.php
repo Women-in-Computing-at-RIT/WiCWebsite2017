@@ -33,11 +33,10 @@ Dakota Sorenson '20
                                 <b>General Meeting:</b>
                                 <ul>
                                     <li>Wed • 6:30pm • GOL-1400 (The Auditorium)</li>
-                                    <!--<li>(The Fishbowl- unless otherwise stated)</li>-->
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Mon • 1:00pm • GOL-2500</li>
+                                    <li>Mon • 2:00pm • GOL-2500</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
@@ -57,7 +56,7 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Sun • 1:00pm - 3:00pm • GOL-2530</li>
+                                    <li>Thurs • 5:00pm - 7:00pm • GOL-2600 (WiC Space)</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -66,26 +65,23 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (9/12):<br>Microsoft</b>
+                                <b>Next General Meeting (10/24):</b>
+                                <br><b>Harris</b>
 
                             </div>
-                            <b>Movies 10: Oceans 8</b>
+                            <b>Powers Farm Market (Fall Activities)</b>
                             <ul>
-                                <li>Fri. 9/14 • 7:25pm • Tickets $4</li>
-                                <li>RSVP: <a href="http://bit.ly/MovieNight-Oceans8 ">bit.ly/MovieNight-Oceans8</a></li>
+                                <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
+                                <li>RSVP: <a href="http://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>
-                            <b>Women in Open Source Day</b>
+                            <b>WiCKed Halloween Party</b>
                             <ul>
-                                <li>Fri. 9/22 • 1pm • GOL-2400</li>
+                                <li>Wed. 10/31 • After the General Meeting</li>
                             </ul>
-                            <b>Seneca Park Zoo</b>
+                            <b>ROCGirlHacks</b>
                             <ul>
-                                <li>Sat. 10/6 • 2pm • GOL Atrium for carpool</li>
-                                <li>RSVP: <a href="http://bit.ly/WiCZooTrip2018">bit.ly/WiCZooTrip2018</a></li>
-                            </ul>
-                            <b>Stokoe Farm (Pumpkin Picking)</b>
-                            <ul>
-                                <li> Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
+                                <li>Sat. 11/17 </li>
+                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
                             </ul>
 
                             <i class="fa fa-calendar"></i>
@@ -94,6 +90,10 @@ Dakota Sorenson '20
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=67898">
+                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT women are networking and learning at 2018 Grace Hopper Celebration</a>
+                            </p>
                             <p>
                                 <a target="_blank" href="https://stories.mlh.io/community-roundup-empowering-safety-security-and-diversity-caaf07022edc">
                                     <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">MLH Stories</span> | Hackathons Empowering Safety, Security, and Diversity </a>
@@ -121,10 +121,6 @@ Dakota Sorenson '20
                                 <a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
                                     <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
                             </p>
-                            <p>
-                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
-                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | Girl Scouts honor WiC for promoting girls in STEM</a>
-                            </p>
                             <p class="text-center"><a href="/news.php"><b>More News</b></a> </p>
 
                             <i class="fa fa-newspaper-o"></i>
@@ -138,20 +134,4 @@ Dakota Sorenson '20
     <?php include 'footer.php';?>
 </body>
 </html>
-<!-- Start of StatCounter Code for Default Guide
-<script type="text/javascript">
-var sc_project=11547322; 
-var sc_invisible=1; 
-var sc_security="04a1acbf"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11547322/0/04a1acbf/1/" alt="Web
-Analytics"></a></div></noscript>
-End of StatCounter Code for Default Guide -->
+

@@ -23,11 +23,15 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">PROJECTS</h2>
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/wiclogo.png">
+                        <img class="committeepic" src="img/projects/project2018.JPG">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2018:</strong> Magic Mirror</p></h4>
-                        <p class="committeetext"><a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about current progress on this project.</p>
+                        <p class="committeetext">The magic mirror was made using a raspberry pi, a monitor and a
+                            2-way mirror. Using and modifying the open source Magic Mirror<sup>2</sup> code we set up the screen
+                            to display WiC events, the date and time, and some local news. By using a 2-way mirror we
+                            could have this display shine through so you can get some useful information while using a
+                            mirror. <a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about this project.</p>
                     </div>
                     
                         <br><br>
