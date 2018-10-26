@@ -72,12 +72,12 @@ Dakota Sorenson '20
                             <b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
-                                <li>RSVP: <a href="http://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
+                                <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>
                             <b>IBM Cyber Day for Girls</b>
                             <ul>
                                 <li>Sat. 11/03 </li>
-                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
+                                <li>Volunteer: <a href="https://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
                             </ul>
                             <b>ROCGirlHacks</b>
                             <ul>
@@ -91,7 +91,7 @@ Dakota Sorenson '20
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
                             <p>
-                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=67898">
+                                <a target="_blank" href="https://www.rit.edu/news/story.php?id=67898">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT women are networking and learning at 2018 Grace Hopper Celebration</a>
                             </p>
                             <p>
@@ -103,22 +103,22 @@ Dakota Sorenson '20
                                     <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">The Ithacan</span> | Women in Computing team wins award for community service app </a>
                             </p>
                             <p>
-                                <a target="_blank" href="http://13wham.com/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women">
+                                <a target="_blank" href="https://13wham.com/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women">
                                     <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | WiCHacks 2018 - WHAM 13 </a>
                             </p>
                             <p>
-                                <a target="_blank" href="http://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
+                                <a target="_blank" href="https://www.democratandchronicle.com/story/news/2017/10/27/girl-hackathon-rit/804609001/">
                                     <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Democrat and Chronicle</span> | All-girl hackathon to be held at RIT to spur interest in STEM careers </a>
                             </p>
                             <p>
-                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=64018&source=enewsletter">
+                                <a target="_blank" href="https://www.rit.edu/news/story.php?id=64018&source=enewsletter">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span>| ROCGirlHacks is Oct. 28</a></p>
                             <p>
-                                <a target="_blank" href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
+                                <a target="_blank" href="https://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
                             </p>
                             <p>
-                                <a target="_blank" href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
+                                <a target="_blank" href="https://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
                                     <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
                             </p>
                             <p class="text-center"><a href="/news.php"><b>More News</b></a> </p>
