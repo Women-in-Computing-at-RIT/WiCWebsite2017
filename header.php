@@ -82,7 +82,7 @@
                  <strong >Registration for the After Hours Program is now open!</strong> <u>Click here</u> to learn more!
              </a>
         </div>
-        
+
 -->
 
         <nav class="navbar navbar-default">

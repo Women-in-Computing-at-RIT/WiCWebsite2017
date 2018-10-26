@@ -65,8 +65,8 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (10/24):</b>
-                                <br><b>Harris</b>
+                                <b>Next General Meeting (10/31):</b>
+                                <br><b>WiCKed Halloween Party</b>
 
                             </div>
                             <b>Powers Farm Market (Fall Activities)</b>
@@ -74,14 +74,14 @@ Dakota Sorenson '20
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="http://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>
-                            <b>WiCKed Halloween Party</b>
+                            <b>IBM Cyber Day for Girls</b>
                             <ul>
-                                <li>Wed. 10/31 • After the General Meeting</li>
+                                <li>Sat. 11/03 </li>
+                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
                             </ul>
                             <b>ROCGirlHacks</b>
                             <ul>
                                 <li>Sat. 11/17 </li>
-                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
                             </ul>
 
                             <i class="fa fa-calendar"></i>
