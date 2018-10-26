@@ -64,7 +64,7 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading">New York Celebration of Women in Computing (NYCWiC)</h3>
-                                <p>New York Celebration of Women in Computing (NYCWiC) Conference is every two years in April. Attendees will be women in industry and academia from all over New York state. NYCWiC hopes to encourage women to complete their studies in computing by exploring careers and meeting women leaders from business, industry and academia. <a href="http://nycwic.hosting.acm.org/" target="_blank">Learn More...</a></p>
+                                <p>New York Celebration of Women in Computing (NYCWiC) Conference is every two years in April. Attendees will be women in industry and academia from all over New York state. NYCWiC hopes to encourage women to complete their studies in computing by exploring careers and meeting women leaders from business, industry and academia. <a href="https://nycwic.hosting.acm.org/" target="_blank">Learn More...</a></p>
                             </div>
                         </li>  
                         <hr/>
