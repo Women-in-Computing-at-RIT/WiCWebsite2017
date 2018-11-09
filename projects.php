@@ -32,6 +32,7 @@
                             to display WiC events, the date and time, and some local news. By using a 2-way mirror we
                             could have this display shine through so you can get some useful information while using a
                             mirror. <a href="blog_posts/Fall_2017/Projects1.php">View Blog Post</a> about this project.</p>
+							<a href="https://github.com/Women-in-Computing-at-RIT/Magic-Mirror">Documentation</a>
                     </div>
                     
                         <br><br>
@@ -42,6 +43,7 @@
                     <div class="media-body">    
                         <h4><p><strong>2017:</strong> Raspberry Pi Arcade Table</p></h4>
                         <p class="committeetext">The arcade table was created using a raspberry pi 3 to run Retropie, in order to create a bar top arcade emulator. It is for one or two players with multiple games on the system. Can be found in the WiC space. </p>
+						<a href="https://github.com/Women-in-Computing-at-RIT/RaspberryPiArcadeCabinet">Documentation</a>
                     </div>
                     
                         <br><br>
