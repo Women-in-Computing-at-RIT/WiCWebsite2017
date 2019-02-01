@@ -33,7 +33,8 @@
                                 <p>Girls as young as eight-years-old used their laptops, imagination and teamwork skills for social good at ROCGirlHacks Powered by AT&amp;T, Rochester’s first all-girl youth hackathon hosted Oct. 28 at Rochester Institute of Technology. </p>
                                 <p>
                                 The free hackathon was intended for all girls in grades 3–12, including those who have never programmed before, those who are already building apps and anyone in between. The learning program challenged participants to come up with technological solutions and tools to address the growing problem of cyberbullying and internet safety.
-                                The event was a collaboration between iCanCode, Women in Computing at RIT and AT&amp;T. The program was born out of a desire to expand coding opportunities for Rochester-area girls and to encourage them to enter the field of technology, specifically coding, an industry that is statistically male-dominant.</p>                               
+                                The event was a collaboration between iCanCode, Women in Computing at RIT and AT&amp;T. The program was born out of a desire to expand coding opportunities for Rochester-area girls and to encourage them to enter the field of technology, specifically coding, an industry that is statistically male-dominant.</p>
+                                <p>Blogs: <a href="/post.php?id=11">2018</a></p>
                             </div>
                             <hr>
                         </li> 
@@ -50,6 +51,7 @@
                                         <li>Digital Movie Maker</li>
                                         <li>Website Design Badge</li>
                                     </ul>
+                                <p>Blogs: <a href="/post.php?id=12">2018</a></p>
                             </div>
                             <hr>
                         </li>

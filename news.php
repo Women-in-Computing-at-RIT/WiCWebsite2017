@@ -35,6 +35,10 @@
                             <div id="collapseTwo" class="collapse in" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
+                                        <a target="_blank" href="http://spectrumlocalnews.com/nys/rochester/community/2018/11/17/roc-girl-hackathon-">
+                                            <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | Spectrum News on ROCGirlHacks 2018 </a>
+                                    </p>
+                                    <p>
                                         <a target="_blank" href="https://www.rit.edu/news/story.php?id=67898">
                                             <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT women are networking and learning at 2018 Grace Hopper Celebration</a>
                                     </p>

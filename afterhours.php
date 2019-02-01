@@ -64,7 +64,7 @@
                           </div>
                         
                         
-                        <h3>Program Dates: 2019 Dates To Be Announced<!--March 31st and April 7th, 2018--></h3>
+                        <h3>Program Dates: March 30th and April 6th, 2019</h3>
 
 
                         <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity to meet new friends and possibly your future roommate! This program is BY INVITATION ONLY. Don’t miss this opportunity to get connected to your home away from home!</p>

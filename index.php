@@ -29,18 +29,18 @@ Dakota Sorenson '20
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
-                            <h3>FALL  MEETING TIMES</h3>
+                            <h3>SPRING  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
                                     <li>Wed • 6:30pm • GOL-1400 (The Auditorium)</li>
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Mon • 2:00pm • GOL-2500</li>
+                                    <li>Tue • 11:00am • GOL-2600 (WiC Space)</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Fri • 5:00pm • GOL-2500</li>
+                                    <li>Tue • 6:30pm • GOL-2690</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
@@ -48,15 +48,15 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:00pm • GOL-3445</li>
+                                    <li>Fri • 5:00pm • GOL-2500</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Tue • 7:30pm • GOL-2500</li>
+                                    <li>Thurs • 6:00pm • GOL-3435</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Thurs • 5:00pm - 7:00pm • GOL-2600 (WiC Space)</li>
+                                    <li>Mon • 6:00pm - 8:00pm • <a href="http://hack.rit.edu/">Construct</a></li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -65,23 +65,24 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (10/31):</b>
-                                <br><b>WiCKed Halloween Party</b>
+                                <b>Next General Meeting (1/30):</b>
+                                <br><span style="color:red">GENERAL MEETING CANCELLED DUE TO WEATHER</span>
 
                             </div>
-                            <b>Powers Farm Market (Fall Activities)</b>
+                            <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
-                            </ul>
-                            <b>IBM Cyber Day for Girls</b>
+                            </ul>-->
+                            <b>RSVP for WiConnects</b>
                             <ul>
-                                <li>Sat. 11/03 </li>
-                                <li>Volunteer: <a href="https://bit.ly/IBMVolunteering" target="_blank">bit.ly/IBMVolunteering</a> </li>
+                                <li>Wed. 2/20 • 5pm • RIT Inn</li>
+                                <li>RSVP: <a href="https://bit.ly/WiConnectsStudent19" target="_blank">bit.ly/WiConnectsStudent19</a> </li>
                             </ul>
-                            <b>ROCGirlHacks</b>
+                            <b>Apply for WiCHacks</b>
                             <ul>
-                                <li>Sat. 11/17 </li>
+                                <li>Sat. 3/2 - 3/3  • Slaughter Hall</li>
+                                <li>Apply: <a href="https://wichacks.io" target="_blank">wichacks.io</a> </li>
                             </ul>
 
                             <i class="fa fa-calendar"></i>
@@ -90,6 +91,10 @@ Dakota Sorenson '20
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="http://spectrumlocalnews.com/nys/rochester/community/2018/11/17/roc-girl-hackathon-">
+                                    <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | Spectrum News on ROCGirlHacks 2018 </a>
+                            </p>
                             <p>
                                 <a target="_blank" href="https://www.rit.edu/news/story.php?id=67898">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT women are networking and learning at 2018 Grace Hopper Celebration</a>
@@ -117,10 +122,7 @@ Dakota Sorenson '20
                                 <a target="_blank" href="https://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
                             </p>
-                            <p>
-                                <a target="_blank" href="https://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
-                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">Rochester Business Journal</span> | Founder of Girls Who Code to speak at RIT </a>
-                            </p>
+
                             <p class="text-center"><a href="/news.php"><b>More News</b></a> </p>
 
                             <i class="fa fa-newspaper-o"></i>
