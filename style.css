@@ -1325,7 +1325,10 @@ i.newsicon {
     color:white;
     background-color: #4D1F5B;
 }
-
+/*resources*/
+p.resource-name{
+    color:#4D1F5B;
+}
 /*
 .fc-event, .fc-event-dot {
     background-color: #EDE8EE;
