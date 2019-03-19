@@ -1,4 +1,4 @@
-<!--Projects WiC Page-->
+<!--Resources WiC Page-->
 <?php $title="Resources"; $level=""; ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,7 +28,7 @@
                         </div>
                         <div class="media-body">
 <!--                            <h4><p><strong>Company Name:</strong>Job Title </p></h4>-->
-                            <p class="committeetext"> Here is a current list of scholarship our members can take part in.
+                            <p class="committeetext"> Here is a current list of scholarships that any women in computing can benefit from.
 <!--                                Here is a current list of internship program, scholarship and conferences our members can take part in.-->
                             </p>
                                
@@ -195,7 +195,7 @@
                             <li><a href="projects.php" title="Projects">Projects</a></li>
                             <li><a href="alumni.php" title="Alumni">Alumni</a></li>
                             <li class="current"><a href="Resources.php" title="Resources">Resources</a></li>
-                            <div id="projgit" class="empty-space"><a href="https://github.com/women-in-computing-at-rit" target="_blank"> <i class="fa fa-github fa-4x" aria-hidden="true"></i></a></div>
+
                         </ul>
                     </div>
                 </aside>

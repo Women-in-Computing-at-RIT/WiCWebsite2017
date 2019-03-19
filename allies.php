@@ -59,6 +59,7 @@
                             <li class="current"><a href="allies.php" title="Allies">Allies</a></li>
                             <li><a href="projects.php" title="Projects">Projects</a></li>
                             <li><a href="alumni.php" title="Alumni">Alumni</a></li>
+                            <li><a href="Resources.php" title="">Resources</a></li>
                         </ul>
                     </div>
                 </aside>

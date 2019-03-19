@@ -25,6 +25,23 @@
                     <h2 class="page-title">IN THE NEWS</h2>
                     <div id="accordion">
                         <div class="card">
+                            <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link collapsed" aria-expanded="false" aria-controls="collapseFour">
+                                        2019
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse in" aria-labelledby="headingFour" data-parent="#accordion">
+                                <div class="card-body">
+                                    <p>
+                                        <a target="_blank" href="http://www.rit.edu/news/story.php?id=69217&source=enewsletter">
+                                            <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT hosts all-women hackathon March 2-3</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
                             <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo">
                                 <h5 class="mb-0">
                                     <button class="btn btn-link collapsed" aria-expanded="false" aria-controls="collapseTwo">
@@ -32,7 +49,7 @@
                                     </button>
                                 </h5>
                             </div>
-                            <div id="collapseTwo" class="collapse in" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
                                         <a target="_blank" href="http://spectrumlocalnews.com/nys/rochester/community/2018/11/17/roc-girl-hackathon-">

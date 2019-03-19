@@ -96,6 +96,7 @@
                             <li><a href="allies.php" title="">Allies</a></li>
                             <li><a href="projects.php" title="">Projects</a></li>
                             <li><a href="alumni.php" title="">Alumni</a></li>
+                            <li><a href="Resources.php" title="">Resources</a></li>
                         </ul>
                     </div>
                 </aside>

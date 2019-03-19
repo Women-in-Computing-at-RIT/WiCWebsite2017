@@ -34,7 +34,7 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/shannonPR.jpeg" alt="Laura Weintraub"/>
+                        <img class="committeepic" src="img/committees/shannonPR.jpeg" alt="Shannon McHale"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Shannon McHale, Public Relations Committee Head </p>
@@ -44,37 +44,37 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/emily.jpeg" alt="Catherine Nemechek"/>
+                        <img class="committeepic" src="img/committees/hannah.jpg" alt="Hannah Chew"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Emily Zimmerman, Events Committee Head </p>
+                        <p class="committetitle">Hannah Chew, Events Committee Head </p>
                         <p class="committeetext">The responsibilities of the Events committee are to plan, advertise, and execute internal and external social events, student tech talks, outings, and combined events with other Golisano clubs.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/shannonLogistics.jpeg" alt="Laura Corrigan"/>
+                        <img class="committeepic" src="img/committees/imris.jpeg" alt="Imris Curry"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Shannon McIntosh, Logistics</p>
+                        <p class="committetitle">Imris Curry, Logistics</p>
                         <p class="committeetext">The responsibilities of Logistics are to assist the Director, maintain WiC calendar, send updates regarding upcoming events, maintain membership information, and maintain historical information.</p>
                     </div>
                     
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/imris.jpeg" alt="Sarah Fomchenko"/>
+                        <img class="committeepic" src="img/committees/jackie.jpg" alt="Jackie Leung"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Imris Curry, Outreach  Committee Co-Head </p>
+                        <p class="committetitle">Jackie Leung, Outreach  Committee Co-Head </p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                         
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/caitlin.jpeg" alt="Cassidy Horzempa"/>
+                        <img class="committeepic" src="img/committees/caitlin.jpeg" alt="Caitlin Lander"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Caitlin Lander, Outreach Committee Co-Head </p>
@@ -94,7 +94,7 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/committees/lindsey.jpeg" alt="Sneha Vaswani"/>
+                        <img class="committeepic" src="img/committees/lindsey.jpeg" alt="Lindsey Ferretti"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Lindsey Ferretti, WiCHacks Committee Head</p>
@@ -114,7 +114,7 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/kevin.jpeg" alt="Bill Krodthoff"/>
+                        <img class="committeepic" src="img/committees/kevin.jpeg" alt="Kevin Barnett"/>
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Kevin Barnett, Allies Committee Head </p>
@@ -133,6 +133,7 @@
                             <li><a href="allies.php" title="Allies">Allies</a></li>
                             <li><a href="projects.php" title="Projects">Projects</a></li>
                             <li><a href="alumni.php" title="Alumni">Alumni</a></li>
+                            <li><a href="Resources.php" title="">Resources</a></li>
                         </ul>
                     </div>
                 </aside>

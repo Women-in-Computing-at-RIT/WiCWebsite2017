@@ -71,7 +71,7 @@
                         
                         <p>BY INVITATION ONLY - Invitations are sent to all female students who have been accepted to RIT's B. Thomas Golisano College of Computing and Information Sciences.</p>
 
-                        <p>Read about <a href="/post.php?id=5">After Hours 2018</a></p>
+                        <p>Read about: <a href="/post.php?id=5">After Hours 2018</a></p>
 
                     </div>
                     <br><br>
@@ -80,12 +80,14 @@
                         <div class="widget">
                             <h4 class="page-title">INFORMATION</h4>
                             <ul>
-                                <li><a target="_blank" href="pdfs/2018%20FAQ%20WiC%20Overnight.pdf">Frequently Asked Questions</a></li>
-                                <li><a target="_blank" href="pdfs/TentativeSchedule.png">Tentative Schedule</a></li>
+                                <li><a target="_blank" href="pdfs/2019-FAQ-WiC%20Overnight.pdf">Frequently Asked Questions</a></li>
+                                <li><a target="_blank" href="pdfs/Tentative_Schedule.pdf">Tentative Schedule</a></li>
                                 <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
                                 <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
-                                <!--<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSdD2lDb9TQz84pY0M7sNO2YlLRzyNxfIMuUCYQf0iDBDfVVmA/viewform'" type="button" class="btn btn-primary afterhours-btn">Register</button>-->
+                                <li><img src="img/afterhours/afterhourslogo.png" alt="After Hours Logo" width="100%" style="padding-top:20px;padding-bottom:20px"/></li>
+                                <button onclick="window.location.href='https://bit.ly/AfterHours2019'" type="button" class="btn btn-primary afterhours-btn">Register</button>
                             </ul>
+
                         </div>
                     </aside>
                 

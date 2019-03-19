@@ -77,6 +77,7 @@
                             <li><a href="allies.php" title="Allies">Allies</a></li>
                             <li class="current"><a href="projects.php" title="Projects">Projects</a></li>
                             <li><a href="alumni.php" title="Alumni">Alumni</a></li>
+                            <li><a href="Resources.php" title="">Resources</a></li>
                             <div id="projgit" class="empty-space"><a href="https://github.com/women-in-computing-at-rit" target="_blank"> <i class="fa fa-github fa-4x" aria-hidden="true"></i></a></div>
                         </ul>
                     </div>

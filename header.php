@@ -80,7 +80,7 @@
 	        </div>
         </div>
         
-<!--
+
         <div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
              <a href="/afterhours.php">
@@ -88,15 +88,15 @@
              </a>
         </div>
 
--->
 
+<!--
         <div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
              <a href="https://wichacks.io">
                  <strong >Registration for WiCHacks is now open! </strong> <u>Click here</u> to apply!
              </a>
         </div>
-
+-->
 
 
         <nav class="navbar navbar-default">
@@ -111,7 +111,7 @@
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav main-navbar-nav">
                         <li <?php if($title=="Home"){echo "class='active'";} ?> ><a href="<?php echo $level ?>index.php" title="">HOME</a></li>
-                        <li class="dropdown <?php if(($title=="Mission") || ($title=="FAQ")|| ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")){echo "active";} ?>">
+                        <li class="dropdown <?php if(($title=="Mission") || ($title=="FAQ")|| ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")|| ($title=="Resources")){echo "active";} ?>">
                             <a href="<?php echo $level ?>mission.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="<?php echo $level ?>mission.php" title="">MISSION</a></li>
@@ -120,6 +120,7 @@
                                 <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
                                 <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
                                 <li><a href="<?php echo $level ?>alumni.php" title="">ALUMNI</a></li>
+                                <li><a href="<?php echo $level ?>Resources.php" title="">RESCOURCES</a></li>
                             </ul>
                         </li>
                         <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks") || ($title=="Outreach")){echo "active";} ?>">

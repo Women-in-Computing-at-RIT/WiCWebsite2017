@@ -36,7 +36,7 @@ Dakota Sorenson '20
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Tue • 11:00am • GOL-2600 (WiC Space)</li>
+                                    <li>Tue • 11:00am • GOL-1688</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
@@ -65,8 +65,8 @@ Dakota Sorenson '20
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (1/30):</b>
-                                <br><span style="color:red">GENERAL MEETING CANCELLED DUE TO WEATHER</span>
+                                <b>Next General Meeting (3/20):</b>
+                                <br>Redcom Visit
 
                             </div>
                             <!--<b>Powers Farm Market (Fall Activities)</b>
@@ -74,16 +74,32 @@ Dakota Sorenson '20
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>RSVP for WiConnects</b>
+
+                            <b>Committee Head Applications</b>
                             <ul>
-                                <li>Wed. 2/20 • 5pm • RIT Inn</li>
-                                <li>RSVP: <a href="https://bit.ly/WiConnectsStudent19" target="_blank">bit.ly/WiConnectsStudent19</a> </li>
+                                <li>Applications close March 22nd</li>
+                                <li>Apply: <a href="http://bit.ly/WiCApplication2019" target="_blank">bit.ly/WiCApplication2019</a> </li>
                             </ul>
-                            <b>Apply for WiCHacks</b>
+                            <b>RSVP to Visit the Strong Museum of Play</b>
                             <ul>
-                                <li>Sat. 3/2 - 3/3  • Slaughter Hall</li>
-                                <li>Apply: <a href="https://wichacks.io" target="_blank">wichacks.io</a> </li>
+                                <li>Fri. 3/22 • 6pm - 8pm</li>
+                                <li>RSVP: <a href="https://bit.ly/WiCStrongTrip" target="_blank">bit.ly/WiCStrongTrip</a> </li>
                             </ul>
+                            <b>Volunteer for Allies Event</b>
+                            <ul>
+                                <li>Tue. 3/26 • 10am - 5pm</li>
+                                <li>Volunteer: <a href="https://bit.ly/AlliesVolunteer" target="_blank">bit.ly/AlliesVolunteer</a> </li>
+                            </ul>
+                            <b>Volunteer for After Hours</b>
+                            <ul>
+                                <li>Sat. 3/30 and 4/6 </li>
+                                <li>Volunteer: <a href="https://bit.ly/AfterHoursVolunteer2019" target="_blank">bit.ly/AfterHoursVolunteer2019</a> </li>
+                            </ul>
+                            <b>Teach and Volunteer for Mobile Tech Van</b>
+                            <ul>
+                                <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
+                            </ul>
+
 
                             <i class="fa fa-calendar"></i>
                         </div>
@@ -91,6 +107,10 @@ Dakota Sorenson '20
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="http://www.rit.edu/news/story.php?id=69217&source=enewsletter">
+                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT hosts all-women hackathon March 2-3</a>
+                            </p>
                             <p>
                                 <a target="_blank" href="http://spectrumlocalnews.com/nys/rochester/community/2018/11/17/roc-girl-hackathon-">
                                     <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | Spectrum News on ROCGirlHacks 2018 </a>
@@ -118,10 +138,7 @@ Dakota Sorenson '20
                             <p>
                                 <a target="_blank" href="https://www.rit.edu/news/story.php?id=64018&source=enewsletter">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span>| ROCGirlHacks is Oct. 28</a></p>
-                            <p>
-                                <a target="_blank" href="https://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
-                                    <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">Campus Spotlight</span> | WiC and the Girl Scouts</a>
-                            </p>
+
 
                             <p class="text-center"><a href="/news.php"><b>More News</b></a> </p>
 

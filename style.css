@@ -1031,6 +1031,10 @@ h2.category-title:after {
     #howtoallytitle {
         display: none;
     }
+    /*footer*/
+    footer.site-footer .container .row {
+        padding: 20px;
+    }
 }
 
 /*annoying homepage tablet fix*/
@@ -1233,7 +1237,7 @@ i.newsicon {
 /*For WiCHacks Alert*/
 .alertwic {
     padding: 20px;
-    background-color:#FDC000; /*WicHacks: #FDC000, After Hours: #EDE8EE*/
+    background-color:#EDE8E; /*WicHacks: #FDC000, After Hours: #EDE8EE*/
     color: #4D1F5B;
     text-align: center;
 }
