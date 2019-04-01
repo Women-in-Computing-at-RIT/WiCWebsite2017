@@ -67,11 +67,19 @@
                         <h3>Program Dates: March 30th and April 6th, 2019</h3>
 
 
-                        <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity to meet new friends and possibly your future roommate! This program is BY INVITATION ONLY. Don’t miss this opportunity to get connected to your home away from home!</p>
+                        <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted
+                            into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience
+                            first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women
+                            in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity
+                            to meet new friends and possibly your future roommate! This program is BY INVITATION ONLY. Don’t miss
+                            this opportunity to get connected to your home away from home! Curious about what it's like as a women in
+                            computing at RIT? Check out some of our current <a href="studentstories.php">Student Stories</a>!</p>
                         
-                        <p>BY INVITATION ONLY - Invitations are sent to all female students who have been accepted to RIT's B. Thomas Golisano College of Computing and Information Sciences.</p>
+                        <p>Invitations are sent to all female students who have been accepted to RIT's B. Thomas Golisano
+                            College of Computing and Information Sciences.</p>
 
                         <p>Read about: <a href="/post.php?id=5">After Hours 2018</a></p>
+
 
                     </div>
                     <br><br>

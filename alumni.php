@@ -28,18 +28,18 @@
                     <br/><br/>
                     <h2 class="page-title header-remove">SPOTLIGHT</h2>
                     <div class="entry">
-                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
 
                           <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                              <li data-target="#myCarousel" data-slide-to="3"></li>
-                              <li data-target="#myCarousel" data-slide-to="4"></li>
-                              <li data-target="#myCarousel" data-slide-to="5"></li>
-                              <li data-target="#myCarousel" data-slide-to="6"></li>
-                              <li data-target="#myCarousel" data-slide-to="7"></li>
-                              <li data-target="#myCarousel" data-slide-to="8"></li>
+                            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel2" data-slide-to="1"></li>
+                            <li data-target="#myCarousel2" data-slide-to="2"></li>
+                              <li data-target="#myCarousel2" data-slide-to="3"></li>
+                              <li data-target="#myCarousel2" data-slide-to="4"></li>
+                              <li data-target="#myCarousel2" data-slide-to="5"></li>
+                              <li data-target="#myCarousel2" data-slide-to="6"></li>
+                              <li data-target="#myCarousel2" data-slide-to="7"></li>
+                              <li data-target="#myCarousel2" data-slide-to="8"></li>
                           </ol>
 
 
@@ -74,11 +74,11 @@
                           </div>
 
 
-                          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                          <a class="left carousel-control" href="#myCarousel2" data-slide="prev">
                             <span class="alumarrow glyphicon glyphicon-chevron-left"></span>
                             <span class="sr-only">Previous</span>
                           </a>
-                          <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                          <a class="right carousel-control" href="#myCarousel2" data-slide="next">
                             <span class="alumarrow glyphicon glyphicon-chevron-right"></span>
                             <span class="sr-only">Next</span>
                           </a>

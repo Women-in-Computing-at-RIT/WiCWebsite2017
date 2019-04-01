@@ -1226,12 +1226,16 @@ i.newsicon {
 }
 
 @media screen and (max-width: 992px) {
-    #myCarousel {
-        display: none;
+    #myCarousel2 img {
+        width: 100%;
     }
-
     .header-remove {
         display: none;
+    }
+    /*for student stories*/
+    .ssimg{
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 /*For WiCHacks Alert*/
@@ -1333,7 +1337,18 @@ i.newsicon {
 p.resource-name{
     color:#4D1F5B;
 }
-/*
-.fc-event, .fc-event-dot {
-    background-color: #EDE8EE;
-}*/
+/*student stories*/
+.punch-viewer-container {
+    background-color: white !important;
+}
+li#ss{
+    border: 1px solid #4D1F5B !important;
+}
+li#ss.active{
+    background-color: #4d1f5b !important;
+}
+.ssimg{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
