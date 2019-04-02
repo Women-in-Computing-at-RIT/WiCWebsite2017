@@ -22,10 +22,17 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">MISSION STATEMENT</h2>
                     <div class="entry">
-                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester Institute of Technology through professional, leadership, mentorship, and technical development opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
-                        <p style="text-align:center"><a target="_blank" href="pdfs/WiC_Constitution_16_17.pdf"><b>2017 - 2018 Constitution </b></a></p>
-                        
-                        <div id="row" class="missionpics">
+                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary
+                            networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester
+                            Institute of Technology through professional, leadership, mentorship, and technical development
+                            opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
+                        <center><button onclick="window.location.href='pdfs/WiC_Constitution_16_17.pdf'" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
+                                <i class="fa fa-book" aria-hidden="true"></i> Constitution
+                                </button>
+                        <center>
+
+
+                    <div id="row" class="missionpics">
                             <div class="col-lg-4 mb-4">
                                 <img src="img/mission/mission1.jpg"/>
                             </div>

@@ -116,7 +116,7 @@
                                 <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
                                 <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
                                 <li><a href="<?php echo $level ?>alumni.php" title="">ALUMNI</a></li>
-                                <li><a href="<?php echo $level ?>Resources.php" title="">RESCOURCES</a></li>
+                                <li><a href="<?php echo $level ?>Resources.php" title="">RESOURCES</a></li>
                             </ul>
                         </li>
                         <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks") || ($title=="Outreach")){echo "active";} ?>">
