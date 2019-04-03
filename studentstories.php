@@ -44,37 +44,37 @@
 
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <center><img class="ssimg" src="img/studentstories/shannonm.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/shannonm.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/danG.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/danG.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/sarahf.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/sarahf.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/lisan.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/lisan.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/meghanc.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/meghanc.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/mililanir.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/mililanir.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/lauraw.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/lauraw.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/jessim.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/jessim.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/arielv.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/arielv.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/jackiel.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/jackiel.png"></center>
                                         </div>
                                         <div class="item">
-                                            <center><img class="ssimg" src="img/studentstories/caitlinl.svg"></center>
+                                            <center><img class="ssimg" src="img/studentstories/caitlinl.png"></center>
                                         </div>
                                     </div>
 

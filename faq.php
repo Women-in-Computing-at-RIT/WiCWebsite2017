@@ -82,7 +82,7 @@
                             <section class="page col-sm-6"><img class="center-block" src="img/FAQ/line1.jpg"></section>
                         </div>
 
-                        <center><button onclick="window.location.href='pdfs/WiC_Constitution_16_17.pdf'" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
+                        <center><button onclick="window.location.href='pdfs/WiC_Constitution_18-19.pdf'" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
                                 <i class="fa fa-book" aria-hidden="true"></i> Constitution
                             </button>
                             <center>

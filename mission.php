@@ -26,7 +26,7 @@
                             networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester
                             Institute of Technology through professional, leadership, mentorship, and technical development
                             opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
-                        <center><button onclick="window.location.href='pdfs/WiC_Constitution_16_17.pdf'" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
+                        <center><button onclick="window.location.href='pdfs/WiC_Constitution_18-19.pdf'" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
                                 <i class="fa fa-book" aria-hidden="true"></i> Constitution
                                 </button>
                         <center>

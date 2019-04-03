@@ -1234,8 +1234,8 @@ i.newsicon {
     }
     /*for student stories*/
     .ssimg{
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 20px !important;
+        margin-right: 20px !important;
     }
 }
 /*For WiCHacks Alert*/
@@ -1351,4 +1351,7 @@ li#ss.active{
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 50px;
+}
+img.ssimg{
+    width:90%;
 }
