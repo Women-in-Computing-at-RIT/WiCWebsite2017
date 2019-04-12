@@ -69,8 +69,8 @@ Maintained:
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (4/3):</b>
-                                <br>Intuit Visit
+                                <b>Next General Meeting (4/17):</b>
+                                <br>Microtalk on Meta-programming
 
                             </div>
                             <!--Example Event -->
@@ -82,12 +82,23 @@ Maintained:
 
                             <b>Apply for Grace Hopper</b>
                             <ul>
+                                <li>October 4 - 5 • Orlando, FL</li>
                                 <li>Apply: <a href="https://bit.ly/GraceHopper2019" target="_blank">http://bit.ly/GraceHopper2019</a> </li>
                                 <li><a href="GHC.php">Read about Grace Hopper 2018</a></li>
+                            </ul>
+                            <b>Apply for Pre-Orientation TA Positions</b>
+                            <ul>
+                                <li>Applications close Fri. 4/19 </li>
+                                <li>Apply: <a href="https://bit.ly/2019WICPre-OrientationTAApplication" target="_blank">bit.ly/2019WICPre-OrientationTAApplication</a> </li>
                             </ul>
                             <b>Teach and Volunteer for Mobile Tech Van</b>
                             <ul>
                                 <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
+                            </ul>
+                            <b>RSVP for Women's Career Achievement Dinner</b>
+                            <ul>
+                                <li>Wed. 4/22 • 5:00pm • Gordon Field House</li>
+                                <li>RSVP: <a href="https://bit.ly/2019CareerDinner" target="_blank">bit.ly/2019CareerDinner</a> </li>
                             </ul>
                             <b>RSVP for End of the Year Party</b>
                             <ul>

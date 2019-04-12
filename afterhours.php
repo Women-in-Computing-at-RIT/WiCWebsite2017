@@ -93,7 +93,7 @@
                                 <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
                                 <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
                                 <li><img src="img/afterhours/afterhourslogo.png" alt="After Hours Logo" width="100%" style="padding-top:20px;padding-bottom:20px"/></li>
-                                <button onclick="window.location.href='https://bit.ly/AfterHours2019'" type="button" class="btn btn-primary afterhours-btn">Register</button>
+                                <!--<button onclick="window.location.href='https://bit.ly/AfterHours2019'" type="button" class="btn btn-primary afterhours-btn">Register</button>-->
                             </ul>
 
                         </div>
