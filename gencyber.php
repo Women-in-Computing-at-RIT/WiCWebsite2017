@@ -17,12 +17,13 @@
     </div>
     <main class="site-main page-main">
         <div class="container">
-            <div class="row">
-                <!--<section class="page col-sm-9">-->
+            <div class="row" style="">
+                <section class="page col-sm-9">
                     <h2 class="page-title">GENCYBER GIRLS SUMMER CAMP</h2>
                     <div class="entry">
                         <center>
-                        <img src="img/gencyber/gencyberlogo.jpg">
+
+                        <h2>PENDING FUNDING</h2>
                         
                         <h3>Meet new people and encounter new challenges!</h3>
 
@@ -38,7 +39,7 @@
 
                         </center>
                         <br>
-                        <h2 class="page-title">ELIGIBILITY</h2>
+                        <h2 class="page-title" style="margin-top:3%">ELIGIBILITY</h2>
                             <ul>
                             <li>Middle/High school girls (incoming grades 8-11)</li>
                             <li>This is a beginner camp, so no previous experience is necessary.</li>
@@ -51,23 +52,8 @@
                             <li>Request a school STEM teacher to email a letter of recommendation
                                 with the student name in the Subject.</li>
                             </ol>
-                        <center>
-                        <div style = "margin-top:3%">
-                            <div style = "float:left; width:50%; margin-top:10%">
-                                <h3>DATE: JULY 22-28, 2019</h3>
-                                <h3>WHERE: Rochester Institute of Technology</h3>
-                                <h3>COST: FREE</h3><br>
-                                <h4>Sign up to be contacted when applications are available.<br><br>
-                                <a href = "http://bit.ly/2019GenCyberGirlCamp">http://bit.ly/2019GenCyberGirlCamp</a>
-                                </h4>
-                            </div>
-                            <div style = "float:left; width:50%">
-                                <img src = "img/gencyber/gencyber1.JPG">
-                            </div>
-                        </div>
-                        </center>
 
-                        <h2 class="page-title">CURRICULUM</h2>
+                        <h2 class="page-title" style="margin-top:3%">CURRICULUM</h2>
                         <p>
                             A week long camp designed to introduce girls to the world of cybersecurity and
                             other computing skills. Sessions focus on core principles and practices of cybersecurity,
@@ -75,40 +61,65 @@
                             and defense.
                         </p>
 
-                        <h2 class="page-title">LEARNER OUTCOMES</h2>
+                        <h2 class="page-title" style="margin-top:3%">LEARNER OUTCOMES</h2>
                         <ul>
                             <li>Demonstrate basic knowledge of essential concepts and first principles in cybersecurity</li>
                             <li>Demonstrate an understanding of correct and safe online behavior</li>
                             <li>Demonstrate an understanding of current and potential cybersecurity and privacy issues in everyday life</li>
                             <li>Demonstrate basic programming skills</li>
-                            </ul>
+                        </ul>
 
-                        <h2 class="page-title">FAQ</h2>
-                        <p>
-                            Q: Do I need to have taken a course in programming or computer science?<br>
-                            A: Nope! We design the camps to be from the ground up.<br><br>
-                            Q: When will I know if I got accepted?<br>
-                            A: We will let you know in June if you were accepted.
-                            We regret we cannot confirm places before this.<br><br>
-                            Q: Is the camp free?<br>
-                            A:  The camp is free thanks to our sponsors.<br><br>
-                            This is due in part to the camp addressing the advancement of women in cybersecurity.
-                            Our goal is to provide our local community with a needed starting point. As such,
-                            this public education is free to encourage high school aged females a chance at this
-                            opportunity, enabling all girls to participate, no matter the family income.
-                            In addition to an education students will be provided with real time contact and talks
-                            from professionals whom will be sharing their valuable experiences and advice.<br><br>
-                            Q: Will food be provided?<br>
-                            A:  Lunch for each day of the camp along with snacks are provided.<br><br>
-                            Q: Is lodging provided?<br>
-                            A: Lodging is not provided.<br><br>
-                            Q: I have more questions, who do I contact?<br>
-                            A:  Please contact the program director at gencyber@rit.edu if you have any questions.
-                        </p>
+                        <h2 class="page-title" style="margin-top:3%">FAQ</h2>
+                        <div>
+                            <div style = "float:left; width:50%; padding-right:3%">
+                                <p>
+                                    Q: Do I need to have taken a course in programming or computer science?<br>
+                                    A: Nope! We design the camps to be from the ground up.<br><br>
+                                    Q: When will I know if I got accepted?<br>
+                                    A: We will let you know in June if you were accepted.
+                                    We regret we cannot confirm places before this.<br><br>
+                                    Q: Is the camp free?<br>
+                                    A:  The camp is free thanks to our sponsors.<br><br>
+                                    This is due in part to the camp addressing the advancement of women in cybersecurity.
+                                    Our goal is to provide our local community with a needed starting point. As such,
+                                    this public education is free to encourage high school aged females a chance at this
+                                    opportunity, enabling all girls to participate, no matter the family income.
+                                    In addition to an education students will be provided with real time contact and talks
+                                    from professionals whom will be sharing their valuable experiences and advice.<br><br>
+                                    Q: Will food be provided?<br>
+                                    A:  Lunch for each day of the camp along with snacks are provided.<br><br>
+                                    Q: Is lodging provided?<br>
+                                    A: Lodging is not provided.<br><br>
+                                    Q: I have more questions, who do I contact?<br>
+                                    A:  Please contact the program director at gencyber@rit.edu if you have any questions.
+                                </p>
+                            </div>
+                            <div style = "float:left; width:50%;padding-left:3%">
+                                <img src = "img/gencyber/gencyber1.JPG">
+                            </div>
+                        </div>
+
+
 
                     </div>
                     <br><br>
-                <!--</section>-->
+                </section>
+                <aside class="sidebar col-sm-3">
+                    <div class="widget">
+                        <center>
+                        <img src="img/gencyber/gencyberlogo.jpg">
+                        <h3>DATE: JULY 22-28, 2019</h3>
+                        <h3>WHERE: Rochester Institute of Technology</h3>
+                        <h3>COST: FREE</h3><br><br>
+                        <h5>Click the button below to be notified when applications become available!</h5>
+                        <button onclick="window.open('http://bit.ly/2019GenCyberGirlCamp')" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
+                        Sign Up!
+                        </button>
+
+                        </center>
+                    </div>
+                </aside>
+
             </div>
         </div>
     </main>
