@@ -18,7 +18,7 @@
     <main class="site-main page-main">
         <div class="container">
             <div class="row">
-                <section class="page col-sm-9">
+                <!--<section class="page col-sm-9">-->
                     <h2 class="page-title">GENCYBER GIRLS SUMMER CAMP</h2>
                     <div class="entry">
                         <center>
@@ -38,7 +38,7 @@
 
                         </center>
                         <br>
-                        <h4>Eligibility:</h4>
+                        <h2 class="page-title">ELIGIBILITY</h2>
                             <ul>
                             <li>Middle/High school girls (incoming grades 8-11)</li>
                             <li>This is a beginner camp, so no previous experience is necessary.</li>
@@ -67,7 +67,7 @@
                         </div>
                         </center>
 
-                        <h4>Curriculum:</h4>
+                        <h2 class="page-title">CURRICULUM</h2>
                         <p>
                             A week long camp designed to introduce girls to the world of cybersecurity and
                             other computing skills. Sessions focus on core principles and practices of cybersecurity,
@@ -75,7 +75,7 @@
                             and defense.
                         </p>
 
-                        <h4>Learner Outcomes:</h4>
+                        <h2 class="page-title">LEARNER OUTCOMES</h2>
                         <ul>
                             <li>Demonstrate basic knowledge of essential concepts and first principles in cybersecurity</li>
                             <li>Demonstrate an understanding of correct and safe online behavior</li>
@@ -83,7 +83,7 @@
                             <li>Demonstrate basic programming skills</li>
                             </ul>
 
-                        <h4>FAQ</h4>
+                        <h2 class="page-title">FAQ</h2>
                         <p>
                             Q: Do I need to have taken a course in programming or computer science?<br>
                             A: Nope! We design the camps to be from the ground up.<br><br>
@@ -108,7 +108,7 @@
 
                     </div>
                     <br><br>
-                </section>
+                <!--</section>-->
             </div>
         </div>
     </main>
