@@ -96,11 +96,6 @@ Jessi Miller '23
                             <ul>
                                 <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
                             </ul>
-                            <b>RSVP for Women's Career Achievement Dinner</b>
-                            <ul>
-                                <li>Wed. 4/22 • 5:00pm • Gordon Field House</li>
-                                <li>RSVP: <a href="https://bit.ly/2019CareerDinner" target="_blank">bit.ly/2019CareerDinner</a> </li>
-                            </ul>
                             <b>RSVP for End of the Year Party</b>
                             <ul>
                                 <li>Wed. 4/24 • 6:30pm • At WiC General Meeting</li>
