@@ -31,46 +31,67 @@
                         <div id="myCarousel2" class="carousel slide" data-ride="carousel">
 
                           <ol class="carousel-indicators">
-                            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel2" data-slide-to="1"></li>
-                            <li data-target="#myCarousel2" data-slide-to="2"></li>
-                              <li data-target="#myCarousel2" data-slide-to="3"></li>
-                              <li data-target="#myCarousel2" data-slide-to="4"></li>
-                              <li data-target="#myCarousel2" data-slide-to="5"></li>
-                              <li data-target="#myCarousel2" data-slide-to="6"></li>
-                              <li data-target="#myCarousel2" data-slide-to="7"></li>
-                              <li data-target="#myCarousel2" data-slide-to="8"></li>
+                            <li data-target="#myCarousel2" data-slide-to="0" id="ss" class="active"></li>
+                            <li data-target="#myCarousel2" data-slide-to="1" id="ss" ></li>
+                            <li data-target="#myCarousel2" data-slide-to="2" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="3" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="4" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="5" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="6" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="7" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="8" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="9" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="10" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="11" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="12" id="ss" ></li>
+                              <li data-target="#myCarousel2" data-slide-to="13" id="ss" ></li>
                           </ol>
 
 
                           <div class="carousel-inner">
                             <div class="item active">
-                                <center><img src="img/alumnai/alumnai_spotlight/kristenSeverskyAlumniSpotlight.png"></center>
+                                <center><img src="img/alumnai/alumnai_spotlight/KristenSeverskyFinal.png" width="80%"></center>
                             </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/AnushriThandarAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/AnushriThanedarFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/CaseyKlimkowskyAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/CaseyKlimkowskyFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/Huda%20Al-HabsiAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/HudaAl-HasbiFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/KarenRothAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/KarenRothFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/KirstieFaileyAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/KirstieFaileyFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/LauraWiemeAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/LauraWiemeFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/MelodyKellyAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/MelodyKellyFinal.png" width="80%"></center>
                               </div>
                               <div class="item">
-                                  <center><img src="img/alumnai/alumnai_spotlight/NoelSarahDastaAlumniSpotlight.png"></center>
+                                  <center><img src="img/alumnai/alumnai_spotlight/NoelSarahDastaFinal.png" width="80%"></center>
                               </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/GarlandJNicholsPosterFinal.png" width="80%"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/MeganDuffyPosterFinal.png" width="80%"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/MelissaYoungPosterFinal.png" width="80%"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/MichaelaButlerPosterFinal.png" width="80%"></center>
+                              </div>
+                              <div class="item">
+                                  <center><img src="img/alumnai/alumnai_spotlight/NancyTelferPosterFinal.png" width="80%"></center>
+                              </div>
+
                           </div>
 
 
