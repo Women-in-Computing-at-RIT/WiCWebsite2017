@@ -121,11 +121,10 @@
                         <img src="img/gencyber/gencyberlogo.jpg">
                         <h3><b>Date:</b> July 22-28, 2019</h3>
                         <h3><b>Where:</b> Rochester Institute of Technology</h3>
-                        <h3><b>Cost:</b> FREE</h3><br><br>
+                        <h3><b>Cost:</b> FREE</h3>
                         <center>
-                        <h5>Click the button below to be notified when applications become available!</h5>
-                        <button onclick="window.open('http://bit.ly/2019GenCyberGirlCamp')" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
-                        Get Notified!
+                        <button onclick="window.open('http://bit.ly/2019Gencybercamp')" type="button" style="width:200px;margin-bottom: 20px" class="btn btn-primary afterhours-btn">
+                        Apply
                         </button>
                         </center>
                     </div>
