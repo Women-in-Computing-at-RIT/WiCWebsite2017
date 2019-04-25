@@ -94,6 +94,14 @@
         </div>
 -->
 
+        <div class="alertcyber">
+            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
+             <a href="/gencyber.php" style="color: white">
+                 <strong >GenCyber Girls free Summer Camp is coming soon! </strong> <u>Click here</u> to learn more!
+             </a>
+        </div>
+
+
 
         <nav class="navbar navbar-default">
 			<div class="container">
