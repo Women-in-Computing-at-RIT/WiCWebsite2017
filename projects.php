@@ -22,6 +22,33 @@
             <div class="row">
                 <section class="page col-sm-9">
                     <h2 class="page-title">PROJECTS</h2>
+
+
+                    <div class="media-left">
+                        <img class="committeepic" src="img/projects/projects2019_1.png">
+                    </div>
+                    <div class="media-body">
+                        <h4><p><strong>2019:</strong> Poll System</p></h4>
+                        <p class="committeetext">We currently have a white board where our members create polls throughout
+                            the year such as ‘Is water wet?’ and ‘What’s the best girl scout cookie?’
+                            This project is a slack bot and mobile app to manage and automate these polls.</p>
+                        <a href="https://github.com/Women-in-Computing-at-RIT/poll-system" target="_blank">Documentation</a>
+                    </div>
+
+                    <br><br>
+
+                    <div class="media-left">
+                        <img class="committeepic" src="img/projects/projects2019_2.jpg">
+                    </div>
+                    <div class="media-body">
+                        <h4><p><strong>2019:</strong> Robotic Hand</p></h4>
+                        <p class="committeetext">We are following a tutorial Microsoft displayed at the Grace Hopper Conference this year.
+                            Using some straw, rubber bands, and an arduino we can make a robotic hand that can move like a human’s can.</p>
+                        <a href="https://github.com/Women-in-Computing-at-RIT/robotic-hand" target="_blank">Documentation</a>
+                    </div>
+
+                    <br><br>
+
                     <div class="media-left">
                         <img class="committeepic" src="img/projects/project2018.JPG">
                     </div>
