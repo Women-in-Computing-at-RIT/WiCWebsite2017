@@ -75,17 +75,15 @@ Jessi Miller '23
                                 <b>Have a great summer!</b>
 
                             </div>
-                            <!--Example Event -->
+                            <!--Example Event Do Not Delete -->
                             <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-
-                            <b>Apply for Pre-Orientation TA Positions</b>
+                            <b>Feedback Survey</b>
                             <ul>
-                                <li>Applications close Fri. 4/19 </li>
-                                <li>Apply: <a href="https://bit.ly/2019WICPre-OrientationTAApplication" target="_blank">bit.ly/2019WICPre-OrientationTAApplication</a> </li>
+                                <li>Fill Out: <a href="https://bit.ly/WiCFeedback2019" target="_blank">bit.ly/WiCFeedback2019</a> </li>
                             </ul>
                             <b>Teach and Volunteer for Mobile Tech Van</b>
                             <ul>
