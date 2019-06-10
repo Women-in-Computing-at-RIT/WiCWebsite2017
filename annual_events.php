@@ -29,7 +29,8 @@
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="https://wichacks.io/" target="_blank">WiCHacks</a></h3>
-                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age.</p>                               
+                                <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants can be female college or high school students who are at least 16 years of age.</p>
+                                <p>Blogs: <a href="/post.php?id=22">2019</a></p>
                             </div>
                         </li> 
                         <hr/>
@@ -40,7 +41,7 @@
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="afterhours.php">WiC After Hours</a></h3>
                                 <p>The Women in Computing After Hours Program is an overnight program for women accepted into the B. Thomas Golisano College of Computing. This free program includes learning about Study Abroad, Housing, Academic Support Services, Cooperative Education, leadership opportunities and much more.</p>                               
-                                <p>Blogs: <a href="/post.php?id=5">2018</a></p>
+                                <p>Blogs: <a href="/post.php?id=5">2018</a>, <a href="/post.php?id=22"></a></p>
                             </div>
                         </li>
                         <hr/>
