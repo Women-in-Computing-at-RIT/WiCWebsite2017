@@ -38,7 +38,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Shannon McHale, Public Relations Committee Head </p>
-                        <p class="committeetext">The responsibilities of Public Relations committee are to update and maintain Social Media, brochures and newsletters. They are also responsible for scheduling company tech talks, info sessions and cultivating relationships with university recruiters at the RIT career fair. This committee plans and executes WiConnects, a networking event for female Golisano faculty, students and WiC Allies.</p>
+                        <p class="committeetext">The responsibilities of Public Relations committee are to update and maintain Social Media, brochures and newsletters. They are also responsible for scheduling company tech talks, info sessions and cultivating relationships with university recruiters at the RIT career fair. This committee plans and executes WiConnects, a networking event for Golisano faculty, students and WiC Allies.</p>
                     </div>
                     
                         <br><br>

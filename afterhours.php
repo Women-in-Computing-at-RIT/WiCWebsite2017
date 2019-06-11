@@ -78,7 +78,7 @@
                         <p>Invitations are sent to all female students who have been accepted to RIT's B. Thomas Golisano
                             College of Computing and Information Sciences.</p>
 
-                        <p>Read about: <a href="/post.php?id=5">After Hours 2018</a></p>
+                        <p>Read about: <a href="/post.php?id=20">After Hours 2019</a></p>
 
 
                     </div>
