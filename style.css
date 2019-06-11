@@ -104,7 +104,6 @@ a.none:hover {
     transition: all 0.3s ease-out;
     width: 100%;
     border: none;
-    border-bottom: 1px solid #e7e7e7;
     background-color: #4D1F5B;
 }
 
