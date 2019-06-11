@@ -71,7 +71,7 @@
                                 <br>
                                 
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>Fall 2018 Scholarship opens on October 1st and closes on November 1st. Spring scholarship rotation on March 15, 2019 and it closes on April 15, 2019.
+                                <br>Fall 2018 Scholarship applications open on October 1st and close on November 1st. Spring scholarship rotation opens on March 15, 2019 and closes on April 15, 2019.
                                 </p>
                                 <a href="https://www.buildium.com/women-in-technology-scholarship/">More information </a> 
                             
@@ -120,7 +120,7 @@
                             <p class="committeetext">Point Foundation (Point) is the nation’s largest higher education scholarship-granting organization for lesbian, gay, bisexual, transgender, and queer (LGBTQ) students. Point’s multifaceted support of its scholarship recipients (“scholars”) extends far beyond direct financial contribution toward the cost of their education. Each scholar is paired with a mentor and participates in leadership development programs and events.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>Applications opens November 1 and closes at January 28.
+                                <br>Applications open November 1 and close at January 28.
                                 </p>
                                 <a href="https://pointfoundation.org/thepoint/scholarship/">More information </a> 
                             
@@ -132,7 +132,7 @@
                             <p class="committeetext">10 finalists awarded grants and invited to Palantir HQ for workshops, select participants are selected for an internship.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>The 2019 application period is now open. The deadline to apply is Sunday, March 24, 2019 at 11:59 PM PST.
+                                <br>The 2019 application period is now closed. The deadline to apply was Sunday, March 24, 2019 at 11:59 PM PST.
                                 </p>
                                 <a href="https://pointfoundation.org/thepoint/scholarship/">More information </a> 
                             
