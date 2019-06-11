@@ -84,7 +84,7 @@
                             <p class="committeetext">Recipients receive paid registration to one of the following diversity conferences: Grace Hopper Celebration of Women in Computing, National Society of Black Engineers Conference, Society of Hispanic Professional Engineers Conference, Tapia Conference
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>Applications for the Conference Scholarship are open from 1 February 2019 to 28 February 2019. <br>The Tuition Scholarship application is now closed and will re-open in October 2019.
+                                <br>The 2019 application period is now closed and will re-open in October 2019.
                                 </p>
                                 <a href="https://careers.microsoft.com/us/en/usscholarshipprogram">More information </a> 
                             
@@ -96,7 +96,7 @@
                             <p class="committeetext">In honor of Dr. Anita Borg, who believed that technology affects all aspects of our economic, political, social and personal lives, Google awards this scholarship of $10,000 to female undergraduates based on the strength of each candidate’s academic background and demonstrated leadership.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>APPLICATIONS FOR 2019-20 ARE NOW CLOSED
+                                <br>The 2019 application period is now closed.
                                 </p>
                                 <a href="https://www.womentechmakers.com/scholars">More information </a> 
                             
@@ -108,7 +108,7 @@
                             <p class="committeetext">The NCWIT Collegiate Award honors the outstanding computing accomplishments of undergraduate and graduate women. Conferred annually, the award recognizes technical contributions to projects that demonstrate a high level of innovation and potential impact.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>Applications for the 2019 Collegiate Award are closed.
+                                <br>The 2019 application period is now closed.
                                 </p>
                                 <a href="https://www.aspirations.org/participate/collegiate-award">More information </a> 
                             
@@ -132,7 +132,7 @@
                             <p class="committeetext">10 finalists awarded grants and invited to Palantir HQ for workshops, select participants are selected for an internship.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>The 2019 application period is now closed. The deadline to apply was Sunday, March 24, 2019 at 11:59 PM PST.
+                                <br>The 2019 application period is now closed.
                                 </p>
                                 <a href="https://pointfoundation.org/thepoint/scholarship/">More information </a> 
                             
@@ -143,7 +143,7 @@
                             <p class="committeetext">Grace Hopper Conference is the largest conference celebrating women in computing. The Anita Borg institute, which organizes the conference, provides scholarships every year to those who apply.
                                 <br>                            
                                 <p><strong>Submission Deadlines:</strong>
-                                <br>Applications for GHC 19 Scholarships open January 16, 2019 at 9 a.m. PT and will close March 6, 2019 at 5 p.m. PT.
+                                <br>The 2019 application period is now closed.
                                 </p>
                                 <a href="https://anitab.org/career-toolbox/ghc-scholarship-grants/">More information </a> 
                             
