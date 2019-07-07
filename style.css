@@ -380,6 +380,28 @@ a.none:hover {
     background-color: #717171;
 }
 
+/* Events */
+
+.events-area{
+    padding-top: 70px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: white;
+    height: 350px;
+}
+
+.events-area img{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+
+
 /* Boxes */
 
 .boxes_area {

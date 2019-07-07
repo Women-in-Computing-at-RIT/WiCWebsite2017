@@ -40,16 +40,6 @@ Jessi Miller '23
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-                <!--
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12" id="intro">
-                            <h1>Women in Computing at RIT</h1>
-                            <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
-                        </div>
-                    </div>
-                </div>
-                -->
                 <div class="dots">
                     <span class="dot" onclick="currentSlide(1)"></span>
                     <span class="dot" onclick="currentSlide(2)"></span>
@@ -57,9 +47,30 @@ Jessi Miller '23
 
             </div>
 
-
-
             <script src="<?php echo $level ?>js/slider.js"></script>
+
+        </section>
+
+        <section class="events-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <img src="img/logo.png">
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="img/logo.png">
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="img/logo.png">
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="img/logo.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="announcements-area">
 
         </section>
 
