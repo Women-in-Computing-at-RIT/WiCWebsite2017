@@ -19,6 +19,17 @@ Jessi Miller '23
     <main class="site-main">
         <section class="hero_area">
             <div class="hero_content">
+                <div class="slide">
+                    <img src="img/hero.jpg">
+                </div>
+                <div class="slide">
+                    <img src="img/logo.png">
+                </div>
+
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                <!--
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12" id="intro">
@@ -27,8 +38,20 @@ Jessi Miller '23
                         </div>
                     </div>
                 </div>
+                -->
+                <div class="dots">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                </div>
+
             </div>
+
+
+
+            <script src="<?php echo $level ?>js/slider.js"></script>
+
         </section>
+
         <section class="boxes_area">
             <div class="container">
                 <div class="row">
