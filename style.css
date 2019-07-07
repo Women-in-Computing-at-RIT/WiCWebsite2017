@@ -285,7 +285,8 @@ a.none:hover {
     //background-position: center center;
     //background-repeat: no-repeat;
     background-size: cover;
-    height: 825px;
+    height: auto;
+    max-height: 825px;
     padding: 0;
 }
 
@@ -317,17 +318,22 @@ a.none:hover {
 
 .slide img{
     width: 100%;
-    height: 825px;
+    height: auto;
+    max-height: 825px;
+}
+
+.slider-container{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 15%;
 }
 
 .slide-text{
-    color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
     position: absolute;
     bottom: 8px;
     width: 100%;
-    text-align: center;
 }
 
 .prev, .next{
@@ -989,15 +995,17 @@ h2.category-title:after {
         float: none !important;
         text-align: center;
     }
-    .hero_content {
-        padding: 80px 0;
+    .slider-container{
+        width: 90%;
+        height: auto;
+        min-height: auto;
     }
     .hero_content h1 {
-        font-size: 32px;
+        font-size: 22px;
     }
     .hero_content h2 {
         width: 90%;
-        font-size: 21px;
+        font-size: 12px;
     }
     /*.boxes_area .row {margin-left: -20px;margin-right: -20px;}*/
     .boxes_area .box p {
@@ -1064,8 +1072,9 @@ h2.category-title:after {
         display:none;
     }
     #intro{
-        width: 90% !important;
+        width: 75% !important;
         margin: 5%;
+        margin-bottom: -75px;
     }
     #meetingtimes{
         border-bottom:#ebebeb 1px solid;
@@ -1104,7 +1113,6 @@ h2.category-title:after {
 /*annoying homepage tablet fix*/
 @media (min-width:463px) and (max-width:769px){
     #intro{
-        width: 90% !important;
         margin: 5%;
     }
     #meetingtimes{

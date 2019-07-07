@@ -22,7 +22,7 @@ Jessi Miller '23
                 <div class="slide">
                     <img src="img/hero.jpg">
                     <div class="slide-text">
-                        <div class="container">
+                        <div class="slider-container">
                             <div class="row">
                                 <div class="col-sm-12" id="intro">
                                     <h1>Women in Computing at RIT</h1>
