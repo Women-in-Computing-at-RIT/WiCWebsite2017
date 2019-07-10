@@ -52,22 +52,24 @@ Jessi Miller '23
         </section>
 
         <section class="events-area">
+            <h3 class="events-header">EVENTS</h3>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3">
-                        <img src="img/logo.png">
+                        <a href="/afterhours.php"><img src="img/events/ahlogo.png"></a>
                     </div>
                     <div class="col-sm-3">
-                        <img src="img/logo.png">
+                        <a href="https://wichacks.io/"><img src="img/events/wichackslogo.png"></a>
                     </div>
                     <div class="col-sm-3">
-                        <img src="img/logo.png">
+                        <a href="/post.php?id=6"><img src="img/events/wiconnectslogo.png"></a>
                     </div>
                     <div class="col-sm-3">
-                        <img src="img/logo.png">
+                        <a href="/post.php?id=11"><img src="img/events/rghlogo.png"></a>
                     </div>
                 </div>
             </div>
+            <a href="/outreach.php"><p class="events-more">View More <i class="fa fa-angle-right"></i></p></a>
         </section>
 
         <section class="announcements-area">

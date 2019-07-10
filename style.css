@@ -383,8 +383,8 @@ a.none:hover {
 /* Events */
 
 .events-area{
-    padding-top: 70px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 0;
     padding-right: 0;
     background-color: white;
@@ -400,7 +400,35 @@ a.none:hover {
     margin: auto;
 }
 
+.events-header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+    padding-bottom: 10px;
+    position: relative;
+    padding-bottom: 20px;
+}
 
+.events-header::after {
+    content: '';
+    position: absolute;
+    width: 30px;
+    background-color: #4D1F5B;
+    height: 2px;
+    left: 0;
+    bottom: 0;
+}
+
+.events-area .container{
+    min-height: auto;
+}
+
+.events-more{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+    text-align: right;
+}
 
 /* Boxes */
 
