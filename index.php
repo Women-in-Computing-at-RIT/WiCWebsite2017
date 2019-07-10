@@ -73,7 +73,8 @@ Jessi Miller '23
         </section>
 
         <section class="announcements-area">
-
+            <h3 class="announcements-header">ANNOUNCEMENTS</h3>
+            <a href="/announcements.php"><p class="announcements-more">View More <i class="fa fa-angle-right"></i></p></a>
         </section>
 
         <section class="boxes_area">
