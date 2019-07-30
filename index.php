@@ -74,7 +74,12 @@ Jessi Miller '23
 
         <section class="announcements-area">
             <h3 class="announcements-header">ANNOUNCEMENTS</h3>
-            <a href="/announcements.php"><p class="announcements-more">View More <i class="fa fa-angle-right"></i></p></a>
+
+            <div id="announcements-content">test1</div>
+
+
+
+            <a href=""><p class="announcements-more">View More <i class="fa fa-angle-right"></i></p></a>
         </section>
 
         <section class="boxes_area">
@@ -189,6 +194,36 @@ Jessi Miller '23
         
     </main>
     <?php include 'footer.php';?>
+
+    <script src="https://www.gstatic.com/firebasejs/6.3.1/firebase-app.js"></script>
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyDWjDu6xik5sE2LFOTbVdF5q_IXKiYh-Vk",
+            authDomain: "wic-announcements.firebaseapp.com",
+            databaseURL: "https://wic-announcements.firebaseio.com",
+            projectId: "wic-announcements",
+            storageBucket: "",
+            messagingSenderId: "625263131467",
+            appId: "1:625263131467:web:aadfcf7d5b9c9c40"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+
+        var ref = firebase.database().ref();
+
+        function displayTest(){
+            //ref.on('value', function (snapshot) {
+            document.getElementById("announcements-content").innerHTML = "test2";
+            //});
+        }
+        window.onload = displayTest();
+    </script>
+
+
+
 </body>
 </html>
+
+
 
