@@ -75,7 +75,7 @@ Jessi Miller '23
         <section class="announcements-area">
             <h3 class="announcements-header">ANNOUNCEMENTS</h3>
 
-            <div id="announcements-content">test1</div>
+            <div class="container" id="announcements-content"></div>
 
 
 
