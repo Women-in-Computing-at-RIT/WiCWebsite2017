@@ -79,10 +79,10 @@ Jessi Miller '23
 
 
 
-            <a href=""><p class="announcements-more">View More <i class="fa fa-angle-right"></i></p></a>
+            <div class="announcements-more"><a href="">View More <i class="fa fa-angle-right"></i></a></div>
         </section>
 
-        <section class="boxes_area">
+        <!--<section class="boxes_area">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -122,19 +122,19 @@ Jessi Miller '23
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            <div id="general-event">
+                            <div id="general-event">-->
                                 <!--<b>Next General Meeting (4/17):</b>
                                 <br>Microtalk on Meta-programming-->
-                                <b>Have a great summer!</b>
+                                <!--<b>Have a great summer!</b>
 
-                            </div>
+                            </div>-->
                             <!--Example Event Do Not Delete -->
                             <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>Feedback Survey</b>
+                            <!--<b>Feedback Survey</b>
                             <ul>
                                 <li>Fill Out: <a href="https://bit.ly/WiCFeedback2019" target="_blank">bit.ly/WiCFeedback2019</a> </li>
                             </ul>
@@ -190,7 +190,7 @@ Jessi Miller '23
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         
     </main>
     <?php include 'footer.php';?>
@@ -228,9 +228,12 @@ Jessi Miller '23
             });
         }
         function makeAnnouncement(row){
-            bigString = "<h2>" + row.title + "</h2>";
-            bigString += "<h4>" + row.date + "</h4>";
+            var T = row.date.indexOf("T");
+            bigString = "<div class='single_announce'>";
+            bigString += "<h2>" + row.title + "</h2>";
+            bigString += "<h4>" + row.date.substring(0, T) + "</h4>";
             bigString += "<p>" + row.body + "</p>";
+            bigString += "</div>";
             return bigString;
         }
 

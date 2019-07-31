@@ -451,11 +451,28 @@ a.none:hover {
     bottom: 0;
 }
 
+.announcements-area{
+    background-color: #f8f8f8;
+    padding-top: 10px;
+}
+
 .announcements-more{
     margin-left: auto;
     margin-right: auto;
     width: 1170px;
     text-align: right;
+    padding-bottom: 10px;
+}
+
+#announcements-content{
+    min-height: auto;
+    padding-left: 0;
+}
+.single_announce{
+    padding-bottom: 10px;
+}
+.single_announce h2{
+    color: #4D1F5B;
 }
 
 /* Boxes */
