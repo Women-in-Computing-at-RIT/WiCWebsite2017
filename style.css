@@ -1130,6 +1130,20 @@ h2.category-title:after {
     .sidebar {
         margin-top: 40px;
     }
+
+    /*events*/
+    .events-container::before{
+        content: none;
+    }
+    .events-container img{
+        width: 100px;
+        height: 100px;
+    }
+    .events-container{
+        display: grid;
+        grid-template-columns: 200px 200px;
+        grid-row-gap: 20px;
+    }
 }
 
 
