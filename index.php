@@ -220,7 +220,13 @@ Jessi Miller '23
             ref.on("value", function (snapshot) {
                 var data = snapshot.val().masterSheet;
                 bigString = "";
-                for(i=0;i<3; i++){
+                //if there are less than 3 announcements, the for loop will only run through
+                //what announcements are in the google sheet
+                j=3;
+                if(data.length < 3){
+                    j = data.length;
+                }
+                for(i=0;i<j; i++){
                     //length - i - 1 to put most recent at the top
                     bigString += makeAnnouncement(data[data.length-i-1]);
                 }
