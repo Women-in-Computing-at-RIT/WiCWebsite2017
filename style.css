@@ -1144,6 +1144,16 @@ h2.category-title:after {
         grid-template-columns: 200px 200px;
         grid-row-gap: 20px;
     }
+    .events-header{
+        padding: 10px;
+    }
+    #big-container-events{
+        padding-left: 0px;
+    }
+
+    .announcements-area{
+        padding: 10px;
+    }
 }
 
 

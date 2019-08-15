@@ -53,7 +53,7 @@ Jessi Miller '23
 
         <section class="events-area">
             <h3 class="events-header">EVENTS</h3>
-            <div class="container">
+            <div class="container" id="big-container-events">
                 <div class="events-container row">
                     <div class="col-sm-3">
                         <a href="/afterhours.php"><img src="img/events/ahlogo.png"></a>
