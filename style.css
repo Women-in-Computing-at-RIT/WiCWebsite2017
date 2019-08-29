@@ -1370,6 +1370,8 @@ i.newsicon {
 .committeepic {
     float:left;
     padding-right:20px;
+    height: 175px;
+    width: 125px;
 }
 
 .committee-head-row {
