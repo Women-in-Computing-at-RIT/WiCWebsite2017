@@ -136,6 +136,7 @@
                                 <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
                                 <li><a href="<?php echo $level ?>outreach.php" title="">OUTREACH</a></li>
                                 <li><a href="<?php echo $level ?>news.php" title="">IN THE NEWS</a></li>
+                                <li><a href="<?php echo $level ?>tutoring.php" title="">TUTORING</a></li>
                             </ul>
                         </li>
                         <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>

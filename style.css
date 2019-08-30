@@ -1554,3 +1554,15 @@ li#ss.active{
 img.ssimg{
     width:90%;
 }
+
+/* Tutoring */
+.tutor_container:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.tutor_img{
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
