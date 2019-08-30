@@ -19,7 +19,7 @@ Jessi Miller '23
     <main class="site-main">
         <section class="hero_area">
             <div class="hero_content">
-                <div class="slide">
+                <div class="hero_slide">
                     <img src="img/hero.jpg">
                     <div class="slide-text">
                         <div class="slider-container">
@@ -33,7 +33,7 @@ Jessi Miller '23
                     </div>
 
                 </div>
-                <div class="slide">
+                <div class="hero_slide">
                     <img src="img/logo.png">
                 </div>
 

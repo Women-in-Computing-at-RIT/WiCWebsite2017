@@ -312,11 +312,11 @@ a.none:hover {
     line-height: 38px;
 }
 
-.slide{
+.hero_slide{
     display: none;
 }
 
-.slide img{
+.hero_slide img{
     width: 100%;
     height: auto;
     max-height: 825px;
