@@ -28,7 +28,8 @@
                 <div class="widget">
                     <h4>ARCHIVE</h4>
                     <ul id="archive">
-                        <li class="current" onclick="getPosts('Spring 2019'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2019</a></li>
+                        <li class="current" onclick="getPosts('Fall 2019'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2019</a></li>
+                        <li onclick="getPosts('Spring 2019'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2019</a></li>
                         <li onclick="getPosts('Fall 2018'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2018</a></li>
                         <li onclick="getPosts('Spring 2018'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2018</a></li>
                         <li onclick="getPosts('Fall 2017'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2017</a></li>
@@ -114,6 +115,6 @@
 
     }
 
-    window.onload = getPosts("Spring 2019"); //CHANGE THIS EVERY SEMESTER
+    window.onload = getPosts("Fall 2019"); //CHANGE THIS EVERY SEMESTER
 
 </script>
