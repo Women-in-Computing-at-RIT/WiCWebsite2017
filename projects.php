@@ -25,7 +25,7 @@
 
 
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/projects2019_1.png">
+                        <img class="projectpic" src="img/projects/projects2019_1.png">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2019:</strong> Poll System</p></h4>
@@ -38,7 +38,7 @@
                     <br><br>
 
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/projects2019_2.jpg">
+                        <img class="projectpic" src="img/projects/projects2019_2.jpg">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2019:</strong> Robotic Hand</p></h4>
@@ -50,7 +50,7 @@
                     <br><br>
 
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/project2018.JPG">
+                        <img class="projectpic" src="img/projects/project2018.JPG">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2018:</strong> Magic Mirror</p></h4>
@@ -65,7 +65,7 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/project2017.JPG">
+                        <img class="projectpic" src="img/projects/project2017.JPG">
                     </div>
                     <div class="media-body">    
                         <h4><p><strong>2017:</strong> Raspberry Pi Arcade Table</p></h4>
@@ -76,7 +76,7 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/projects/project2016.JPG">
+                        <img class="projectpic" src="img/projects/project2016.JPG">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2016:</strong> BMO Game Emulator</p></h4>
@@ -86,7 +86,7 @@
                         <br><br>
                     
                     <div class="media-left">
-                        <img class="committeepic" src="img/projects/project2015.JPG">
+                        <img class="projectpic" src="img/projects/project2015.JPG">
                     </div>
                     <div class="media-body">
                         <h4><p><strong>2015:</strong> Wearable Stress Monitor</p></h4>

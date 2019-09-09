@@ -1373,6 +1373,10 @@ i.newsicon {
     height: 175px;
     width: 125px;
 }
+.projectpic{
+    float: left;
+    padding-right: 20px;
+}
 
 .committee-head-row {
     height:150px;
