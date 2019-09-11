@@ -20,7 +20,7 @@ Jessi Miller '23
         <section class="hero_area">
             <div class="hero_content">
                 <div class="hero_slide">
-                    <img src="img/hero.jpg">
+                    <img src="img/hero/hero.jpg">
                     <div class="slide-text">
                         <div class="slider-container">
                             <div class="row">
@@ -34,7 +34,7 @@ Jessi Miller '23
 
                 </div>
                 <div class="hero_slide">
-                    <img src="img/logo.png">
+                    <img src="img/hero/meetingTimesSlide.png">
                 </div>
 
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
