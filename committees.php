@@ -28,6 +28,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Lana Verschage, Director of Women in Computing</p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">Responsible for the development of all programs, events, presentations, communications and marketing associated with Women in Computing at RIT whose purpose is to motivate and inspire girls and young women to choose computing as a profession and to recruit and retain women students for the Golisano College of Computing at RIT.</p>
                         <p>General Meetings: Wed • 6:30pm • GOL-1400 (The Auditorium)</p>
                     </div>
@@ -39,6 +40,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Meghan Cantlin, Public Relations Committee Head </p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The responsibilities of Public Relations committee are to update and maintain Social Media, brochures and newsletters. They are also responsible for scheduling company tech talks, info sessions and cultivating relationships with university recruiters at the RIT career fair. This committee plans and executes WiConnects, a networking event for Golisano faculty, students and WiC Allies.</p>
                         <p>Public Relations Meetings: Mon • 6:30pm • GOL-2500</p>
                     </div>
@@ -50,6 +52,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Hannah Chew, Events Committee Head </p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The responsibilities of the Events committee are to plan, advertise, and execute internal and external social events, student tech talks, outings, and combined events with other Golisano clubs.</p>
                         <p>Events Meetings: Thurs • 3:00pm • GOL-1688</p>
                     </div>
@@ -61,6 +64,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Imris Curry, Logistics</p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The responsibilities of Logistics are to assist the Director, maintain WiC calendar, send updates regarding upcoming events, maintain membership information, and maintain historical information.</p>
                     </div>
                     
@@ -71,6 +75,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Jackie Leung, Outreach Committee Co-Head </p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
                     </div>
                         
@@ -81,8 +86,9 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Emma Reynolds, Outreach Committee Co-Head </p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">Responsibilities consist of planning and executing activities for the K-12 population such as After-Hours, the Accepted Student Overnight Program, secondary school visits to campus for tours and workshops, Orientation, College & Careers, Open Houses, Kids on Campus Summer Camp, and shadow visits from prospective students.</p>
-                        <p>Outreach Meetings: Thurs • 5:00pm</p>
+                        <p>Outreach Meetings: Mon • 4:00pm • GOL-1610</p>
                     </div>
                     
                         <br><br>
@@ -92,8 +98,9 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Ariel Viggiano, Projects Committee Head </p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The responsibilities of the Projects committee are to encourage students of all majors to come together and work on a project of interest that is fun and can grow students’ technical skills. The goal is to present the project at Imagine RIT.</p>
-                        <p>Projects Meetings: Tue • 5:00pm</p>
+                        <p>Projects Meetings: Tue • 5:00pm • GOL-2400</p>
                     </div>
                     
                         <br><br>
@@ -103,7 +110,9 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Dominique Molee, WiCHacks Committee Head</p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The responsibilities of the WiCHacks committee are to plan and execute the annual WiC Hackathon, a women only hackathon. Planning includes obtaining company sponsors and mentors, scheduling API workshops and tech talks, and planning a Newbie Track for women who haven’t coded before.</p>
+                        <p>WiCHacks Meetings: Mon • 8:00pm • GOL-2500</p>
                     </div>
                     
                         <br><br>
@@ -113,6 +122,7 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">Jessi Miller, WebMaster</p>
+                        <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website. This website was revemped in the fall of 2017.</p>
                     </div>
                     
@@ -123,8 +133,9 @@
                     </div>
                     <div class="media-body">
                         <p class="committetitle">David Quach, Allies Committee Head </p>
+                        <p class="committeepronoun">He/Him/His</p>
                         <p class="committeetext">WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for the purpose of affecting positive change and fostering a more inclusive GCCIS culture.</p>
-                        <p>Allies Meetings: Thurs • 6:00pm</p>
+                        <p>Allies Meetings: Thurs • 6:00pm • GOL-2590</p>
                     </div>
                     
                     <br><br>

@@ -1365,6 +1365,7 @@ i.newsicon {
 .committetitle {
     font-weight: bold;
     font-size: 1.5em;
+    margin-bottom: 0px;
 }
 
 .committeepic {
@@ -1372,6 +1373,10 @@ i.newsicon {
     padding-right:20px;
     height: 175px;
     width: 125px;
+}
+.committeepronoun{
+    font-weight: bold;
+    font-size: 1.25em;
 }
 .projectpic{
     float: left;
