@@ -35,6 +35,10 @@
                             <div id="collapseFour" class="collapse in" aria-labelledby="headingFour" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
+                                        <a target="_blank" href="https://www.rochesterfirst.com/news/local-news/nsa-sponsors-cyber-security-camp-at-rit/">
+                                            <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | NSA sponsors cyber-security camp at RIT</a>
+                                    </p>
+                                    <p>
                                         <a target="_blank" href="http://www.rit.edu/news/story.php?id=69217&source=enewsletter">
                                             <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT hosts all-women hackathon March 2-3</a>
                                     </p>
