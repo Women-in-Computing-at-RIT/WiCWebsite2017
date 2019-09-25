@@ -22,7 +22,7 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title">MISSION STATEMENT</h2>
                     <div class="entry">
-                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) provides an interdisciplinary
+                        <p>Women in Computing at the Rochester Institute of Technology (WiC at RIT) is an all inclusive organization that  provides an interdisciplinary
                             networking forum for students, faculty, staff and alumni involved in the field of computing at The Rochester
                             Institute of Technology through professional, leadership, mentorship, and technical development
                             opportunities. WiC at RIT will also encourage the advancement of women in computing through community outreach.</p>
