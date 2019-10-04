@@ -33,16 +33,12 @@ Jessi Miller '23
                     </div>
 
                 </div>
-                <div class="hero_slide">
-                    <img src="img/hero/meetingTimesSlide.png">
-                </div>
 
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
                 <div class="dots">
                     <span class="dot" onclick="currentSlide(1)"></span>
-                    <span class="dot" onclick="currentSlide(2)"></span>
                 </div>
 
             </div>
@@ -51,7 +47,7 @@ Jessi Miller '23
 
         </section>
 
-        <section class="events-area">
+        <!--<section class="events-area">
             <h3 class="events-header">EVENTS</h3>
             <div class="container" id="big-container-events">
                 <div class="events-container row">
@@ -80,9 +76,9 @@ Jessi Miller '23
 
 
             <div class="announcements-more"><a href="">View More <i class="fa fa-angle-right"></i></a></div>
-        </section>
+        </section>-->
 
-        <!--<section class="boxes_area">
+        <section class="boxes_area">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -94,27 +90,27 @@ Jessi Miller '23
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Tue • 11:00am • GOL-1688</li>
+                                    <li>Thurs • 3:00pm • GOL-1688</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Tue • 6:30pm • GOL-2690</li>
+                                    <li>Mon • 4:00pm • GOL-1610</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:30pm • GOL-2600 (WiC Space)</li>
+                                    <li>Mon • 6:30pm • GOL-2500</li>
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Fri • 5:00pm • GOL-2500</li>
+                                    <li>Thurs • 6:00pm • GOL-2590</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Thurs • 6:00pm • GOL-3435</li>
+                                    <li>Mon • 8:00pm • GOL-2500</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:00pm - 8:00pm • <a href="http://hack.rit.edu/">Construct</a></li>
+                                    <li>Tue • 5:00pm • GOL-2400</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -122,22 +118,18 @@ Jessi Miller '23
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
-                            <div id="general-event">-->
-                                <!--<b>Next General Meeting (4/17):</b>
-                                <br>Microtalk on Meta-programming-->
-                                <!--<b>Have a great summer!</b>
+                            <div id="general-event">
+                                <b>Next General Meeting (10/9):</b>
+                                <br>Cupcake Decorating
 
-                            </div>-->
+                            </div>
                             <!--Example Event Do Not Delete -->
                             <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <!--<b>Feedback Survey</b>
-                            <ul>
-                                <li>Fill Out: <a href="https://bit.ly/WiCFeedback2019" target="_blank">bit.ly/WiCFeedback2019</a> </li>
-                            </ul>
+                            <b>Feedback Survey</b>
                             <b>Teach and Volunteer for Mobile Tech Van</b>
                             <ul>
                                 <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
@@ -150,6 +142,10 @@ Jessi Miller '23
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="https://www.rochesterfirst.com/news/local-news/nsa-sponsors-cyber-security-camp-at-rit/">
+                                    <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | NSA sponsors cyber-security camp at RIT</a>
+                            </p>
                             <p>
                                 <a target="_blank" href="http://www.rit.edu/news/story.php?id=69217&source=enewsletter">
                                     <i class="fa fa-university newsicon" aria-hidden="true"></i><span class="news-head">University News</span> | RIT hosts all-women hackathon March 2-3</a>
@@ -190,12 +186,12 @@ Jessi Miller '23
                     </div>
                 </div>
             </div>
-        </section>-->
+        </section>
         
     </main>
     <?php include 'footer.php';?>
 
-    <script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-app.js"></script>
+    <!--<script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-database.js"></script>
     <script>
 
@@ -244,7 +240,7 @@ Jessi Miller '23
         }
 
         window.onload = displayTest();
-    </script>
+    </script>-->
 
 
 
