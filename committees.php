@@ -30,7 +30,7 @@
                         <p class="committetitle">Lana Verschage, Director of Women in Computing</p>
                         <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">Responsible for the development of all programs, events, presentations, communications and marketing associated with Women in Computing at RIT whose purpose is to motivate and inspire girls and young women to choose computing as a profession and to recruit and retain women students for the Golisano College of Computing at RIT.</p>
-                        <p>General Meetings: Wed • 6:30pm • GOL-1400 (The Auditorium)</p>
+                        <p>General Meetings: Wed • 6:30pm • GOL-2400</p>
                     </div>
      
                         <br><br>
