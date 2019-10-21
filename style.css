@@ -281,20 +281,16 @@ a.none:hover {
 /* Hero */
 
 .hero_area {
-    //background-image: url(img/hero.jpg);
-    //background-position: center center;
-    //background-repeat: no-repeat;
+    background-image: url(img/hero.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
-    height: auto;
-    max-height: 825px;
+    height: 475px;
     padding: 0;
 }
 
 .hero_content {
-    //padding: 120px 0;
-    //max-width: 1000px;
-    position: relative;
-    margin: auto;
+    padding: 120px 0;
 }
 
 .hero_content h1 {
@@ -312,7 +308,7 @@ a.none:hover {
     line-height: 38px;
 }
 
-.hero_slide{
+/*.hero_slide{
     display: none;
 }
 
@@ -378,10 +374,10 @@ a.none:hover {
 
 .active-slider, .dot:hover{
     background-color: #717171;
-}
+}*/
 
 /* Events */
-
+/*
 .events-area{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -429,9 +425,9 @@ a.none:hover {
     width: 1170px;
     text-align: right;
 }
-
+*/
 /* Announcements */
-
+/*
 .announcements-header{
     margin-left: auto;
     margin-right: auto;
@@ -474,7 +470,7 @@ a.none:hover {
 .single_announce h2{
     color: #4D1F5B;
 }
-
+*/
 /* Boxes */
 
 .boxes_area {
@@ -1370,8 +1366,6 @@ i.newsicon {
 
 .committeepic {
     float:left;
-    padding-right:20px;
-    height: 175px;
     width: 125px;
 }
 .committeepronoun{

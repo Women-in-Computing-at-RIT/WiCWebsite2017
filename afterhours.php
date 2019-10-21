@@ -64,7 +64,7 @@
                           </div>
                         
                         
-                        <h3>Program Dates: March 30th and April 6th, 2019</h3>
+                        <h3>Program Dates: TBA</h3>
 
 
                         <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted
@@ -78,7 +78,7 @@
                         <p>Invitations are sent to all female students who have been accepted to RIT's B. Thomas Golisano
                             College of Computing and Information Sciences.</p>
 
-                        <p>Read about: <a href="/post.php?id=20">After Hours 2019</a></p>
+                        <p>Read about: <a href="/post.php?id=20">After Hours 2019</a>, <a href="/post.php?id=5">After Hours 2018</a></p>
 
 
                     </div>

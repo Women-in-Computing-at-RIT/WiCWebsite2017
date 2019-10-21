@@ -19,32 +19,15 @@ Jessi Miller '23
     <main class="site-main">
         <section class="hero_area">
             <div class="hero_content">
-                <div class="hero_slide">
-                    <img src="img/hero/hero.jpg">
-                    <div class="slide-text">
-                        <div class="slider-container">
-                            <div class="row">
-                                <div class="col-sm-12" id="intro">
-                                    <h1>Women in Computing at RIT</h1>
-                                    <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
-                                </div>
-                            </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12" id="intro">
+                            <h1>Women in Computing at RIT</h1>
+                            <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
                         </div>
                     </div>
-
                 </div>
-
-                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-                <div class="dots">
-                    <span class="dot" onclick="currentSlide(1)"></span>
-                </div>
-
             </div>
-
-            <script src="<?php echo $level ?>js/slider.js"></script>
-
         </section>
 
         <!--<section class="events-area">
@@ -83,7 +66,7 @@ Jessi Miller '23
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="box" id="meetingtimes">
-                            <h3>SPRING  MEETING TIMES</h3>
+                            <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
                                     <li>Wed • 6:30pm • GOL-1400 (The Auditorium)</li>
@@ -119,8 +102,8 @@ Jessi Miller '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (10/9):</b>
-                                <br>Cupcake Decorating
+                                <b>Next General Meeting (10/23):</b>
+                                <br>M&T Bank
 
                             </div>
                             <!--Example Event Do Not Delete -->
@@ -129,8 +112,17 @@ Jessi Miller '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>Feedback Survey</b>
-                            <b>Teach and Volunteer for Mobile Tech Van</b>
+                            <b>Girl Scout Badge Day</b>
+                            <ul>
+                                <li>Sat. 10/26 • 8am - 1:30pm</li>
+                                <li>RSVP: <a href="https://bit.ly/BadgeDay2019" target="_blank">bit.ly/BadgeDay2019</a> </li>
+                            </ul>
+                            <b>Stokoe Farms Trip</b>
+                            <ul>
+                                <li>Sun. 10/27 • 12pm • GOL Atrium for carpool</li>
+                                <li>RSVP: <a href="https://bit.ly/Stokoe2019" target="_blank">bit.ly/Stokoe2019</a> </li>
+                            </ul>
+                            <b>Teach and Volunteer for Mobile Tech Van:</b>
                             <ul>
                                 <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
                             </ul>

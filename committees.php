@@ -123,7 +123,7 @@
                     <div class="media-body">
                         <p class="committetitle">Jessi Miller, WebMaster</p>
                         <p class="committeepronoun">She/Her/Hers</p>
-                        <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website. This website was revemped in the fall of 2017.</p>
+                        <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website and the WiCHacks website. </p>
                     </div>
                     
                         <br><br>
