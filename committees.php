@@ -118,10 +118,10 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/jessi19.jpg" alt="Jessi Miller"/>
+                        <img class="committeepic" src="img/committees/amy19.jpg" alt="Amy Tan"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Jessi Miller, WebMaster</p>
+                        <p class="committetitle">Amy Tan, WebMaster</p>
                         <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website and the WiCHacks website. </p>
                     </div>
