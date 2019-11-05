@@ -135,6 +135,10 @@ Jessi Miller '23
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
                             <p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=jJ2dh-cWD78&feature=youtu.be">
+                                    <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | 2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a>
+                            </p>
+                            <p>
                                 <a target="_blank" href="https://www.rochesterfirst.com/news/local-news/nsa-sponsors-cyber-security-camp-at-rit/">
                                     <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | NSA sponsors cyber-security camp at RIT</a>
                             </p>
