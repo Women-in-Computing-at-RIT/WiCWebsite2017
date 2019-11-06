@@ -112,10 +112,10 @@ Jessi Miller '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>ROCGirlHacks</b>
+                            <b>ROC Girl Hacks</b>
                             <ul>
                                 <li>Sat. 11/16 • 9am - 7pm</li>
-                                <li>Volunteer: <a href="http://bit.ly/2019ROCGirlHackDay" target="_blank">http://bit.ly/2019ROCGirlHackDay</a> </li>
+                                <li>Volunteer: <a href="bit.ly/ROCGirlHacksVolunteer2019" target="_blank">bit.ly/ROCGirlHacksVolunteer2019</a> </li>
                             </ul>
                             <b>IBM Cyber Day for Girls</b>
                             <ul>
