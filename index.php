@@ -102,8 +102,8 @@ Jessi Miller '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (10/23):</b>
-                                <br>M&T Bank
+                                <b>Next General Meeting (11/6):</b>
+                                <br>Bob Ross Paint Night
 
                             </div>
                             <!--Example Event Do Not Delete -->
@@ -112,15 +112,15 @@ Jessi Miller '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>Girl Scout Badge Day</b>
+                            <b>ROCGirlHacks</b>
                             <ul>
-                                <li>Sat. 10/26 • 8am - 1:30pm</li>
-                                <li>RSVP: <a href="https://bit.ly/BadgeDay2019" target="_blank">bit.ly/BadgeDay2019</a> </li>
+                                <li>Sat. 11/16 • 9am - 7pm</li>
+                                <li>Volunteer: <a href="http://bit.ly/2019ROCGirlHackDay" target="_blank">http://bit.ly/2019ROCGirlHackDay</a> </li>
                             </ul>
-                            <b>Stokoe Farms Trip</b>
+                            <b>IBM Cyber Day for Girls</b>
                             <ul>
-                                <li>Sun. 10/27 • 12pm • GOL Atrium for carpool</li>
-                                <li>RSVP: <a href="https://bit.ly/Stokoe2019" target="_blank">bit.ly/Stokoe2019</a> </li>
+                                <li>Sat. 11/23 • 8:30am - 3pm</li>
+                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">http://bit.ly/IBMVolunteering</a> </li>
                             </ul>
                             <b>Teach and Volunteer for Mobile Tech Van:</b>
                             <ul>
