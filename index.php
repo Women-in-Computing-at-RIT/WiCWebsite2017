@@ -120,7 +120,7 @@ Jessi Miller '23
                             <b>IBM Cyber Day for Girls</b>
                             <ul>
                                 <li>Sat. 11/23 • 8:30am - 3pm</li>
-                                <li>Volunteer: <a href="http://bit.ly/IBMVolunteering" target="_blank">http://bit.ly/IBMVolunteering</a> </li>
+                                <li>Volunteer: <a href="bit.ly/IBMCyberGirlsDayVolunteer19" target="_blank">bit.ly/IBMCyberGirlsDayVolunteer19</a> </li>
                             </ul>
                             <b>Teach and Volunteer for Mobile Tech Van:</b>
                             <ul>
