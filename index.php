@@ -115,12 +115,12 @@ Jessi Miller '23
                             <b>ROC Girl Hacks</b>
                             <ul>
                                 <li>Sat. 11/16 • 9am - 7pm</li>
-                                <li>Volunteer: <a href="bit.ly/ROCGirlHacksVolunteer2019" target="_blank">bit.ly/ROCGirlHacksVolunteer2019</a> </li>
+                                <li>Volunteer: <a href="https://bit.ly/ROCGirlHacksVolunteer2019" target="_blank">bit.ly/ROCGirlHacksVolunteer2019</a> </li>
                             </ul>
                             <b>IBM Cyber Day for Girls</b>
                             <ul>
                                 <li>Sat. 11/23 • 8:30am - 3pm</li>
-                                <li>Volunteer: <a href="bit.ly/IBMCyberGirlsDayVolunteer19" target="_blank">bit.ly/IBMCyberGirlsDayVolunteer19</a> </li>
+                                <li>Volunteer: <a href="https://bit.ly/IBMCyberGirlsDayVolunteer19" target="_blank">bit.ly/IBMCyberGirlsDayVolunteer19</a> </li>
                             </ul>
                             <b>Teach and Volunteer for Mobile Tech Van:</b>
                             <ul>
