@@ -8,7 +8,7 @@ Dakota Sorenson '20
 
 Maintained:
 Jessi Miller '23
-
+Amy Tan '23
 
 -->
 <?php $title="Home";$level="";?>
@@ -23,7 +23,7 @@ Jessi Miller '23
                     <div class="row">
                         <div class="col-sm-12" id="intro">
                             <h1>Women in Computing at RIT</h1>
-                            <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
+                            <h2>Dedicated to promoting the success and advancement of women and all gender minorities in their academic and professional careers</h2>
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ Jessi Miller '23
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Mon • 8:00pm • GOL-2500</li>
+                                    <li>Mon • 8:00pm • GOL-2455</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
@@ -102,8 +102,8 @@ Jessi Miller '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (10/23):</b>
-                                <br>M&T Bank
+                                <b>No Meeting Next Week</b>
+                                <br>Good luck on your finals!
 
                             </div>
                             <!--Example Event Do Not Delete -->
@@ -112,20 +112,16 @@ Jessi Miller '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>Girl Scout Badge Day</b>
+                            <!--<b>IBM Cyber Day for Girls</b>
                             <ul>
-                                <li>Sat. 10/26 • 8am - 1:30pm</li>
-                                <li>RSVP: <a href="https://bit.ly/BadgeDay2019" target="_blank">bit.ly/BadgeDay2019</a> </li>
-                            </ul>
-                            <b>Stokoe Farms Trip</b>
-                            <ul>
-                                <li>Sun. 10/27 • 12pm • GOL Atrium for carpool</li>
-                                <li>RSVP: <a href="https://bit.ly/Stokoe2019" target="_blank">bit.ly/Stokoe2019</a> </li>
-                            </ul>
+                                <li>Sat. 11/23 • 8:30am - 3pm</li>
+                                <li>Volunteer: <a href="https://bit.ly/IBMVolunteering" target="_blank">http://bit.ly/IBMVolunteering</a> </li>
+                            </ul>-->
                             <b>Teach and Volunteer for Mobile Tech Van:</b>
                             <ul>
                                 <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
                             </ul>
+                            <b></b>
 
 
                             <i class="fa fa-calendar"></i>
@@ -134,6 +130,14 @@ Jessi Miller '23
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="https://13wham.com/news/local/largest-all-girl-hackathon-held-in-rochester">
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">WHAM-TV</span> | Largest all-girl hackathon held in Rochester</a>
+                            </p>
+                            <p>
+                                <a target="_blank" href="https://www.youtube.com/watch?v=jJ2dh-cWD78&feature=youtu.be">
+                                    <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | 2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a>
+                            </p>
                             <p>
                                 <a target="_blank" href="https://www.rochesterfirst.com/news/local-news/nsa-sponsors-cyber-security-camp-at-rit/">
                                     <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | NSA sponsors cyber-security camp at RIT</a>

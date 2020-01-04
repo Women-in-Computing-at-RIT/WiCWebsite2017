@@ -115,11 +115,9 @@
                         <ul>
                             <li><a href="mission.php" title="">Mission</a></li>
                             <li><a href="faq.php" title="">FAQ</a></li>
-                            <li><a href="committees.php" title="">Committees</a></li>
-                            <li><a href="allies.php" title="">Allies</a></li>
-                            <li><a href="projects.php" title="">Projects</a></li>
                             <li class="current"><a href="alumni.php" title="">Alumni</a></li>
-                            <li><a href="Resources.php" title="">Resources</a></li>
+                            <li><a href="scholarships.php" title="">Scholarships</a></li>
+                            <li><a href="tutoring.php" title="">Tutoring</a></li>
                         </ul>
                     </div>
                 </aside>

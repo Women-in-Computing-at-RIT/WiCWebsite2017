@@ -105,6 +105,8 @@
             bigString += "<div class=\"arc-comment\"><i class=\"fa fa-graduation-cap\"></i> Alumni Talk</div>";
         }else if(data.category == "event"){
             bigString += "<div class=\"arc-comment\"><i class=\"fa fa-calendar-o\"></i> WiC Event</div>";
+        }else if(data.category == "member"){
+            bigString += "<div class=\"arc-comment\"><i class=\"fa fa-user\"></i> Member Highlight</div>";
         }
         bigString += "<div class=\"arc-date\">"+ data.date +"</div>";
         bigString += " </div> <div class=\"pull-right\"> <ul class=\"arc-share\">";

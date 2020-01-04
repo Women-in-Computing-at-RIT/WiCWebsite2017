@@ -10,7 +10,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="events.php">Events</a></li>
+                        <li><a href="events.php">Committees</a></li>
                         <li class="active">Outreach</li>
                     </ol>                    
                 </div>
@@ -92,13 +92,12 @@
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
-                        <h4>EVENTS</h4>
+                        <h4>COMMITTEES</h4>
                         <ul>
-                            <li><a href="events.php" title="">Upcoming Calendar</a></li>
-                            <li><a href="wichacks.php" title="">WiCHacks</a></li>
-                            <li><a href="annual_events.php" title="">Annual Events</a></li>
+                            <li><a href="committees.php" title="">Committee Heads</a></li>
+                            <li><a href="projects.php" title="">Projects</a></li>
+                            <li><a href="allies.php" title="">Allies</a></li>
                             <li class="current"><a href="#" title="">Outreach</a></li>
-                            <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
                 </aside>

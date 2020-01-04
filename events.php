@@ -33,10 +33,10 @@
                     <div class="widget">
                         <h4>EVENTS</h4>
                         <ul>
+                            <li><a href="afterhours.php" title="">After Hours</a></li>
                             <li class="current"><a href="#" title="">Upcoming Calendar</a></li>
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
-                            <li><a href="outreach.php" title="">Outreach</a></li>
                             <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>

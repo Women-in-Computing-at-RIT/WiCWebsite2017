@@ -10,8 +10,8 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li>About</li>
-                        <li class="active">Committees</li>
+                        <li>Committees</li>
+                        <li class="active">Committee Heads</li>
                     </ol>                    
                 </div>
             </div>
@@ -118,10 +118,10 @@
                         <br><br>
                     
                     <div class="media-left"> 
-                        <img class="committeepic" src="img/committees/jessi19.jpg" alt="Jessi Miller"/>
+                        <img class="committeepic" src="img/committees/amy19.jpg" alt="Amy Tan"/>
                     </div>
                     <div class="media-body">
-                        <p class="committetitle">Jessi Miller, WebMaster</p>
+                        <p class="committetitle">Amy Tan, WebMaster</p>
                         <p class="committeepronoun">She/Her/Hers</p>
                         <p class="committeetext">The Webmaster is responsible for updating and maintaining the Women in Computing website and the WiCHacks website. </p>
                     </div>
@@ -142,15 +142,12 @@
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
-                        <h4>ABOUT</h4>
+                        <h4>COMMITTEES</h4>
                         <ul>
-                            <li><a href="mission.php" title="">Mission</a></li>
-                            <li><a href="faq.php" title="">FAQ</a></li>
-                            <li class="current"><a href="committees.php" title="Committees">Committees</a></li>
-                            <li><a href="allies.php" title="Allies">Allies</a></li>
+                            <li class="current"><a href="committees.php" title="Committees">Committee Heads</a></li>
                             <li><a href="projects.php" title="Projects">Projects</a></li>
-                            <li><a href="alumni.php" title="Alumni">Alumni</a></li>
-                            <li><a href="Resources.php" title="">Resources</a></li>
+                            <li><a href="allies.php" title="Allies">Allies</a></li>
+                            <li><a href="outreach.php" title="Alumni">Outreach</a></li>
                         </ul>
                     </div>
                 </aside>

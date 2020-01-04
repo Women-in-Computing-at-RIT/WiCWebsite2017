@@ -35,6 +35,14 @@
                             <div id="collapseFour" class="collapse in" aria-labelledby="headingFour" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
+                                        <a target="_blank" href="https://13wham.com/news/local/largest-all-girl-hackathon-held-in-rochester">
+                                            <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">WHAM-TV</span> | Largest all-girl hackathon held in Rochester</a>
+                                    </p>
+                                    <p>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=jJ2dh-cWD78&feature=youtu.be">
+                                            <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | 2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a>
+                                    </p>
+                                    <p>
                                         <a target="_blank" href="https://www.rochesterfirst.com/news/local-news/nsa-sponsors-cyber-security-camp-at-rit/">
                                             <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | NSA sponsors cyber-security camp at RIT</a>
                                     </p>
@@ -157,10 +165,10 @@
                     <div class="widget">
                         <h4>EVENTS</h4>
                         <ul>
+                            <li><a href="afterhours.php" title="">After Hours</a></li>
                             <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
-                            <li><a href="outreach.php" title="">Outreach</a></li>
                             <li class="current"><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>
@@ -170,20 +178,20 @@
                     <ul>
                         <li class="col-md-6 col-sm-6 col-xs-12">
                             <div class="thumbnail">
-                                <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" src="https://13wham.com/embed/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women?external-id=9dcdd13934604748affc46d89d6deafc" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" frameborder="0" marginheight="0" marginwidth="0" src="https://www.youtube.com/embed/jJ2dh-cWD78" allowfullscreen></iframe>
+
                                 <div class="caption">
-                                    <h3><a href="https://13wham.com/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women" target="_blank">WiCHacks 2018 on WHAM-13</a></h3>
-                                    <p>All-Girl Hackathon at RIT highlights growing interest of coding among women</p>
+                                    <h3><a href="https://www.youtube.com/watch?v=OqUx7HMd4zY" target="_blank">2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a></h3>
+                                    <p>Alice Jo Lichtman mentions WiC as one of the highlights of her career</p>
                                 </div>
                             </div>
                         </li>
                         <li class="col-md-6 col-sm-6 col-xs-12">
                             <div class="thumbnail">
-                                <iframe width="100%" height="315" frameborder="0" marginheight="0" marginwidth="0" src="https://www.youtube.com/embed/OqUx7HMd4zY" allowfullscreen></iframe>
-
+                                <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" src="https://13wham.com/embed/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women?external-id=9dcdd13934604748affc46d89d6deafc" allowfullscreen></iframe>
                                 <div class="caption">
-                                    <h3><a href="https://www.youtube.com/watch?v=OqUx7HMd4zY" target="_blank">WiC Students on Good Day Rochester</a></h3>
-                                    <p>WUHF-TV features students from Women in Computing at RIT. </p>
+                                    <h3><a href="https://13wham.com/news/local/all-girl-hackathon-at-rit-highlights-growing-interest-of-coding-among-women" target="_blank">WiCHacks 2018 on WHAM-13</a></h3>
+                                    <p>All-Girl Hackathon at RIT highlights growing interest of coding among women</p>
                                 </div>
                             </div>
                         </li>
