@@ -10,7 +10,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li>About</li>
+                        <li>Committees</li>
                         <li class="active">Projects</li>
                     </ol>                    
                 </div>
@@ -96,15 +96,12 @@
                 </section>
                 <aside class="sidebar col-sm-3">
                     <div class="widget">
-                        <h4>ABOUT</h4>
+                        <h4>COMMITTEES</h4>
                         <ul>
-                            <li><a href="mission.php" title="">Mission</a></li>
-                            <li><a href="faq.php" title="">FAQ</a></li>
-                            <li><a href="committees.php" title="Committees">Committees</a></li>
-                            <li><a href="allies.php" title="Allies">Allies</a></li>
+                            <li><a href="committees.php" title="Committees">Committee Heads</a></li>
                             <li class="current"><a href="projects.php" title="Projects">Projects</a></li>
-                            <li><a href="alumni.php" title="Alumni">Alumni</a></li>
-                            <li><a href="Resources.php" title="">Resources</a></li>
+                            <li><a href="allies.php" title="Allies">Allies</a></li>
+                            <li><a href="outreach.php" title="Alumni">Outreach</a></li>
                             <div id="projgit" class="empty-space"><a href="https://github.com/women-in-computing-at-rit" target="_blank"> <i class="fa fa-github fa-4x" aria-hidden="true"></i></a></div>
                         </ul>
                     </div>

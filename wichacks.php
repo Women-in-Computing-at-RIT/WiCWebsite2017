@@ -22,7 +22,7 @@
                 <section class="page col-sm-9">
                     <h2 class="page-title"><img id="wichackslogoheader" src="img/wichackslogol.png" alt="wichacks logo"/></h2>
                     <div class="entry">
-                        <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants are female college students.</p>
+                        <p>WiCHacks is a collaborative programming event in which participants create an app, website, game, or other piece of software over the course of the event. Hackathon participants are female and nonbinary college students.</p>
                         
                         <h3><a href="https://wichacks.io/"><img id="wichackslogo" src="img/wichackslogos.png" alt="wichacks logo"/></a> Learn more at <a href="https://wichacks.io/">wichacks.io</a></h3>
                            
@@ -37,10 +37,10 @@
                     <div class="widget">
                         <h4>EVENTS</h4>
                         <ul>
+                            <li><a href="afterhours.php" title="">After Hours</a></li>
                             <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li class="current"><a href="#" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
-                            <li><a href="outreach.php" title="">Outreach</a></li>
                             <li><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>

@@ -76,23 +76,23 @@
 	        </div>
         </div>
         
-<!--
+
         <div class="alertwic">
-            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
-             <a href="/afterhours.php">
-                 <strong >Registration for the After Hours Program is now open!</strong> <u>Click here</u> to learn more!
+            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">x</span>
+             <a href="/statement.php">
+                 <strong >A statement from WiC about these unprecedented times</strong>
              </a>
         </div>
--->
 
-<!--
-        <div class="alertwic">
+
+
+        <!--<div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
              <a href="https://wichacks.io">
                  <strong >Registration for WiCHacks is now open! </strong> <u>Click here</u> to apply!
              </a>
-        </div>
--->
+        </div>-->
+
 
 <!--        <div class="alertcyber">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
@@ -116,31 +116,42 @@
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav main-navbar-nav">
                         <li <?php if($title=="Home"){echo "class='active'";} ?> ><a href="<?php echo $level ?>index.php" title="">HOME</a></li>
-                        <li class="dropdown <?php if(($title=="Mission") || ($title=="FAQ")|| ($title=="Committes") || ($title=="Allies") || ($title=="Projects") || ($title=="Alumni")|| ($title=="Resources")){echo "active";} ?>">
+                        <li class="dropdown <?php if(($title=="Mission") || ($title=="FAQ") || ($title=="Alumni") || ($title=="Scholarships") || ($title=="Tutoring")){echo "active";} ?>">
                             <a href="<?php echo $level ?>mission.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="<?php echo $level ?>mission.php" title="">MISSION</a></li>
                                 <li><a href="<?php echo $level ?>faq.php" title="">FAQ</a></li>
-                                <li><a href="<?php echo $level ?>committees.php" title="">COMMITTEES</a></li>
-                                <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
-                                <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
+                                <!--<li><a href="<?php echo $level ?>committees.php" title="">COMMITTEES</a></li>-->
+                                <!--<li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>-->
+                                <!--<li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>-->
                                 <li><a href="<?php echo $level ?>alumni.php" title="">ALUMNI</a></li>
-                                <li><a href="<?php echo $level ?>Resources.php" title="">RESOURCES</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks") || ($title=="Outreach")){echo "active";} ?>">
-                            <a href="<?php echo $level ?>events.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?php echo $level ?>events.php" title="">UPCOMING CALENDAR</a></li>
-                                <li><a href="<?php echo $level ?>wichacks.php" title="">WICHACKS</a></li>
-                                <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
-                                <li><a href="<?php echo $level ?>outreach.php" title="">OUTREACH</a></li>
-                                <li><a href="<?php echo $level ?>news.php" title="">IN THE NEWS</a></li>
+                                <li><a href="<?php echo $level ?>scholarships.php" title="">SCHOLARSHIPS</a></li>
                                 <li><a href="<?php echo $level ?>tutoring.php" title="">TUTORING</a></li>
                             </ul>
                         </li>
-                        <li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>
-                        <li <?php if($title=="Student Stories"){echo "class='active'";} ?>><a href="<?php echo $level ?>studentstories.php" title="">STUDENT STORIES</a></li>
+                        <li class="dropdown  <?php if(($title=="Events") || ($title=="Annual Events") || ($title=="WiCHacks") || ($title=="In The News") || ($title=="After Hours")){echo "active";} ?>">
+                            <a href="<?php echo $level ?>events.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>
+                                <li><a href="<?php echo $level ?>events.php" title="">UPCOMING CALENDAR</a></li>
+                                <li><a href="<?php echo $level ?>wichacks.php" title="">WICHACKS</a></li>
+                                <li><a href="<?php echo $level ?>annual_events.php" title="">ANNUAL EVENTS</a></li>
+                                <li><a href="<?php echo $level ?>news.php" title="">IN THE NEWS</a></li>
+                                <!--<li><a href="<?php echo $level ?>tutoring.php" title="">TUTORING</a></li>-->
+                            </ul>
+                        </li>
+                        <li class="dropdown  <?php if(($title=="Committees") || ($title=="Projects") || ($title=="Allies") || ($title=="Outreach")){echo "active";} ?>">
+                            <a href="<?php echo $level ?>events.php" title="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">COMMITTEES<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="<?php echo $level ?>committees.php" title="">COMMITTEE HEADS</a></li>
+                                <li><a href="<?php echo $level ?>projects.php" title="">PROJECTS</a></li>
+                                <li><a href="<?php echo $level ?>allies.php" title="">ALLIES</a></li>
+                                <li><a href="<?php echo $level ?>outreach.php" title="">OUTREACH</a></li>
+                                <!--<li><a href="<?php echo $level ?>tutoring.php" title="">TUTORING</a></li>-->
+                            </ul>
+                        </li>
+                        <!--<li <?php if($title=="After Hours"){echo "class='active'";} ?>><a href="<?php echo $level ?>afterhours.php" title="">AFTER HOURS</a></li>-->
+                        <!--<li <?php if($title=="Student Stories"){echo "class='active'";} ?>><a href="<?php echo $level ?>studentstories.php" title="">STUDENT STORIES</a></li>-->
                         <li <?php if($title=="Blog"){echo "class='active'";} ?>><a href="<?php echo $level ?>blog.php" title="">BLOG</a></li>
                         <li <?php if($title=="Sponsor"){echo "class='active'";} ?>><a href="<?php echo $level ?>sponsor.php" title="">SPONSOR</a></li>
                         <li <?php if($title=="Contact Us"){echo "class='active'";} ?>><a href="<?php echo $level ?>contact.php" title="">CONTACT US</a></li>

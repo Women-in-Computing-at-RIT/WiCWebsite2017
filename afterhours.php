@@ -9,6 +9,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
+                        <li>Events</li>
                         <li class="active">After Hours</li>
                     </ol>                    
                 </div>
@@ -63,11 +64,13 @@
                             </a>
                           </div>
                         
-                        
-                        <h3>Program Dates: TBA</h3>
+                        <h3>UPDATE: 2020 After Hours Program is canceled. </h3>
+                        <!--<h3>Program Dates: March 28 or April 4, 2020</h3>-->
+                        <!--<h3>Apply <a target="_blank" href="http://bit.ly/2020AfterHoursInvite">here</a>!</h3>-->
 
 
-                        <p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted
+
+                        <br><p>The Women in Computing (WiC) After Hours Program is an overnight program for women accepted
                             into the B. Thomas Golisano College of Computing. This free program is an opportunity to experience
                             first-hand campus life at RIT that a typical tour can’t provide. It is organized and hosted by Women
                             in Computing students and in conjunction with the RIT Admission’s Office. It is a great opportunity
@@ -88,8 +91,8 @@
                         <div class="widget">
                             <h4 class="page-title">INFORMATION</h4>
                             <ul>
-                                <li><a target="_blank" href="pdfs/2019-FAQ-WiC%20Overnight.pdf">Frequently Asked Questions</a></li>
-                                <li><a target="_blank" href="pdfs/Tentative_Schedule.pdf">Tentative Schedule</a></li>
+                                <li><a target="_blank" href="pdfs/2020FAQWiCOvernight.pdf">Frequently Asked Questions</a></li>
+                                <li><a target="_blank" href="pdfs/Tentative_Schedule20.pdf">Tentative Schedule</a></li>
                                 <li><a target="_blank" href="pdfs/PackingList.pdf">Packing List</a></li>
                                 <li><a target="_blank" href="https://maps.rit.edu/">Campus Map</a></li>
                                 <li><img src="img/afterhours/afterhourslogo.png" alt="After Hours Logo" width="100%" style="padding-top:20px;padding-bottom:20px"/></li>

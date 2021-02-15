@@ -8,7 +8,7 @@ Dakota Sorenson '20
 
 Maintained:
 Jessi Miller '23
-
+Amy Tan '23
 
 -->
 <?php $title="Home";$level="";?>
@@ -23,7 +23,7 @@ Jessi Miller '23
                     <div class="row">
                         <div class="col-sm-12" id="intro">
                             <h1>Women in Computing at RIT</h1>
-                            <h2>Dedicated to promoting the success and advancement of women in their academic and professional careers</h2>
+                            <h2>Dedicated to promoting the success and advancement of women and all gender minorities in their academic and professional careers</h2>
                         </div>
                     </div>
                 </div>
@@ -88,12 +88,17 @@ Jessi Miller '23
                                     <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
+                                    <li>Mon • 7-8pm</li>
+                                <ul>
+                                    <li>Tue • 7-8pm</li>
+                                </ul>
+                                <b>Projects Committee:</b>
                                 <ul>
                                     <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Tue • 6-7pm</li>
+                                    <li></li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -104,15 +109,57 @@ Jessi Miller '23
                             <div id="general-event">
                                 <b></b>
                                 <br>
-
                             </div>
+
+                            <b>Apply to be a Mentor/Mentee</b>
+                            <ul>
+                                <li>Mentor: <a href="http://bit.ly/WiCMentor" target="_blank">bit.ly/WiCMentor</a> </li>
+                                <li>Mentee: <a href="https://bit.ly/WiCMenteeFall2020" target="_blank">bit.ly/WiCMenteeFall2020</a> </li>
+                            </ul>
+
+                            <b>Allies Movie Night: Coco</b>
+                            <ul>
+                                <li>Fri. 10/30</li>
+                                <li>RSVP: <a href="https://bit.ly/AlliesMovieNights" target="_blank">bit.ly/AlliesMovieNights</a> </li>
+                            </ul>
+
+                            <b>Allies Open Mic</b>
+                            <ul>
+                                <li>Fri. 10/23</li>
+                                <li>RSVP: <a href="http://bit.ly/AlliesOpenMic" target="_blank">bit.ly/AlliesOpenMic</a> </li>
+                            </ul>
+
+                            <b>WiC AlumniConnect</b>
+                            <ul>
+                                <li>RSVP: <a href="http://bit.ly/WiCAlumniConnect" target="_blank">bit.ly/WiCAlumniConnect</a> </li>
+                            </ul>
+
+                            <b>Outreach Volunteering</b>
+                            <ul>
+                                <li>Apply: <a href="http://bit.ly/VolunteerMyCoursesWS" target="_blank">bit.ly/VolunteerMyCoursesWS</a> </li>
+                            </ul>
+
+
+
+
+
+
+
                             <!--Example Event Do Not Delete -->
                             <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            
+
+
+                            <!--<b>IBM Cyber Day for Girls</b>
+                            <ul>
+                                <li>Sat. 11/23 • 8:30am - 3pm</li>
+                                <li>Volunteer: <a href="https://bit.ly/IBMVolunteering" target="_blank">http://bit.ly/IBMVolunteering</a> </li>
+                            </ul>-->
+
+
 
 
                             <i class="fa fa-calendar"></i>
@@ -121,6 +168,10 @@ Jessi Miller '23
                     <div class="col-sm-4">
                         <div class="box">
                             <h3>FEATURED NEWS</h3>
+                            <p>
+                                <a target="_blank" href="https://13wham.com/news/local/largest-all-girl-hackathon-held-in-rochester">
+                                    <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">WHAM-TV</span> | Largest all-girl hackathon held in Rochester</a>
+                            </p>
                             <p>
                                 <a target="_blank" href="https://www.youtube.com/watch?v=jJ2dh-cWD78&feature=youtu.be">
                                     <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | 2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a>

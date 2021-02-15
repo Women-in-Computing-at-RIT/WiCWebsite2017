@@ -25,6 +25,25 @@
                     <h2 class="page-title">IN THE NEWS</h2>
                     <div id="accordion">
                         <div class="card">
+
+                            <div class="card">
+                                <div class="card-header" id="headingFive" data-toggle="collapse" data-target="#collapseFive">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" aria-expanded="false" aria-controls="collapseFive">
+                                            2020
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapseFive" class="collapse in" aria-labelledby="headingFive" data-parent="#accordion">
+                                    <div class="card-body">
+                                        <!--<p>
+                                            <a target="_blank" href="https://13wham.com/news/local/largest-all-girl-hackathon-held-in-rochester">
+                                                <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">WHAM-TV</span> | Largest all-girl hackathon held in Rochester</a>
+                                        </p>-->
+                                    </div>
+                                </div>
+                            </div>
+
                             <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour">
                                 <h5 class="mb-0">
                                     <button class="btn btn-link collapsed" aria-expanded="false" aria-controls="collapseFour">
@@ -32,8 +51,12 @@
                                     </button>
                                 </h5>
                             </div>
-                            <div id="collapseFour" class="collapse in" aria-labelledby="headingFour" data-parent="#accordion">
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                                 <div class="card-body">
+                                    <p>
+                                        <a target="_blank" href="https://13wham.com/news/local/largest-all-girl-hackathon-held-in-rochester">
+                                            <i class="fa fa-newspaper-o newsicon" aria-hidden="true"></i><span class="news-head">WHAM-TV</span> | Largest all-girl hackathon held in Rochester</a>
+                                    </p>
                                     <p>
                                         <a target="_blank" href="https://www.youtube.com/watch?v=jJ2dh-cWD78&feature=youtu.be">
                                             <i class="fa fa-video-camera newsicon" aria-hidden="true"></i><span class="news-head">WiC on TV</span> | 2019 GCCIS Distinguished Alumna: Alice Jo Lichtman MS ’79</a>
@@ -49,6 +72,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="card">
                             <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo">
                                 <h5 class="mb-0">
@@ -161,10 +185,10 @@
                     <div class="widget">
                         <h4>EVENTS</h4>
                         <ul>
+                            <li><a href="afterhours.php" title="">After Hours</a></li>
                             <li><a href="events.php" title="">Upcoming Calendar</a></li>
                             <li><a href="wichacks.php" title="">WiCHacks</a></li>
                             <li><a href="annual_events.php" title="">Annual Events</a></li>
-                            <li><a href="outreach.php" title="">Outreach</a></li>
                             <li class="current"><a href="news.php" title="">In The News</a></li>
                         </ul>
                     </div>

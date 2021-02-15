@@ -27,10 +27,10 @@
                     <p><a href="https://ghc.anitab.org/" target="_blank">Click here to learn more on their website.</a></p><br><br>
                     
                     <h2 class="category-title">WiC AT THE GRACE HOPPER CONFERENCE</h2>
-                    <p>Last year in 2018, WiC sent 29 of its active members to the conference in Houston, TX. They were very successful, with a total of 75 interviews and 16 offers!  Applications to attend next year's conference open in the spring.</p><br>
+                    <p>In October of 2019, WiC sent 25 of its active members to the conference in Orlando, FL. They were very successful, with a total of over 50 interviews and 25 offers! Applications to attend next year's conference open in the spring.</p><br>
                     
                     <video id="GHCVideo" width="75%" height="auto" controls controlsList="nodownload">
-                        <source src="img/annualevents/WiC GHC 2018.mp4" type="video/mp4">
+                        <source src="img/annualevents/gch.mp4" type="video/mp4">
                             Your browser does not support this video.
                     </video>
                 </section>

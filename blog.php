@@ -28,7 +28,9 @@
                 <div class="widget">
                     <h4>ARCHIVE</h4>
                     <ul id="archive">
-                        <li class="current" onclick="getPosts('Fall 2019'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2019</a></li>
+                        <li class="current" onclick="getPosts('Fall 2020'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2020</a></li>
+                        <li onclick="getPosts('Fall 2019'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2019</a></li>
+                        <li onclick="getPosts('Spring 2020'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2020</a></li>
                         <li onclick="getPosts('Spring 2019'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2019</a></li>
                         <li onclick="getPosts('Fall 2018'); makeCurrent(this);"><a href="javascript:;" title="">Fall 2018</a></li>
                         <li onclick="getPosts('Spring 2018'); makeCurrent(this);"><a href="javascript:;" title="">Spring 2018</a></li>
@@ -105,6 +107,8 @@
             bigString += "<div class=\"arc-comment\"><i class=\"fa fa-graduation-cap\"></i> Alumni Talk</div>";
         }else if(data.category == "event"){
             bigString += "<div class=\"arc-comment\"><i class=\"fa fa-calendar-o\"></i> WiC Event</div>";
+        }else if(data.category == "member"){
+            bigString += "<div class=\"arc-comment\"><i class=\"fa fa-user\"></i> Member Highlight</div>";
         }
         bigString += "<div class=\"arc-date\">"+ data.date +"</div>";
         bigString += " </div> <div class=\"pull-right\"> <ul class=\"arc-share\">";
@@ -115,6 +119,6 @@
 
     }
 
-    window.onload = getPosts("Fall 2019"); //CHANGE THIS EVERY SEMESTER
+    window.onload = getPosts("Fall 2020"); //CHANGE THIS EVERY SEMESTER
 
 </script>
