@@ -88,12 +88,17 @@ Amy Tan '23
                                     <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
+                                    <li>Mon • 7-8pm</li>
                                 <ul>
                                     <li>Tue • 7-8pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li><a href="https://www.when2meet.com/?10787797-Z6LLx">https://www.when2meet.com/?10787797-Z6LLx</a></li>
+                                    <li>Mon • 8-9pm</li>
+                                </ul>
+                                <b>Projects Committee:</b>
+                                <ul>
+                                    <li>Tue • 6-7pm</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -146,6 +151,7 @@ Amy Tan '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
+
 
                             <!--<b>IBM Cyber Day for Girls</b>
                             <ul>
