@@ -69,31 +69,31 @@ Amy Tan '23
                             <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
-                                    <li>Wed • 6:30pm • GOL-2400</li>
+                                    <li>Wed • 6:30pm • Zoom</li>
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Thurs • 3:00pm • GOL-1688</li>
+                                    <li><a href="http://bit.ly/WiCEvents2021">http://bit.ly/WiCEvents2021</a></li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Mon • 4:00pm • GOL-1610</li>
+                                    <li>Thurs • 8-9pm</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:30pm • GOL-2500</li>
+                                    <li>Mon • 7-8pm</li>
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Thurs • 6:00pm • GOL-2590</li>
+                                    <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Mon • 8:00pm • GOL-2455</li>
+                                    <li>Tue • 7-8pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Tue • 5:00pm • GOL-2400</li>
+                                    <li><a href="https://www.when2meet.com/?10787797-Z6LLx">https://www.when2meet.com/?10787797-Z6LLx</a></li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -102,26 +102,59 @@ Amy Tan '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>No Meeting Next Week</b>
-                                <br>Good luck on your finals!
-
+                                <b>General Meeting: Game Night</b>
+                                <br>Wed • 11/18 • 6:30pm
+                                <br><a href="https://rit.zoom.us/j/98576082755">https://rit.zoom.us/j/98576082755</a>
                             </div>
+
+                            <b>Apply to be a Mentor/Mentee</b>
+                            <ul>
+                                <li>Mentor: <a href="http://bit.ly/WiCMentor" target="_blank">bit.ly/WiCMentor</a> </li>
+                                <li>Mentee: <a href="https://bit.ly/WiCMenteeFall2020" target="_blank">bit.ly/WiCMenteeFall2020</a> </li>
+                            </ul>
+
+                            <b>Allies Movie Night: Coco</b>
+                            <ul>
+                                <li>Fri. 10/30</li>
+                                <li>RSVP: <a href="https://bit.ly/AlliesMovieNights" target="_blank">bit.ly/AlliesMovieNights</a> </li>
+                            </ul>
+
+                            <b>Allies Open Mic</b>
+                            <ul>
+                                <li>Fri. 10/23</li>
+                                <li>RSVP: <a href="http://bit.ly/AlliesOpenMic" target="_blank">bit.ly/AlliesOpenMic</a> </li>
+                            </ul>
+
+                            <b>WiC AlumniConnect</b>
+                            <ul>
+                                <li>RSVP: <a href="http://bit.ly/WiCAlumniConnect" target="_blank">bit.ly/WiCAlumniConnect</a> </li>
+                            </ul>
+
+                            <b>Outreach Volunteering</b>
+                            <ul>
+                                <li>Apply: <a href="http://bit.ly/VolunteerMyCoursesWS" target="_blank">bit.ly/VolunteerMyCoursesWS</a> </li>
+                            </ul>
+
+
+
+
+
+
+
                             <!--Example Event Do Not Delete -->
                             <!--<b>Powers Farm Market (Fall Activities)</b>
                             <ul>
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
+
                             <!--<b>IBM Cyber Day for Girls</b>
                             <ul>
                                 <li>Sat. 11/23 • 8:30am - 3pm</li>
                                 <li>Volunteer: <a href="https://bit.ly/IBMVolunteering" target="_blank">http://bit.ly/IBMVolunteering</a> </li>
                             </ul>-->
-                            <b>Teach and Volunteer for Mobile Tech Van:</b>
-                            <ul>
-                                <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
-                            </ul>
-                            <b></b>
+
+
 
 
                             <i class="fa fa-calendar"></i>
