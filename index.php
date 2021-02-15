@@ -98,7 +98,7 @@ Amy Tan '23
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Tue • 6-7pm</li>
+                                    <li></li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
