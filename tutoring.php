@@ -25,9 +25,10 @@ $level="";?>
                 <div class="row">
                     <section>
                         <div class="tutor_container">
-                        <img class="tutor_img" src="img/tutoring/meghanTutor.png">
-                        <img class="tutor_img" src="img/tutoring/jackieTutor.png">
+                        <img class="tutor_img" src="img/tutoring/jackie_tutor2020.jpg">
+                            <img class="tutor_img" src="img/tutoring/sam_tutor2020.jpg">
                         </div>
+
                     </section>
 
                 </div>

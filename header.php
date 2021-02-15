@@ -76,22 +76,22 @@
 	        </div>
         </div>
         
-<!--
+
         <div class="alertwic">
-            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
-             <a href="/afterhours.php">
-                 <strong >Registration for the After Hours Program is now open!</strong> <u>Click here</u> to learn more!
+            <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">x</span>
+             <a href="/statement.php">
+                 <strong >A statement from WiC about these unprecedented times</strong>
              </a>
         </div>
--->
 
 
-        <div class="alertwic">
+
+        <!--<div class="alertwic">
             <span class="closebtn" onclick="this.parentElement.style.display='none';setCookie('wicalert', 'true', 1);">&times;</span>
              <a href="https://wichacks.io">
                  <strong >Registration for WiCHacks is now open! </strong> <u>Click here</u> to apply!
              </a>
-        </div>
+        </div>-->
 
 
 <!--        <div class="alertcyber">

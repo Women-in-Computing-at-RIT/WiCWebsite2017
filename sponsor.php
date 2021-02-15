@@ -54,23 +54,26 @@
                             <li>Want to get involved with Women in Computing? Send us a message over on our <a target="_black" href="contact.php">Contact Page</a>.</li>
                             <li>Want to sponsor WiCHacks? Read more on the <a target="_black" href="https://wichacks.io/#sponsor">WiCHacks Website</a></li>
                         </ul>
-                        <button onclick="window.location.href='https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&dids=586'" type="button" class="btn btn-primary afterhours-btn" style="width: 200px">Make a Gift</button>
+                        <button onclick="window.location.href='https://tigers.rit.edu/site/SPageNavigator/RIT_donate.html?designations=2247'" type="button" class="btn btn-primary afterhours-btn" style="width: 200px">Make a Gift</button>
 
                     </div>
 
                     <br><br>
 
-                    <h2 class="page-title">BLOGS ABOUT PAST VISITORS</h2>
+                    <h2 class="page-title">RECENT BLOGS ABOUT PAST VISITORS</h2>
                     <div class="entry">
 
                         <ul>
-                            <li><a href="/post.php?id=18">Microsoft</a></li>
+                            <!--<li><a href="/post.php?id=18">Microsoft</a></li>
                             <li><a href="/post.php?id=13">State Street</a></li>
                             <li><a href="/post.php?id=8">HubSpot</a></li>
                             <li><a href="/post.php?id=0">Department of State</a></li>
                             <li><a href="/post.php?id=2">WillowTree Apps</a></li>
                             <li><a href="/post.php?id=3">CoreOS</a></li>
-                            <li><a href="/post.php?id=4">Ernst and Young</a></li>
+                            <li><a href="/post.php?id=4">Ernst and Young</a></li>-->
+                            <li><a href="/post.php?id=39">Datadog</a></li>
+                            <li><a href="/post.php?id=40">Liberty Mutual</a></li>
+                            <li><a href="/post.php?id=42">Systems & Technology Research</a></li>
                         </ul>
 
                     </div>
