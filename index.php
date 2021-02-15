@@ -88,13 +88,12 @@ Amy Tan '23
                                     <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
-                                    <li>Mon • 7-8pm</li>
                                 <ul>
-                                    <li>Tue • 7-8pm</li>
+                                    <li>Mon • 7-8pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Mon • 8-9pm</li>
+                                    <li>Tues • 6-7pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
