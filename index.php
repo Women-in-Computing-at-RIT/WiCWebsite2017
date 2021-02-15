@@ -85,7 +85,7 @@ Jessi Miller '23
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
-                                    <li>Thurs • 6:00pm • GOL-2590</li>
+                                    <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
