@@ -73,7 +73,7 @@ Amy Tan '23
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li><a href="http://bit.ly/WiCEvents2021">http://bit.ly/WiCEvents2021</a></li>
+                                    <li>Sun • 4-5pm</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
@@ -102,9 +102,8 @@ Amy Tan '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>General Meeting: Game Night</b>
-                                <br>Wed • 11/18 • 6:30pm
-                                <br><a href="https://rit.zoom.us/j/98576082755">https://rit.zoom.us/j/98576082755</a>
+                                <b></b>
+                                <br>
                             </div>
 
                             <b>Apply to be a Mentor/Mentee</b>
