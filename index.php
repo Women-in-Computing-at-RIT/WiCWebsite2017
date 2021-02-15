@@ -73,15 +73,15 @@ Jessi Miller '23
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
-                                    <li>Thurs • 3:00pm • GOL-1688</li>
+                                    <li>Sun • 4-5pm</li>
                                 </ul>
                                 <b>Outreach Committee:</b>
                                 <ul>
-                                    <li>Mon • 4:00pm • GOL-1610</li>
+                                    <li>Thurs • 8-9pm</li>
                                 </ul>
                                 <b>Public Relations Committee:</b>
                                 <ul>
-                                    <li>Mon • 6:30pm • GOL-2500</li>
+                                    <li>Mon • 7-8pm</li>
                                 </ul>
                                 <b>Allies Committee:</b>
                                 <ul>
@@ -89,11 +89,11 @@ Jessi Miller '23
                                 </ul>
                                 <b>WiCHacks Committee:</b>
                                 <ul>
-                                    <li>Mon • 8:00pm • GOL-2500</li>
+                                    <li>Mon • 8-9pm</li>
                                 </ul>
                                 <b>Projects Committee:</b>
                                 <ul>
-                                    <li>Tue • 5:00pm • GOL-2400</li>
+                                    <li>Tue • 6-7pm</li>
                                 </ul>
                             <i class="fa fa-clock-o"></i>
                         </div>
@@ -102,8 +102,8 @@ Jessi Miller '23
                         <div class="box" id="meetingtimes">
                             <h3>UPCOMING EVENTS</h3>
                             <div id="general-event">
-                                <b>Next General Meeting (11/6):</b>
-                                <br>Bob Ross Paint Night
+                                <b></b>
+                                <br>
 
                             </div>
                             <!--Example Event Do Not Delete -->
@@ -112,20 +112,7 @@ Jessi Miller '23
                                 <li>Sat. 10/27 • 1pm • GOL Atrium for carpool</li>
                                 <li>RSVP: <a href="https://bit.ly/PowersMarket2018" target="_blank">bit.ly/PowersMarket2018</a> </li>
                             </ul>-->
-                            <b>ROC Girl Hacks</b>
-                            <ul>
-                                <li>Sat. 11/16 • 9am - 7pm</li>
-                                <li>Volunteer: <a href="https://bit.ly/ROCGirlHacksVolunteer2019" target="_blank">bit.ly/ROCGirlHacksVolunteer2019</a> </li>
-                            </ul>
-                            <b>IBM Cyber Day for Girls</b>
-                            <ul>
-                                <li>Sat. 11/23 • 8:30am - 3pm</li>
-                                <li>Volunteer: <a href="https://bit.ly/IBMCyberGirlsDayVolunteer19" target="_blank">bit.ly/IBMCyberGirlsDayVolunteer19</a> </li>
-                            </ul>
-                            <b>Teach and Volunteer for Mobile Tech Van:</b>
-                            <ul>
-                                <li>Volunteer: <a href="https://bit.ly/Afterschoolteacherapplication" target="_blank">bit.ly/Afterschoolteacherapplication</a> </li>
-                            </ul>
+                            
 
 
                             <i class="fa fa-calendar"></i>
