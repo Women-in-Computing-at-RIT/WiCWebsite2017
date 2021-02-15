@@ -69,7 +69,7 @@ Jessi Miller '23
                             <h3>FALL  MEETING TIMES</h3>
                                 <b>General Meeting:</b>
                                 <ul>
-                                    <li>Wed • 6:30pm • GOL-2400</li>
+                                    <li>Wed • 6:30pm • Zoom</li>
                                 </ul>
                                 <b>Events Committee:</b>
                                 <ul>
